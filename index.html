@@ -309,7 +309,8 @@ button {
     <div class="header-controls">
         <button class="lang-toggle active" onclick="setLanguage('en')" id="btn-en">EN</button>
         <button class="lang-toggle" onclick="setLanguage('es')" id="btn-es">ES</button>
-        <button class="lang-toggle" onclick="clearAppCache()" id="btn-cache" title="Clear cache if app is not loading correctly">🔄 Clear Cache</button>
+        <button class="lang-toggle" onclick="clearAppCache()" id="btn-cache">🔄 Cache</button>
+        <button class="lang-toggle" onclick="promptApiKey()" id="btn-api">🔑 API Key</button>
     </div>
 </div>
 
@@ -424,6 +425,20 @@ const translations = {
 // FIX: Assign to window so all scripts can access it
 window.currentLang = 'en';
 
+function clearAppCache() {
+    if ('serviceWorker' in navigator) {
+        caches.keys().then(keys => {
+            Promise.all(keys.map(k => caches.delete(k))).then(() => {
+                navigator.serviceWorker.getRegistrations().then(regs => {
+                    regs.forEach(r => r.unregister());
+                    alert(window.currentLang === 'es' ? 'Caché limpiado. Recargando...' : 'Cache cleared. Reloading...');
+                    window.location.reload(true);
+                });
+            });
+        });
+    } else { window.location.reload(true); }
+}
+
 function setLanguage(lang) {
     // FIX: Always update window.currentLang
     window.currentLang = lang;
@@ -457,22 +472,6 @@ function updateSelectOptions(lang) {
             select.options[0].textContent = translations[lang][keys[index]];
         }
     });
-}
-
-function clearAppCache() {
-    if ('serviceWorker' in navigator) {
-        caches.keys().then(keys => {
-            Promise.all(keys.map(k => caches.delete(k))).then(() => {
-                navigator.serviceWorker.getRegistrations().then(regs => {
-                    regs.forEach(r => r.unregister());
-                    alert(window.currentLang === 'es' ? 'Caché limpiado. Recargando...' : 'Cache cleared. Reloading...');
-                    window.location.reload(true);
-                });
-            });
-        });
-    } else {
-        window.location.reload(true);
-    }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
