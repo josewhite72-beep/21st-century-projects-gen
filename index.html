@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>C21 Projects Agent v2</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#667eea">
+
+<!-- FIX: Load libraries from LOCAL files — no CDN needed -->
+<script src="js/vendor/docx.umd.js"></script>
+<script src="js/vendor/FileSaver.js"></script>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #667eea;
+    --primary-dark: #764ba2;
+    --secondary: #667eea;
+    --accent: #48bb78;
+    --accent-hover: #38a169;
+    --warning: #ed8936;
+    --bg: #f0f4ff;
+    --card: #ffffff;
+    --text: #2d3748;
+    --text-light: #718096;
+    --border: #e2e8f0;
+    --shadow: 0 8px 32px rgba(102, 126, 234, 0.15);
+    --shadow-lg: 0 12px 40px rgba(118, 75, 162, 0.2);
+}
+
+body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-attachment: fixed;
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+.header {
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+    color: white;
+    padding: 2rem 1.5rem;
+    border-radius: 0 0 2rem 2rem;
+    box-shadow: var(--shadow-lg);
+    position: relative;
+    overflow: hidden;
+}
+
+.header::before {
+    content: '';
+    position: absolute;
+    right: -1rem;
+    top: -1rem;
+    font-size: 8rem;
+    opacity: 0.1;
+    transform: rotate(-15deg);
+}
+
+.header h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.header p {
+    opacity: 0.9;
+    font-size: 0.95rem;
+}
+
+.header-controls {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
+
+.lang-toggle, .mode-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(255,255,255,0.2);
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    font-size: 0.875rem;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: none;
+    color: white;
+}
+
+.lang-toggle:hover, .mode-toggle:hover {
+    background: rgba(255,255,255,0.3);
+}
+
+.lang-toggle.active {
+    background: rgba(255,255,255,0.4);
+    font-weight: 600;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1.5rem;
+}
+
+.card {
+    background: var(--card);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: var(--shadow);
+    margin-bottom: 1.5rem;
+    border: 1px solid var(--border);
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+}
+
+@media (min-width: 640px) {
+    .form-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+label::before {
+    content: '';
+    width: 4px;
+    height: 1rem;
+    background: var(--secondary);
+    border-radius: 2px;
+}
+
+select {
+    padding: 0.875rem 1rem;
+    border: 2px solid var(--border);
+    border-radius: 0.75rem;
+    font-size: 1rem;
+    background: white;
+    color: var(--text);
+    cursor: pointer;
+    transition: all 0.3s;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23718096' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 1.25rem;
+    padding-right: 2.5rem;
+}
+
+select:hover:not(:disabled) {
+    border-color: var(--secondary);
+}
+
+select:focus {
+    outline: none;
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
+}
+
+select:disabled {
+    background-color: #f7fafc;
+    color: var(--text-light);
+    cursor: not-allowed;
+}
+
+.button-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+}
+
+@media (min-width: 640px) {
+    .button-group {
+        flex-direction: row;
+    }
+}
+
+button {
+    padding: 1rem 1.5rem;
+    border: none;
+    border-radius: 0.75rem;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    flex: 1;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 4px 6px -1px rgba(102, 126, 234, 0.3);
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 12px -2px rgba(118, 75, 162, 0.4);
+}
+
+.btn-success {
+    background: linear-gradient(135deg, var(--accent) 0%, var(--accent-hover) 100%);
+    color: white;
+    box-shadow: 0 4px 6px -1px rgba(72, 187, 120, 0.3);
+}
+
+.btn-success:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 12px -2px rgba(72, 187, 120, 0.4);
+}
+
+.preview-card {
+    background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%);
+    border: 2px solid var(--border);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    margin-top: 1.5rem;
+    display: none;
+}
+
+.preview-card.visible {
+    display: block;
+}
+
+.preview-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border);
+}
+
+.preview-header h2 {
+    font-size: 1.25rem;
+    color: var(--primary-dark);
+    font-weight: 700;
+}
+
+.preview-content {
+    font-family: 'Courier New', monospace;
+    font-size: 0.95rem;
+    line-height: 1.8;
+    color: var(--text);
+    white-space: pre-wrap;
+}
+
+.timestamp {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px dashed var(--border);
+    color: var(--text-light);
+    font-size: 0.875rem;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 3rem 1.5rem;
+    color: var(--text-light);
+}
+
+@media (max-width: 640px) {
+    .header h1 {
+        font-size: 1.5rem;
+    }
+    
+    .card {
+        padding: 1.25rem;
+    }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Century 21 Projects Agent</h1>
+    <p data-i18n="subtitle">21st Century Project Generator</p>
+    <div class="header-controls">
+        <button class="lang-toggle active" onclick="setLanguage('en')" id="btn-en">EN</button>
+        <button class="lang-toggle" onclick="setLanguage('es')" id="btn-es">ES</button>
+        <button class="lang-toggle" onclick="clearAppCache()" id="btn-cache" title="Clear cache if app is not loading correctly">🔄 Clear Cache</button>
+    </div>
+</div>
+
+<div class="container">
+
+<div class="card">
+    <div class="form-grid">
+        <div class="form-group">
+            <label for="grade" data-i18n="grade">Grade</label>
+            <select id="grade" onchange="onGradeChange()">
+                <option value="" data-i18n="selectGrade">Select Grade</option>
+                <option value="pre_k">Pre-K</option>
+                <option value="kinder">Kinder</option>
+                <option value="1">Grade 1</option>
+                <option value="2">Grade 2</option>
+                <option value="3">Grade 3</option>
+                <option value="4">Grade 4</option>
+                <option value="5">Grade 5</option>
+                <option value="6">Grade 6</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="scenario" data-i18n="scenario">Scenario</label>
+            <select id="scenario" onchange="onScenarioChange()" disabled>
+                <option value="" data-i18n="selectScenario">Select Scenario</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="theme" data-i18n="theme">Theme</label>
+            <select id="theme" onchange="onThemeChange()" disabled>
+                <option value="" data-i18n="selectTheme">Select Theme</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="project" data-i18n="project">Project</label>
+            <select id="project" onchange="onProjectChange()" disabled>
+                <option value="" data-i18n="selectProject">Select Project</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="button-group">
+        <button class="btn-primary" onclick="generatePreview()">
+            <span data-i18n="generatePreview">Generate Preview</span>
+        </button>
+        <button class="btn-success" onclick="exportWord()">
+            <span data-i18n="exportWord">Export to Word</span>
+        </button>
+    </div>
+</div>
+
+<div class="preview-card" id="previewContainer">
+    <div class="preview-header">
+        <h2 data-i18n="previewTitle">Project Preview</h2>
+    </div>
+    <div class="preview-content" id="preview">
+        <div class="empty-state">
+            <p data-i18n="emptyState">Select a grade and scenario to generate preview</p>
+        </div>
+    </div>
+</div>
+
+</div>
+
+<!-- FIX: Scripts loaded in correct order, NO duplicate library loads -->
+<script src="js/engine.js"></script>
+<script src="js/validator.js"></script>
+<script src="js/cefrEngine.js"></script>
+<script src="js/steamEngine.js"></script>
+<script src="js/socialAgent.js"></script>
+<script src="js/rubricEngine.js"></script>
+<script src="js/exporter.js"></script>
+<script src="js/app.js"></script>
+
+<script>
+const translations = {
+    en: {
+        subtitle: "21st Century Project Generator",
+        grade: "Grade",
+        scenario: "Scenario",
+        theme: "Theme",
+        project: "Project",
+        selectGrade: "Select Grade",
+        selectScenario: "Select Scenario",
+        selectTheme: "Select Theme",
+        selectProject: "Select Project",
+        generatePreview: "Generate Preview",
+        exportWord: "Export to Word",
+        previewTitle: "Project Preview",
+        emptyState: "Select a grade and scenario to generate preview"
+    },
+    es: {
+        subtitle: "Generador de Proyectos del Siglo XXI",
+        grade: "Grado",
+        scenario: "Escenario",
+        theme: "Tema",
+        project: "Proyecto",
+        selectGrade: "Seleccionar Grado",
+        selectScenario: "Seleccionar Escenario",
+        selectTheme: "Seleccionar Tema",
+        selectProject: "Seleccionar Proyecto",
+        generatePreview: "Generar vista previa",
+        exportWord: "Exportar a Word",
+        previewTitle: "Vista Previa del Proyecto",
+        emptyState: "Selecciona un grado y escenario para generar la vista previa"
+    }
+};
+
+// FIX: Assign to window so all scripts can access it
+window.currentLang = 'en';
+
+function setLanguage(lang) {
+    // FIX: Always update window.currentLang
+    window.currentLang = lang;
+    document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+    document.getElementById('btn-es').classList.toggle('active', lang === 'es');
+    
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.getAttribute('data-i18n');
+        if (translations[lang][key]) {
+            el.textContent = translations[lang][key];
+        }
+    });
+    
+    updateSelectOptions(lang);
+}
+
+function updateSelectOptions(lang) {
+    const selects = {
+        grade: document.getElementById('grade'),
+        scenario: document.getElementById('scenario'),
+        theme: document.getElementById('theme'),
+        project: document.getElementById('project')
+    };
+    
+    const keys = ['selectGrade', 'selectScenario', 'selectTheme', 'selectProject'];
+    const ids = ['grade', 'scenario', 'theme', 'project'];
+    
+    ids.forEach((id, index) => {
+        const select = selects[id];
+        if (select && select.value === '') {
+            select.options[0].textContent = translations[lang][keys[index]];
+        }
+    });
+}
+
+function clearAppCache() {
+    if ('serviceWorker' in navigator) {
+        caches.keys().then(keys => {
+            Promise.all(keys.map(k => caches.delete(k))).then(() => {
+                navigator.serviceWorker.getRegistrations().then(regs => {
+                    regs.forEach(r => r.unregister());
+                    alert(window.currentLang === 'es' ? 'Caché limpiado. Recargando...' : 'Cache cleared. Reloading...');
+                    window.location.reload(true);
+                });
+            });
+        });
+    } else {
+        window.location.reload(true);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    setLanguage('en');
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,326 @@
+{
+  "grade": "Pre-K",
+  "proficiency_level": "Pre A1.1",
+  "scenarios": [
+    {
+      "scenario_number": 1,
+      "title": "Meeting New Friends",
+      "themes": ["Meeting My Friends", "Saying Please and Thank You"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize that people are speaking in English.",
+          "interactive": "Respond to basic greetings."
+        },
+        "reading": {
+          "reading": "Identify characters in a picture book.",
+          "phonemic_awareness": "Identify environmental sounds and speech sounds."
+        },
+        "speaking": {
+          "productive": "Use simple words and gestures to communicate.",
+          "interactive": "Respond to basic greetings."
+        },
+        "writing": {
+          "productive": "Scribble to communicate a message.",
+          "interactive": "Draw a symbol or image as a response to something."
+        },
+        "mediation": {
+          "text": "Mimic simple actions shown in picture books."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Subject + Verb (e.g., 'I am [name].')", "WH-questions (e.g., 'What is your name?')", "Yes/No Questions (e.g., 'Are you Mariana?')"],
+          "vocabulary": ["friend", "teacher", "name", "class", "say", "is", "play", "wave", "meet", "nice", "happy", "please", "hello", "goodbye", "thank you"],
+          "pronunciation": ["Syllable stress in 'friends' and 'goodbye'", "Initial /f/ in 'friend', /g/ in 'goodbye'", "Environmental sounds (e.g., voices saying 'hello')"]
+        },
+        "pragmatic": ["Exchanging greetings: 'hello' and 'goodbye'", "Using polite expressions: 'please' and 'thank you'"],
+        "sociolinguistic": ["Politeness in greetings: saying 'hello', 'goodbye', 'please', 'thank you'"]
+      },
+      "assessment_ideas": [
+        "Observe students’ responses to greetings and polite phrases.",
+        "Check if students can name a character who says 'please' or 'thank you'.",
+        "Assess drawings representing greetings or polite interactions."
+      ]
+    },
+    {
+      "scenario_number": 2,
+      "title": "Exploring Our Classroom",
+      "themes": ["Things in My Classroom", "Colors in My Classroom"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow very simple classroom instructions after observing a model.",
+          "interactive": "Engage in acting out and response activities."
+        },
+        "reading": {
+          "reading": "Participate in choral reading of familiar short stories with support.",
+          "phonemic_awareness": "Identify environmental sounds and speech sounds."
+        },
+        "speaking": {
+          "productive": "Name primary colors.",
+          "interactive": "Participate in a conversation with one or two simple interactions."
+        },
+        "writing": {
+          "productive": "Trace simple shapes and letters.",
+          "interactive": "Draw a symbol or image as a response to something."
+        },
+        "mediation": {
+          "communication": "Express feelings and basic needs using words and body language."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Yes/No questions (e.g., 'Is this your pencil?')", "Prepositions (e.g., 'The book is on the table.')", "WH-questions (e.g., 'What color is it?')"],
+          "vocabulary": ["pencil", "book", "chair", "desk", "crayon", "board", "table", "bag", "red", "blue", "yellow", "tall", "short", "on", "under", "in", "next to"],
+          "pronunciation": ["/p/ in 'pencil', /b/ in 'book'", "Initial sounds: /tʃ/ in 'chair', /ʃ/ in 'short'", "Environmental sounds: school bell, chairs moving"]
+        },
+        "pragmatic": ["Identifying classroom objects and colors", "Following directions (e.g., 'Pick up the book')"],
+        "sociolinguistic": ["Politeness: saying 'thank you' after receiving something"]
+      },
+      "assessment_ideas": [
+        "Observe color naming during object identification.",
+        "Check student participation in scavenger hunts or labeling activities.",
+        "Review drawings of classroom objects with color labels."
+      ]
+    },
+    {
+      "scenario_number": 3,
+      "title": "Me and My Family",
+      "themes": ["This Is Me!", "My Family"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize that people are speaking in English.",
+          "interactive": "Respond to cues in simple rhymes and songs."
+        },
+        "reading": {
+          "reading": "Identify characters in a picture book.",
+          "phonemic_awareness": "Identify environmental sounds and speech sounds."
+        },
+        "speaking": {
+          "productive": "Name elements of pictures.",
+          "interactive": "Answer basic questions about familiar stories using simple words and gestures."
+        },
+        "writing": {
+          "productive": "Trace simple shapes and letters.",
+          "interactive": "Draw a symbol or image as a response to something."
+        },
+        "mediation": {
+          "text": "Mimic simple actions shown in picture books."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Pronouns (e.g., 'I, you, he, she, it')", "WH-questions (e.g., 'Who is it?')", "Possessive adjectives (e.g., 'This is my mom.')"],
+          "vocabulary": ["mom", "dad", "brother", "sister", "baby", "family", "house", "dog", "cat", "live", "love", "play", "go", "see", "happy", "sad", "young", "old", "my", "your", "his", "her"],
+          "pronunciation": ["/p/ in 'play', /b/ in 'brother'", "Initial sounds: /m/ in 'mom', /s/ in 'sister'"]
+        },
+        "pragmatic": ["Naming family members", "Describing relationships"],
+        "sociolinguistic": ["Respecting family roles: using respectful terms like 'Mom and Dad'"]
+      },
+      "assessment_ideas": [
+        "Observe responses during family role-play.",
+        "Review labeled family drawings or digital family trees.",
+        "Check student ability to point to or name family members in pictures."
+      ]
+    },
+    {
+      "scenario_number": 4,
+      "title": "Let's Eat!",
+      "themes": ["I Love Fruit!", "I Eat Vegetables!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow very simple classroom instructions after observing a model.",
+          "interactive": "Respond to cues in simple rhymes and songs."
+        },
+        "reading": {
+          "reading": "Match pictures with simple written words with some help or guidance.",
+          "phonemic_awareness": "Identify environmental sounds and speech sounds."
+        },
+        "speaking": {
+          "productive": "Recite parts of simple nursery rhymes.",
+          "interactive": "Answer basic questions about familiar stories using simple words and gestures."
+        },
+        "writing": {
+          "productive": "Trace simple shapes and letters.",
+          "interactive": "Draw a symbol or image as a response to something."
+        },
+        "mediation": {
+          "communication": "Express feelings and basic needs using words and body language."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Subject + Verb (e.g., 'I like bananas.')", "WH-questions (e.g., 'What is this?')", "Adjectives (e.g., 'red apples')"],
+          "vocabulary": ["apple", "banana", "orange", "papaya", "carrot", "grape", "potato", "tomato", "lemon", "fruit", "vegetable", "eat", "like", "love", "smell", "taste", "red", "yellow", "orange", "sweet", "sour", "yummy", "hungry"],
+          "pronunciation": ["Initial /æ/ in 'apple', /b/ in 'banana'", "Final /t/ in 'fruit' and 'carrot'"]
+        },
+        "pragmatic": ["Expressing preferences: 'Do you like...?' → 'Yes/No'", "Identifying food items: 'What is this?' → 'apple'"],
+        "sociolinguistic": ["Politeness in sharing: saying 'please' and 'thank you' when sharing food"]
+      },
+      "assessment_ideas": [
+        "Observe food preference responses ('Do you like apples?').",
+        "Review fruit/vegetable collages with labels.",
+        "Assess gestures or facial expressions for likes/dislikes."
+      ]
+    },
+    {
+      "scenario_number": 5,
+      "title": "Numbers Around Me",
+      "themes": ["Let's Count to Five!", "How Many?"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize daily classroom vocabulary.",
+          "interactive": "Respond to cues in simple rhymes and songs."
+        },
+        "reading": {
+          "reading": "Match pictures with simple written words with some help or guidance.",
+          "phonemic_awareness": "Identify environmental sounds and speech sounds."
+        },
+        "speaking": {
+          "productive": "Count to five with support.",
+          "interactive": "Answer basic questions about familiar stories using simple words and gestures."
+        },
+        "writing": {
+          "productive": "Trace simple shapes and letters.",
+          "interactive": "Draw a symbol or image as a response to something."
+        },
+        "mediation": {
+          "concept": "Use gestures and simple drawings to support understanding."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Counting quantities (e.g., 'How many apples?')", "Simple phrases (e.g., 'two apples')", "Imperatives (e.g., 'Pick up two toys.')"],
+          "vocabulary": ["number", "ball", "car", "toy", "TV", "count", "find", "see", "play", "read", "pick up", "show", "big", "small", "red", "blue", "green", "one", "two", "three", "four", "five"],
+          "pronunciation": ["Initial /n/ in 'number', /b/ in 'ball'", "Final /s/ in 'books', /z/ in 'toys'"]
+        },
+        "pragmatic": ["Counting objects using fingers", "Confirming quantity: 'How many?' → 'Two apples!'"],
+        "sociolinguistic": ["Counting in social settings: during playtime with peers"]
+      },
+      "assessment_ideas": [
+        "Observe finger-counting during group activities.",
+        "Check matching of numbers to object groups (e.g., 'three apples').",
+        "Review number tracing or counting collages."
+      ]
+    },
+    {
+      "scenario_number": 6,
+      "title": "Fun with Letters",
+      "themes": ["The A-B-Cs", "Apple, Banana, Coconut"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize that people are speaking in English.",
+          "interactive": "Respond to cues in simple rhymes and songs."
+        },
+        "reading": {
+          "reading": "Participate in choral reading of familiar short stories with support.",
+          "phonemic_awareness": "Identify environmental sounds and speech sounds."
+        },
+        "speaking": {
+          "productive": "Name elements of pictures.",
+          "interactive": "Participate in a conversation with one or two simple interactions."
+        },
+        "writing": {
+          "productive": "Trace simple shapes and letters.",
+          "interactive": "Draw a symbol or image as a response to something."
+        },
+        "mediation": {
+          "concept": "Use gestures and simple drawings to support understanding."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Letters & words (e.g., 'A is for apple.')", "Present simple (e.g., 'This is a banana.')", "WH-Questions (e.g., 'What is this?')"],
+          "vocabulary": ["coconut", "ant", "bee", "cat", "ball", "bag", "car", "bird", "cow", "chicken", "boat", "apple", "eat", "see", "find", "like", "play", "be (is, are)", "colors", "numbers (1–5)", "what"],
+          "pronunciation": ["Initial sounds: /æ/ in 'apple', /b/ in 'banana', /k/ in 'coconut'", "Phonemic awareness: Recognizing letter sounds (A, B, C)"]
+        },
+        "pragmatic": ["Identifying letters: 'What letter is this?' → 'A'", "Naming familiar items: 'A is for apple'"],
+        "sociolinguistic": ["Recognizing the alphabet as building blocks of words"]
+      },
+      "assessment_ideas": [
+        "Check letter-object matching (e.g., 'A' → apple).",
+        "Review alphabet collages or digital alphabet books.",
+        "Observe participation in letter hunts or choral reading."
+      ]
+    },
+    {
+      "scenario_number": 7,
+      "title": "Inside My School!",
+      "themes": ["My Teacher!", "Time for Recess!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize daily classroom vocabulary.",
+          "interactive": "Respond to basic greetings."
+        },
+        "reading": {
+          "reading": "Match pictures with simple written words with some help or guidance.",
+          "phonemic_awareness": "Identify environmental sounds and speech sounds."
+        },
+        "speaking": {
+          "productive": "Use simple words and gestures to communicate.",
+          "interactive": "Participate in a conversation with one or two simple interactions."
+        },
+        "writing": {
+          "productive": "Scribble to communicate a message.",
+          "interactive": "Draw a symbol or image as a response to something."
+        },
+        "mediation": {
+          "concept": "Use gestures and simple drawings to support understanding."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Subject + verb (e.g., 'This is my teacher.')", "WH-Questions (e.g., 'What is this?')", "Prepositions (e.g., 'The book is on the table.')"],
+          "vocabulary": ["classroom", "teacher", "classmate", "principal", "toy", "sit", "stand", "read", "write", "learn", "ask", "play", "meet", "answer", "big", "small", "clean", "new", "this", "these", "in", "on", "under", "what", "where", "hi", "hello"],
+          "pronunciation": ["Initial /n/ in 'new', /s/ in 'sit'", "Initial /r/ in 'read', final /n/ in 'learn'"]
+        },
+        "pragmatic": ["Identifying people: 'Who is this?' → 'This is my teacher.'", "Describing objects and locations: 'What is this?' → 'This is a chair.'"],
+        "sociolinguistic": ["Classroom interactions: appropriate greetings for teacher vs. friend"]
+      },
+      "assessment_ideas": [
+        "Observe student introductions of people in school.",
+        "Review classroom posters or comic journals.",
+        "Check ability to answer 'Who is this?' or 'Where is it?'"
+      ]
+    },
+    {
+      "scenario_number": 8,
+      "title": "Panama's Plants and Animals",
+      "themes": ["It's a Plant.", "It's an Animal."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize that people are speaking in English.",
+          "interactive": "Engage in acting out and response activities."
+        },
+        "reading": {
+          "reading": "Identify characters in a picture book.",
+          "phonemic_awareness": "Identify environmental sounds and speech sounds."
+        },
+        "speaking": {
+          "productive": "Name elements of pictures.",
+          "interactive": "Participate in a conversation with one or two simple interactions."
+        },
+        "writing": {
+          "productive": "Scribble to communicate a message.",
+          "interactive": "Draw a symbol or image as a response to something."
+        },
+        "mediation": {
+          "text": "Mimic simple actions shown in picture books."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Subject + verb (e.g., 'This is a tree.')", "WH-questions (e.g., 'What is it?')", "Present simple (e.g., 'It is a bird.')"],
+          "vocabulary": ["tree", "plant", "flower", "fish", "dog", "cat", "animal", "insect", "bird", "fly", "swim", "grow", "eat", "live", "be (is, are)", "tall", "small", "green", "big", "little", "beautiful", "what", "where", "it"],
+          "pronunciation": ["/t/ in 'tall', /f/ in 'fish'", "Initial /k/ in 'cat', /b/ in 'bird'"]
+        },
+        "pragmatic": ["Naming animals and plants", "Describing features: 'green tree', 'big animal'"],
+        "sociolinguistic": ["Respect for nature: learning about and valuing Panama’s local flora and fauna"]
+      },
+      "assessment_ideas": [
+        "Observe naming of local animals/plants in photos or books.",
+        "Review nature drawings with labels.",
+        "Assess role-play or mimicking of animal/plant actions."
+      ]
+    }
+  ]
+}
