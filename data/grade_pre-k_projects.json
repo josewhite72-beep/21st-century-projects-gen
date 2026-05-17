@@ -1,0 +1,803 @@
+{
+  "project_type": "combined",
+  "grade": "pre-k",
+  "proficiency_level": "Pre-A1",
+  "projects_by_scenario": {
+    "Exploring Our Classroom": [
+      {
+        "id": "prek_scenario2_project1",
+        "name": "Color and Label My Classroom",
+        "type": "official",
+        "category": "Art & Labeling",
+        "overview": "Create a colorful classroom poster labeling objects.",
+        "general_objective": "Develop classroom vocabulary and color recognition.",
+        "specific_objectives": [
+          "Identify classroom objects",
+          "Match objects with colors",
+          "Create visual labels"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.1.3",
+          "CE.ING.PK.2.3"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Poster paper",
+          "Markers",
+          "Object pictures",
+          "Glue"
+        ],
+        "technology_integration": "Use digital cameras or drawing tools to create classroom posters."
+      },
+      {
+        "id": "prek_scenario2_project2",
+        "name": "Classroom Object Scavenger Hunt",
+        "type": "official",
+        "category": "Exploration Games",
+        "overview": "Look for specific classroom items, name them, and label each one with support.",
+        "general_objective": "Develop observation skills and object vocabulary.",
+        "specific_objectives": [
+          "Find specific objects",
+          "Name objects correctly",
+          "Follow simple clues"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.1.4",
+          "CE.ING.PK.3.2"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Scavenger hunt cards",
+          "Clipboards",
+          "Stickers"
+        ],
+        "technology_integration": "Use tablets to take photos of found objects."
+      },
+      {
+        "id": "prek_scenario2_project3",
+        "name": "Digital Classroom Tour",
+        "type": "official",
+        "category": "Digital Literacy",
+        "overview": "Create a virtual tour by taking photos of classroom objects.",
+        "general_objective": "Develop basic technology skills and spatial awareness.",
+        "specific_objectives": [
+          "Use camera to take photos",
+          "Describe classroom areas",
+          "Create simple digital presentation"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.4.2",
+          "CE.ING.PK.4.3"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Tablets/cameras",
+          "Computer",
+          "Presentation software"
+        ],
+        "technology_integration": "Create digital tour with photos and simple labels."
+      },
+      {
+        "id": "class_poster",
+        "name": "Class poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "show_and_tell",
+        "name": "Show and tell",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "sorting_activity",
+        "name": "Sorting activity",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_routine_chart",
+        "name": "Class routine chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ],
+    "Fun with Letters": [
+      {
+        "id": "prek_scenario6_project1",
+        "name": "Alphabet Letter Hunt",
+        "type": "official",
+        "category": "Literacy Exploration",
+        "overview": "Find objects around the classroom that start with letters A, B, and C.",
+        "general_objective": "Develop letter recognition and initial sound awareness.",
+        "specific_objectives": [
+          "Identify letters A, B, C",
+          "Find objects with matching initial sounds",
+          "Create letter-object collections"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.1.5",
+          "CE.ING.PK.2.5"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Letter cards",
+          "Collection bags",
+          "Object pictures"
+        ],
+        "technology_integration": "Use tablet to take photos of letter objects."
+      },
+      {
+        "id": "prek_scenario6_project2",
+        "name": "Letter Collage",
+        "type": "official",
+        "category": "Art & Literacy",
+        "overview": "Create an alphabet collage by cutting and pasting letters from magazines.",
+        "general_objective": "Develop letter recognition through hands-on art.",
+        "specific_objectives": [
+          "Identify letters in print",
+          "Create letter collage",
+          "Sort letters alphabetically"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.2.2",
+          "CE.ING.PK.2.5"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Magazines",
+          "Scissors",
+          "Glue",
+          "Letter templates"
+        ],
+        "technology_integration": "Create digital letter collage."
+      },
+      {
+        "id": "prek_scenario6_project3",
+        "name": "Digital Alphabet Book",
+        "type": "official",
+        "category": "Digital Publishing",
+        "overview": "Create an online alphabet book using photos of objects.",
+        "general_objective": "Develop digital literacy and alphabet knowledge.",
+        "specific_objectives": [
+          "Take photos of alphabet objects",
+          "Create digital book pages",
+          "Navigate book creation software"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.4.2",
+          "CE.ING.PK.4.5"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Tablets/cameras",
+          "Book creation app",
+          "Alphabet guide"
+        ],
+        "technology_integration": "Create interactive digital alphabet book."
+      },
+      {
+        "id": "class_poster",
+        "name": "Class poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "show_and_tell",
+        "name": "Show and tell",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "sorting_activity",
+        "name": "Sorting activity",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_routine_chart",
+        "name": "Class routine chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ],
+    "Inside My School!": [
+      {
+        "id": "prek_scenario7_project1",
+        "name": "Introducing People in my Classroom",
+        "type": "official",
+        "category": "Video Production",
+        "overview": "Create a video introducing different people on their school.",
+        "general_objective": "Develop communication skills and school community awareness.",
+        "specific_objectives": [
+          "Identify school personnel",
+          "Introduce people on video",
+          "Work collaboratively on video project"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.1.2",
+          "CE.ING.PK.3.1"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Video camera",
+          "Interview questions",
+          "School map"
+        ],
+        "technology_integration": "Record and edit introduction videos."
+      },
+      {
+        "id": "prek_scenario7_project2",
+        "name": "Classroom, Faces, and Things Poster",
+        "type": "official",
+        "category": "Poster Design",
+        "overview": "Design a poster of people and things in the classroom.",
+        "general_objective": "Develop classroom vocabulary and visual representation skills.",
+        "specific_objectives": [
+          "Identify classroom people and objects",
+          "Create organized poster",
+          "Label poster elements"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.2.3",
+          "CE.ING.PK.4.1"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Poster board",
+          "Photos/drawings",
+          "Labels",
+          "Markers"
+        ],
+        "technology_integration": "Take photos to describe parts of the classroom."
+      },
+      {
+        "id": "prek_scenario7_project3",
+        "name": "Classroom Comic Journal",
+        "type": "official",
+        "category": "Creative Writing",
+        "overview": "Create a three-panel comic book story about people and things in the classroom.",
+        "general_objective": "Develop storytelling skills and classroom vocabulary.",
+        "specific_objectives": [
+          "Create simple story sequence",
+          "Draw classroom scenes",
+          "Add simple captions"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.2.2",
+          "CE.ING.PK.3.2"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Comic templates",
+          "Drawing materials",
+          "Story prompts"
+        ],
+        "technology_integration": "Create digital comic using simple apps."
+      },
+      {
+        "id": "class_poster",
+        "name": "Class poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "show_and_tell",
+        "name": "Show and tell",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "sorting_activity",
+        "name": "Sorting activity",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_routine_chart",
+        "name": "Class routine chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ],
+    "Let's Eat!": [
+      {
+        "id": "prek_scenario4_project1",
+        "name": "Favorite Fruits & Vegetables Collage",
+        "type": "official",
+        "category": "Art & Nutrition",
+        "overview": "Create a collage of favorite fruits and vegetables.",
+        "general_objective": "Develop food vocabulary and healthy eating awareness.",
+        "specific_objectives": [
+          "Identify fruits and vegetables",
+          "Express food preferences",
+          "Create colorful collage"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.1.3",
+          "CE.ING.PK.2.3"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Food magazines",
+          "Scissors",
+          "Glue",
+          "Poster board"
+        ],
+        "technology_integration": "Create digital collage with food images."
+      },
+      {
+        "id": "prek_scenario4_project2",
+        "name": "Food Sorting Game",
+        "type": "official",
+        "category": "Sorting Games",
+        "overview": "Sort fruits and vegetables by color or taste.",
+        "general_objective": "Develop classification skills and food vocabulary.",
+        "specific_objectives": [
+          "Sort foods by attributes",
+          "Describe food characteristics",
+          "Follow sorting rules"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.1.4",
+          "CE.ING.PK.3.3"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Food pictures/models",
+          "Sorting trays",
+          "Category labels"
+        ],
+        "technology_integration": "Use tablet to sort food digitally."
+      },
+      {
+        "id": "prek_scenario4_project3",
+        "name": "Food Tasting Video",
+        "type": "official",
+        "category": "Digital Media",
+        "overview": "Record a simple video tasting fruits and saying their names.",
+        "general_objective": "Develop oral language and technology skills.",
+        "specific_objectives": [
+          "Name foods correctly",
+          "Describe tastes simply",
+          "Participate in video recording"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.4.2",
+          "CE.ING.PK.4.3"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Fresh fruits",
+          "Video camera",
+          "Background setup"
+        ],
+        "technology_integration": "Record and edit simple tasting videos."
+      },
+      {
+        "id": "class_poster",
+        "name": "Class poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "show_and_tell",
+        "name": "Show and tell",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "sorting_activity",
+        "name": "Sorting activity",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_routine_chart",
+        "name": "Class routine chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ],
+    "Me and My Family": [
+      {
+        "id": "prek_scenario3_project1",
+        "name": "My Family Tree",
+        "type": "official",
+        "category": "Family Studies",
+        "overview": "Create a family tree with drawings, pictures, and names of family members.",
+        "general_objective": "Develop family vocabulary and personal identity.",
+        "specific_objectives": [
+          "Identify family members",
+          "Create visual family representation",
+          "Share about family"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.2.1",
+          "CE.ING.PK.3.1"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Family tree templates",
+          "Photos",
+          "Crayons",
+          "Glue"
+        ],
+        "technology_integration": "Use family tree apps or create digital version."
+      },
+      {
+        "id": "prek_scenario3_project2",
+        "name": "Family Role Play",
+        "type": "official",
+        "category": "Dramatic Play",
+        "overview": "Act out different family members and their roles.",
+        "general_objective": "Develop understanding of family roles through play.",
+        "specific_objectives": [
+          "Imitate family member actions",
+          "Use family role vocabulary",
+          "Cooperate in dramatic play"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.1.2",
+          "CE.ING.PK.3.2"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Dress-up clothes",
+          "House area props",
+          "Puppets"
+        ],
+        "technology_integration": "Record role-play for viewing."
+      },
+      {
+        "id": "prek_scenario3_project3",
+        "name": "Family Drawing Gallery",
+        "type": "official",
+        "category": "Art Exhibition",
+        "overview": "Draw and label pictures of family members to display in class.",
+        "general_objective": "Develop artistic expression and family vocabulary.",
+        "specific_objectives": [
+          "Draw recognizable people",
+          "Label family members",
+          "Participate in gallery display"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.2.2",
+          "CE.ING.PK.4.1"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Drawing paper",
+          "Markers",
+          "Display board",
+          "Labels"
+        ],
+        "technology_integration": "Create digital gallery with scanned drawings."
+      },
+      {
+        "id": "class_poster",
+        "name": "Class poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "show_and_tell",
+        "name": "Show and tell",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "sorting_activity",
+        "name": "Sorting activity",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_routine_chart",
+        "name": "Class routine chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ],
+    "Meeting New Friends": [
+      {
+        "id": "prek_scenario1_project1",
+        "name": "Friendship Storybook",
+        "type": "official",
+        "category": "Social Skills & Literacy",
+        "overview": "Create a simple storybook with pictures that students can use to point to and describe new friends.",
+        "general_objective": "Develop social interaction skills and early literacy through story creation.",
+        "specific_objectives": [
+          "Practice greetings and polite phrases",
+          "Work together on storybooks and name tags",
+          "Use pictures to tell simple stories"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.1.1",
+          "CE.ING.PK.2.1"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Blank books",
+          "Crayons",
+          "Stickers",
+          "Glue"
+        ],
+        "technology_integration": "Use digital or electronic storybooks to look at pictures."
+      },
+      {
+        "id": "prek_scenario1_project2",
+        "name": "Role-play Greetings",
+        "type": "official",
+        "category": "Role-play & Communication",
+        "overview": "Practice greetings and polite phrases through role-play activities.",
+        "general_objective": "Develop verbal communication skills through dramatic play.",
+        "specific_objectives": [
+          "Use greeting phrases appropriately",
+          "Take turns in conversation",
+          "Express basic politeness"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.1.2",
+          "CE.ING.PK.3.1"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Puppets",
+          "Dress-up clothes",
+          "Picture prompts"
+        ],
+        "technology_integration": "Record role-play sessions for review."
+      },
+      {
+        "id": "prek_scenario1_project3",
+        "name": "Name Tag Art",
+        "type": "official",
+        "category": "Art & Identity",
+        "overview": "Design and decorate name tags for each student, practicing introductions.",
+        "general_objective": "Develop self-identity recognition and fine motor skills.",
+        "specific_objectives": [
+          "Recognize own name",
+          "Introduce self to others",
+          "Create personalized art"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.2.2",
+          "CE.ING.PK.4.1"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Name tag templates",
+          "Decorations",
+          "Laminator",
+          "Yarn"
+        ],
+        "technology_integration": "Create digital name tags with photos."
+      },
+      {
+        "id": "class_poster",
+        "name": "Class poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "show_and_tell",
+        "name": "Show and tell",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "sorting_activity",
+        "name": "Sorting activity",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_routine_chart",
+        "name": "Class routine chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ],
+    "Numbers Around Me": [
+      {
+        "id": "prek_scenario5_project1",
+        "name": "Count & Match Game",
+        "type": "official",
+        "category": "Math Games",
+        "overview": "Create a matching game to pair objects with numbers from one to five.",
+        "general_objective": "Develop early numeracy and matching skills.",
+        "specific_objectives": [
+          "Recognize numbers 1-5",
+          "Count objects accurately",
+          "Create matching pairs"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.2.4",
+          "CE.ING.PK.3.4"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Number cards",
+          "Object pictures",
+          "Game board",
+          "Counters"
+        ],
+        "technology_integration": "Create digital matching game."
+      },
+      {
+        "id": "prek_scenario5_project2",
+        "name": "Counting Objects Collage",
+        "type": "official",
+        "category": "Art & Math",
+        "overview": "Draw and label objects to match a number.",
+        "general_objective": "Connect numbers with quantities through art.",
+        "specific_objectives": [
+          "Draw specific quantities",
+          "Label drawings with numbers",
+          "Create number-art connection"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.2.2",
+          "CE.ING.PK.2.4"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Number templates",
+          "Drawing materials",
+          "Counting manipulatives"
+        ],
+        "technology_integration": "Use counting apps for reinforcement."
+      },
+      {
+        "id": "prek_scenario5_project3",
+        "name": "Digital Counting App",
+        "type": "official",
+        "category": "Digital Learning",
+        "overview": "Use a digital counting app to practice numbers and matching quantities.",
+        "general_objective": "Develop technology skills and number recognition.",
+        "specific_objectives": [
+          "Navigate counting app",
+          "Match numbers to quantities",
+          "Complete digital activities"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.4.1",
+          "CE.ING.PK.4.4"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Tablets",
+          "Counting apps",
+          "Headphones"
+        ],
+        "technology_integration": "Use interactive counting apps."
+      },
+      {
+        "id": "class_poster",
+        "name": "Class poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "show_and_tell",
+        "name": "Show and tell",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "sorting_activity",
+        "name": "Sorting activity",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_routine_chart",
+        "name": "Class routine chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ],
+    "Panama's Plants and Animals": [
+      {
+        "id": "prek_scenario8_project1",
+        "name": "Panama's Animal Safari",
+        "type": "official",
+        "category": "Nature Exploration",
+        "overview": "Create a 'safari' by identifying and naming local animals and plants.",
+        "general_objective": "Develop nature vocabulary and observation skills.",
+        "specific_objectives": [
+          "Identify local plants and animals",
+          "Create safari display",
+          "Use descriptive nature vocabulary"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.1.3",
+          "CE.ING.PK.2.3"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Animal/plant pictures",
+          "Safari hats",
+          "Binoculars (toy)",
+          "Observation sheets"
+        ],
+        "technology_integration": "Take photos of local plants/animals."
+      },
+      {
+        "id": "prek_scenario8_project2",
+        "name": "Nature Drawing",
+        "type": "official",
+        "category": "Art & Nature",
+        "overview": "Draw and label pictures of Panama's animals and plants.",
+        "general_objective": "Develop artistic skills and nature vocabulary.",
+        "specific_objectives": [
+          "Draw recognizable plants/animals",
+          "Label drawings accurately",
+          "Create nature art collection"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.2.2",
+          "CE.ING.PK.4.1"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Drawing paper",
+          "Colored pencils",
+          "Nature guides",
+          "Labels"
+        ],
+        "technology_integration": "Trace simple sentences about nature."
+      },
+      {
+        "id": "prek_scenario8_project3",
+        "name": "Photo Nature Guide",
+        "type": "official",
+        "category": "Digital Documentation",
+        "overview": "Describe photos of plants and animals in Panama.",
+        "general_objective": "Develop descriptive language and digital skills.",
+        "specific_objectives": [
+          "Describe nature photos",
+          "Create digital nature guide",
+          "Use simple descriptive sentences"
+        ],
+        "institutional_standards": [
+          "CE.ING.PK.4.2",
+          "CE.ING.PK.4.3"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Nature photos",
+          "Tablets",
+          "Presentation app",
+          "Microphone"
+        ],
+        "technology_integration": "Create narrated nature photo guide."
+      },
+      {
+        "id": "class_poster",
+        "name": "Class poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "show_and_tell",
+        "name": "Show and tell",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "sorting_activity",
+        "name": "Sorting activity",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_routine_chart",
+        "name": "Class routine chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ]
+  }
+}

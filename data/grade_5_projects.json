@@ -1,0 +1,902 @@
+{
+  "project_type": "combined",
+  "grade": "5",
+  "proficiency_level": "A2.2",
+  "projects_by_scenario": {
+    "Arts and Crafts": [
+      {
+        "id": "grade5_scenario6_project1",
+        "name": "Classroom Recycling Campaign",
+        "type": "official",
+        "category": "Environmental Campaigns",
+        "overview": "Students create a campaign promoting recycling. They explain why recycling is essential, using the future with 'will' and imperative forms.",
+        "general_objective": "Develop environmental campaigning and future tense skills.",
+        "specific_objectives": [
+          "Design recycling campaign",
+          "Use 'will' for future actions",
+          "Apply imperative forms effectively",
+          "Create persuasive campaign materials"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.8",
+          "CE.ING.5.3.14"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Campaign planning tools",
+          "Recycling information",
+          "Design materials",
+          "Presentation resources"
+        ],
+        "technology_integration": "Use digital platforms for recycling instructions.",
+        "skills_developed": [
+          "Campaign Design",
+          "Future Tense Usage",
+          "Persuasive Communication",
+          "Environmental Awareness"
+        ]
+      },
+      {
+        "id": "grade5_scenario6_project2",
+        "name": "Environmental Poster",
+        "type": "official",
+        "category": "Environmental Education",
+        "overview": "Students design posters explaining environmental actions. They use the imperative form to suggest actions and explain what should be done.",
+        "general_objective": "Develop environmental education and instructional design skills.",
+        "specific_objectives": [
+          "Design educational environmental posters",
+          "Use imperative forms correctly",
+          "Explain environmental actions clearly",
+          "Create visually engaging posters"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.9",
+          "CE.ING.5.3.15"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Poster design supplies",
+          "Environmental information",
+          "Instructional guides",
+          "Art materials"
+        ],
+        "technology_integration": "Create digital environmental posters.",
+        "skills_developed": [
+          "Environmental Education",
+          "Instructional Design",
+          "Visual Communication",
+          "Persuasive Messaging"
+        ]
+      },
+      {
+        "id": "grade5_scenario6_project3",
+        "name": "Digital Recycling Instructions",
+        "type": "official",
+        "category": "Digital Instructions",
+        "overview": "Students create digital instructions for recycling in their community, explaining the steps using simple present and imperative forms.",
+        "general_objective": "Develop digital instruction creation and recycling education skills.",
+        "specific_objectives": [
+          "Create clear digital instructions",
+          "Use simple present for facts",
+          "Apply imperative for directions",
+          "Design user-friendly digital guide"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.4.8",
+          "CE.ING.5.4.9"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Digital design tools",
+          "Recycling process information",
+          "Instruction templates",
+          "Presentation software"
+        ],
+        "technology_integration": "Create digital recycling instruction guides.",
+        "skills_developed": [
+          "Digital Instruction",
+          "Process Explanation",
+          "Technical Writing",
+          "Environmental Education"
+        ]
+      }
+    ],
+    "Conservation Morning, Noon, and Night!": [
+      {
+        "id": "digital_news_slide",
+        "name": "Digital news slide",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "audio_report",
+        "name": "Audio report",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "community_interview",
+        "name": "Community interview",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "arts_showcase",
+        "name": "Arts showcase",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      }
+    ],
+    "Following Instructions at School": [
+      {
+        "id": "digital_news_slide",
+        "name": "Digital news slide",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "audio_report",
+        "name": "Audio report",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "community_interview",
+        "name": "Community interview",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "arts_showcase",
+        "name": "Arts showcase",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      }
+    ],
+    "Helping Around the House": [
+      {
+        "id": "digital_news_slide",
+        "name": "Digital news slide",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "audio_report",
+        "name": "Audio report",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "community_interview",
+        "name": "Community interview",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "arts_showcase",
+        "name": "Arts showcase",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      }
+    ],
+    "In the Library": [
+      {
+        "id": "grade5_scenario3_project1",
+        "name": "Library Instructional Video",
+        "type": "official",
+        "category": "Instructional Media",
+        "overview": "Students create a video tutorial demonstrating how to use the library, practicing modal verbs and imperative forms.",
+        "general_objective": "Develop instructional video creation and library orientation skills.",
+        "specific_objectives": [
+          "Create clear library tutorial",
+          "Use modal verbs appropriately",
+          "Apply imperative forms correctly",
+          "Produce engaging instructional video"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.2",
+          "CE.ING.5.4.5"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Video recording equipment",
+          "Library access",
+          "Script templates",
+          "Editing software"
+        ],
+        "technology_integration": "Use digital mapping software for library maps and research tools.",
+        "skills_developed": [
+          "Instructional Design",
+          "Modal Verb Usage",
+          "Library Literacy",
+          "Video Production"
+        ]
+      },
+      {
+        "id": "grade5_scenario3_project2",
+        "name": "Digital Library Map",
+        "type": "official",
+        "category": "Digital Mapping",
+        "overview": "Students design a digital map of the library, labeling sections with determiners like 'many, all, most'.",
+        "general_objective": "Develop digital mapping and determiner usage skills.",
+        "specific_objectives": [
+          "Create accurate library map",
+          "Use determiners correctly",
+          "Label sections appropriately",
+          "Design user-friendly digital map"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.5",
+          "CE.ING.5.4.6"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Mapping software",
+          "Library layout information",
+          "Digital design tools",
+          "Presentation device"
+        ],
+        "technology_integration": "Use digital mapping software for creation.",
+        "skills_developed": [
+          "Digital Mapping",
+          "Determiner Usage",
+          "Spatial Organization",
+          "Technical Design"
+        ]
+      },
+      {
+        "id": "grade5_scenario3_project3",
+        "name": "Research Report",
+        "type": "official",
+        "category": "Research Skills",
+        "overview": "Students write a research report on a book they found in the library, using the past tense and research vocabulary.",
+        "general_objective": "Develop research writing and library utilization skills.",
+        "specific_objectives": [
+          "Conduct basic library research",
+          "Write organized research report",
+          "Use past tense accurately",
+          "Apply research vocabulary"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.3.5",
+          "CE.ING.5.3.6"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Research templates",
+          "Library resources",
+          "Writing guides",
+          "Citation tools"
+        ],
+        "technology_integration": "Use research tools for reports.",
+        "skills_developed": [
+          "Research Writing",
+          "Library Skills",
+          "Past Tense Application",
+          "Academic Vocabulary"
+        ]
+      }
+    ],
+    "Our Amazing Community": [
+      {
+        "id": "grade5_scenario5_project1",
+        "name": "Community Role Posters",
+        "type": "official",
+        "category": "Career Education",
+        "overview": "Students create posters about community members and their jobs, practicing the present simple tense and the present perfect tense.",
+        "general_objective": "Develop career awareness and tense application skills.",
+        "specific_objectives": [
+          "Research community jobs",
+          "Create informative career posters",
+          "Use present simple for routines",
+          "Apply present perfect for experience"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.7",
+          "CE.ING.5.3.10"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Poster materials",
+          "Career information",
+          "Tense guides",
+          "Design tools"
+        ],
+        "technology_integration": "Use interview recording tools and poster design software.",
+        "skills_developed": [
+          "Career Awareness",
+          "Tense Application",
+          "Poster Design",
+          "Community Research"
+        ]
+      },
+      {
+        "id": "grade5_scenario5_project2",
+        "name": "Community Interview Project",
+        "type": "official",
+        "category": "Interview Skills",
+        "overview": "Students interview community members about their work, focusing on questions with 'How long...' and 'What does...'",
+        "general_objective": "Develop interview skills and question formation.",
+        "specific_objectives": [
+          "Prepare interview questions",
+          "Conduct professional interviews",
+          "Use 'How long' questions correctly",
+          "Apply 'What does' questions appropriately"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.4",
+          "CE.ING.5.3.11"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Interview guides",
+          "Recording equipment",
+          "Question templates",
+          "Note-taking materials"
+        ],
+        "technology_integration": "Use recording tools for interviews.",
+        "skills_developed": [
+          "Interview Skills",
+          "Question Formation",
+          "Professional Communication",
+          "Active Listening"
+        ]
+      },
+      {
+        "id": "grade5_scenario5_project3",
+        "name": "Community Job Fair Simulation",
+        "type": "official",
+        "category": "Role-play & Simulation",
+        "overview": "Students simulate a job fair by role-playing as community workers and using the present perfect to describe their tasks.",
+        "general_objective": "Develop role-play skills and present perfect application.",
+        "specific_objectives": [
+          "Prepare job fair roles",
+          "Use present perfect for job descriptions",
+          "Simulate professional interactions",
+          "Present job information clearly"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.3.12",
+          "CE.ING.5.3.13"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Role-play materials",
+          "Job information cards",
+          "Setting props",
+          "Evaluation forms"
+        ],
+        "technology_integration": "Create digital job fair materials.",
+        "skills_developed": [
+          "Role-playing",
+          "Present Perfect Usage",
+          "Professional Simulation",
+          "Public Speaking"
+        ]
+      }
+    ],
+    "Our Classroom News": [
+      {
+        "id": "grade5_scenario4_project1",
+        "name": "Digital Classroom Newsletter",
+        "type": "official",
+        "category": "Digital Journalism",
+        "overview": "Students create a digital newsletter about class events, practicing the future tense and sequencing words.",
+        "general_objective": "Develop digital journalism and future tense application skills.",
+        "specific_objectives": [
+          "Create engaging classroom newsletter",
+          "Use future tense correctly",
+          "Apply sequencing words appropriately",
+          "Design digital publication"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.6",
+          "CE.ING.5.4.7"
+        ],
+        "duration": "3 class periods",
+        "materials": [
+          "Newsletter templates",
+          "Class event information",
+          "Digital design tools",
+          "Writing guides"
+        ],
+        "technology_integration": "Use digital publishing tools for newsletters.",
+        "skills_developed": [
+          "Digital Journalism",
+          "Future Tense Usage",
+          "Sequencing Skills",
+          "Publication Design"
+        ]
+      },
+      {
+        "id": "grade5_scenario4_project2",
+        "name": "Class Event Plan",
+        "type": "official",
+        "category": "Event Planning",
+        "overview": "Students collaborate to plan an upcoming class event, using the present and future tenses.",
+        "general_objective": "Develop collaborative planning and tense application skills.",
+        "specific_objectives": [
+          "Plan class event collaboratively",
+          "Use present tense for current plans",
+          "Apply future tense for upcoming activities",
+          "Create detailed event plan"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.3.7",
+          "CE.ING.5.3.8"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Planning templates",
+          "Event resources",
+          "Collaboration tools",
+          "Presentation materials"
+        ],
+        "technology_integration": "Use collaborative planning software.",
+        "skills_developed": [
+          "Event Planning",
+          "Collaboration",
+          "Tense Application",
+          "Organizational Skills"
+        ]
+      },
+      {
+        "id": "grade5_scenario4_project3",
+        "name": "Script for School Play",
+        "type": "official",
+        "category": "Creative Writing",
+        "overview": "Students write and perform a short script about a class event, using the future tense and the past tense.",
+        "general_objective": "Develop script writing and tense differentiation skills.",
+        "specific_objectives": [
+          "Write engaging play script",
+          "Differentiate future and past tense",
+          "Incorporate dialogue effectively",
+          "Perform script with peers"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.3",
+          "CE.ING.5.3.9"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Script writing templates",
+          "Performance space",
+          "Costume/prop materials",
+          "Recording equipment"
+        ],
+        "technology_integration": "Use video recording for performances.",
+        "skills_developed": [
+          "Script Writing",
+          "Tense Differentiation",
+          "Creative Expression",
+          "Performance Skills"
+        ]
+      }
+    ],
+    "Our Community News": [
+      {
+        "id": "grade5_scenario1_project1",
+        "name": "Community News Report",
+        "type": "official",
+        "category": "Journalism & Reporting",
+        "overview": "Students create a short newspaper or digital newsletter about a community event, using the past simple tense and expressing likes/dislikes.",
+        "general_objective": "Develop journalistic writing skills and community awareness.",
+        "specific_objectives": [
+          "Report on community events accurately",
+          "Use past simple tense correctly",
+          "Express personal opinions appropriately",
+          "Create engaging news format"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.1",
+          "CE.ING.5.2.1",
+          "CE.ING.5.3.1"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Newspaper templates",
+          "Event information",
+          "Writing guides",
+          "Layout tools"
+        ],
+        "technology_integration": "Use digital tools for news report design and multimedia creation.",
+        "skills_developed": [
+          "Journalistic Writing",
+          "Community Awareness",
+          "Past Tense Usage",
+          "Media Design"
+        ]
+      },
+      {
+        "id": "grade5_scenario1_project2",
+        "name": "Community Traditions Mural",
+        "type": "official",
+        "category": "Cultural Arts",
+        "overview": "Students design a mural showcasing local traditions like Carnivals or Fiestas Patrias, adding captions with descriptive adjectives and past tense.",
+        "general_objective": "Develop cultural appreciation and descriptive language skills.",
+        "specific_objectives": [
+          "Research local traditions",
+          "Design cultural mural",
+          "Use descriptive adjectives",
+          "Apply past tense in captions"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.2",
+          "CE.ING.5.3.2"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Mural paper/canvas",
+          "Cultural reference materials",
+          "Art supplies",
+          "Caption templates"
+        ],
+        "technology_integration": "Use digital design platforms for mural planning.",
+        "skills_developed": [
+          "Cultural Appreciation",
+          "Artistic Design",
+          "Descriptive Language",
+          "Collaborative Art"
+        ]
+      },
+      {
+        "id": "grade5_scenario1_project3",
+        "name": "Local Voices Podcast",
+        "type": "official",
+        "category": "Media Production",
+        "overview": "Students record a podcast describing local events and interviewing classmates, using past tense and likes/dislikes.",
+        "general_objective": "Develop audio production and interview skills.",
+        "specific_objectives": [
+          "Plan and script podcast episode",
+          "Conduct interviews effectively",
+          "Use past tense accurately",
+          "Edit and produce audio content"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.4.1",
+          "CE.ING.5.4.2"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Recording equipment",
+          "Interview questions",
+          "Editing software",
+          "Script templates"
+        ],
+        "technology_integration": "Use audio recording and editing software.",
+        "skills_developed": [
+          "Audio Production",
+          "Interview Skills",
+          "Past Tense Application",
+          "Technical Editing"
+        ]
+      }
+    ],
+    "Planning Meals for My Family": [
+      {
+        "id": "digital_news_slide",
+        "name": "Digital news slide",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "audio_report",
+        "name": "Audio report",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "community_interview",
+        "name": "Community interview",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "arts_showcase",
+        "name": "Arts showcase",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      }
+    ],
+    "Recycling for Our World": [
+      {
+        "id": "digital_news_slide",
+        "name": "Digital news slide",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "audio_report",
+        "name": "Audio report",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "community_interview",
+        "name": "Community interview",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "arts_showcase",
+        "name": "Arts showcase",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      }
+    ],
+    "Taking Care of Our Class": [
+      {
+        "id": "digital_news_slide",
+        "name": "Digital news slide",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "audio_report",
+        "name": "Audio report",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "community_interview",
+        "name": "Community interview",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "arts_showcase",
+        "name": "Arts showcase",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      }
+    ],
+    "Taking Care of Our Classroom": [
+      {
+        "id": "grade5_scenario2_project1",
+        "name": "Community Clean-Up Plan",
+        "type": "official",
+        "category": "Environmental Planning",
+        "overview": "Students use imperatives and modals to create a step-by-step digital plan outlining tasks and suggestions for cleaning their classroom.",
+        "general_objective": "Develop environmental planning and instructional design skills.",
+        "specific_objectives": [
+          "Create detailed clean-up plan",
+          "Use imperatives and modals correctly",
+          "Design step-by-step instructions",
+          "Present plan digitally"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.3",
+          "CE.ING.5.3.3"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Planning templates",
+          "Clean-up task list",
+          "Digital design tools",
+          "Presentation software"
+        ],
+        "technology_integration": "Use video creation tools for instructional videos and graphic design platforms for posters.",
+        "skills_developed": [
+          "Environmental Planning",
+          "Instructional Design",
+          "Digital Presentation",
+          "Community Responsibility"
+        ]
+      },
+      {
+        "id": "grade5_scenario2_project2",
+        "name": "School Clean-Up Day Poster",
+        "type": "official",
+        "category": "Promotional Design",
+        "overview": "Students design posters promoting a school clean-up day, using future tense and time prepositions.",
+        "general_objective": "Develop promotional design and future tense application.",
+        "specific_objectives": [
+          "Design persuasive clean-up posters",
+          "Use future tense accurately",
+          "Apply time prepositions correctly",
+          "Create visually appealing promotions"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.4",
+          "CE.ING.5.3.4"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Poster design materials",
+          "Promotional messaging",
+          "Art supplies",
+          "Design templates"
+        ],
+        "technology_integration": "Use graphic design platforms for poster creation.",
+        "skills_developed": [
+          "Promotional Design",
+          "Future Tense Usage",
+          "Visual Persuasion",
+          "Time Expression"
+        ]
+      },
+      {
+        "id": "grade5_scenario2_project3",
+        "name": "Instructional Clean-Up Video",
+        "type": "official",
+        "category": "Instructional Media",
+        "overview": "Students create an instructional video demonstrating cleaning tasks, using imperatives.",
+        "general_objective": "Develop video production and clear instruction skills.",
+        "specific_objectives": [
+          "Plan instructional video content",
+          "Demonstrate cleaning tasks clearly",
+          "Use imperative language effectively",
+          "Edit and produce final video"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.4.3",
+          "CE.ING.5.4.4"
+        ],
+        "duration": "3 class periods",
+        "materials": [
+          "Video equipment",
+          "Cleaning supplies",
+          "Script outlines",
+          "Editing tools"
+        ],
+        "technology_integration": "Use video creation tools for production.",
+        "skills_developed": [
+          "Video Production",
+          "Instructional Clarity",
+          "Imperative Language",
+          "Editing Skills"
+        ]
+      }
+    ],
+    "The Local Farm Stand": [
+      {
+        "id": "digital_news_slide",
+        "name": "Digital news slide",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "audio_report",
+        "name": "Audio report",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "community_interview",
+        "name": "Community interview",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "arts_showcase",
+        "name": "Arts showcase",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      }
+    ],
+    "The Talents Around Us": [
+      {
+        "id": "grade5_scenario7_project1",
+        "name": "Digital Weather Forecast Video",
+        "type": "official",
+        "category": "Weather Forecasting",
+        "overview": "Students create a digital weather forecast using the future tense and prepositions of place to describe weather changes.",
+        "general_objective": "Develop weather forecasting and digital presentation skills.",
+        "specific_objectives": [
+          "Create accurate weather forecast",
+          "Use future tense correctly",
+          "Apply prepositions of place",
+          "Produce engaging digital video"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.4.10",
+          "CE.ING.5.4.11"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Video equipment",
+          "Weather data",
+          "Forecast templates",
+          "Editing software"
+        ],
+        "technology_integration": "Use video recording for forecasts and digital chart tools.",
+        "skills_developed": [
+          "Weather Forecasting",
+          "Digital Production",
+          "Future Tense Application",
+          "Geographic Description"
+        ]
+      },
+      {
+        "id": "grade5_scenario7_project2",
+        "name": "Weather Chart Creation",
+        "type": "official",
+        "category": "Data Visualization",
+        "overview": "Students create a weather chart, labeling weather changes with the future tense.",
+        "general_objective": "Develop data visualization and weather terminology skills.",
+        "specific_objectives": [
+          "Create accurate weather chart",
+          "Label weather changes clearly",
+          "Use future tense in labels",
+          "Design informative visual display"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.10",
+          "CE.ING.5.3.16"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Chart materials",
+          "Weather data",
+          "Labeling tools",
+          "Design supplies"
+        ],
+        "technology_integration": "Use digital chart tools for creation.",
+        "skills_developed": [
+          "Data Visualization",
+          "Weather Terminology",
+          "Chart Design",
+          "Future Tense Usage"
+        ]
+      },
+      {
+        "id": "grade5_scenario7_project3",
+        "name": "Weather Report Presentation",
+        "type": "official",
+        "category": "Public Presentation",
+        "overview": "Students present a weather report using the future tense and weather vocabulary to the class.",
+        "general_objective": "Develop public speaking and weather presentation skills.",
+        "specific_objectives": [
+          "Prepare weather report presentation",
+          "Use future tense accurately",
+          "Apply weather vocabulary",
+          "Deliver engaging presentation"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.5",
+          "CE.ING.5.3.17"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Presentation aids",
+          "Weather maps",
+          "Script notes",
+          "Visual aids"
+        ],
+        "technology_integration": "Use presentation software and visual aids.",
+        "skills_developed": [
+          "Public Speaking",
+          "Weather Presentation",
+          "Future Tense Application",
+          "Audience Engagement"
+        ]
+      }
+    ],
+    "Time for Exercise": [
+      {
+        "id": "digital_news_slide",
+        "name": "Digital news slide",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "audio_report",
+        "name": "Audio report",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "community_interview",
+        "name": "Community interview",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "arts_showcase",
+        "name": "Arts showcase",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      }
+    ]
+  }
+}

@@ -1,0 +1,947 @@
+{
+  "project_type": "combined",
+  "grade": "4",
+  "proficiency_level": "A2.1",
+  "projects_by_scenario": {
+    "A Trip to the Beach": [
+      {
+        "id": "grade4_scenario3_project1",
+        "name": "Packing Checklist",
+        "type": "official",
+        "category": "Planning & Organization",
+        "overview": "Students create a checklist for a trip, using prepositions of movement ('to the beach') and routines ('I always...').",
+        "general_objective": "Develop planning skills and routine vocabulary.",
+        "specific_objectives": [
+          "Create comprehensive packing list",
+          "Use prepositions of movement correctly",
+          "Incorporate routine language",
+          "Organize list logically"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.2.5",
+          "CE.ING.4.3.5"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Checklist templates",
+          "Beach item pictures",
+          "Category labels",
+          "Markers"
+        ],
+        "technology_integration": "Use digital checklist and storyboarding tools.",
+        "skills_developed": [
+          "Planning",
+          "Organization",
+          "Vocabulary Application",
+          "Categorization"
+        ]
+      },
+      {
+        "id": "grade4_scenario3_project2",
+        "name": "Trip Storyboard",
+        "type": "official",
+        "category": "Storytelling & Planning",
+        "overview": "Students create a storyboard of their trip to the beach using 'going to' (e.g., 'We are going to the beach early in the morning.').",
+        "general_objective": "Develop storytelling and future planning skills.",
+        "specific_objectives": [
+          "Create sequential storyboard",
+          "Use 'going to' for future plans",
+          "Illustrate beach activities",
+          "Write descriptive captions"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.1.4",
+          "CE.ING.4.2.6"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Storyboard templates",
+          "Drawing materials",
+          "Beach scene references",
+          "Caption cards"
+        ],
+        "technology_integration": "Use digital storyboarding tools.",
+        "skills_developed": [
+          "Storytelling",
+          "Future Planning",
+          "Visual Narrative",
+          "Sequential Thinking"
+        ]
+      },
+      {
+        "id": "grade4_scenario3_project3",
+        "name": "Digital Beach Adventure",
+        "type": "official",
+        "category": "Digital Storytelling",
+        "overview": "Students create a storyboard about a trip to the beach, incorporating digital pictures as illustrations and describing activities and routines.",
+        "general_objective": "Develop digital storytelling and media integration skills.",
+        "specific_objectives": [
+          "Create digital storyboard",
+          "Incorporate digital images",
+          "Write descriptive digital text",
+          "Present digital story"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.4.6",
+          "CE.ING.4.4.7"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Computers/tablets",
+          "Digital images",
+          "Storyboarding software",
+          "Presentation tools"
+        ],
+        "technology_integration": "Create digital stories with images and text.",
+        "skills_developed": [
+          "Digital Storytelling",
+          "Media Integration",
+          "Digital Design",
+          "Presentation Technology"
+        ]
+      },
+      {
+        "id": "instruction_manual",
+        "name": "Instruction manual",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "process_poster",
+        "name": "Process poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "weather_report",
+        "name": "Weather report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "garden_log",
+        "name": "Garden log",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "beach_trip_guide",
+        "name": "Beach trip guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "A Walk in the Neighborhood": [
+      {
+        "id": "instruction_manual",
+        "name": "Instruction manual",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "process_poster",
+        "name": "Process poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "weather_report",
+        "name": "Weather report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "garden_log",
+        "name": "Garden log",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "beach_trip_guide",
+        "name": "Beach trip guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "Following Instructions at School": [
+      {
+        "id": "grade4_scenario1_project1",
+        "name": "Classroom How-To Guide",
+        "type": "official",
+        "category": "Procedural Writing",
+        "overview": "Students create a step-by-step written guide for a classroom task (e.g., organizing supplies, setting up for an activity), using imperatives and sequencing words like 'first, next, and then'.",
+        "general_objective": "Develop procedural writing skills and clear instruction giving.",
+        "specific_objectives": [
+          "Break tasks into sequential steps",
+          "Use imperative verbs correctly",
+          "Apply sequencing words appropriately",
+          "Create clear visual guides"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.1.1",
+          "CE.ING.4.2.1",
+          "CE.ING.4.3.1"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Guide templates",
+          "Sequencing word bank",
+          "Classroom task examples",
+          "Binding materials"
+        ],
+        "technology_integration": "Use video recording and editing tools for instructional videos and digital tools for flowchart creation.",
+        "skills_developed": [
+          "Instruction Giving",
+          "Sequencing",
+          "Clear Communication",
+          "Task Analysis"
+        ]
+      },
+      {
+        "id": "grade4_scenario1_project2",
+        "name": "Instructional Video",
+        "type": "official",
+        "category": "Media Production",
+        "overview": "Students record a video demonstrating a classroom routine, such as cleaning up or preparing for a project, using imperatives and collaborative language like 'let's' and 'we'.",
+        "general_objective": "Develop media production skills and collaborative language use.",
+        "specific_objectives": [
+          "Plan and script instructional video",
+          "Use imperative and collaborative language",
+          "Demonstrate tasks clearly on camera",
+          "Edit and present final video"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.1.2",
+          "CE.ING.4.4.1",
+          "CE.ING.4.4.2"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Video recording equipment",
+          "Script templates",
+          "Editing software",
+          "Classroom props"
+        ],
+        "technology_integration": "Use video recording and editing tools for production.",
+        "skills_developed": [
+          "Media Production",
+          "Collaborative Language",
+          "Public Speaking",
+          "Technical Skills"
+        ]
+      },
+      {
+        "id": "grade4_scenario1_project3",
+        "name": "Task Flowchart",
+        "type": "official",
+        "category": "Visual Planning",
+        "overview": "Students design a flowchart outlining steps in completing a task (e.g., art project or science experiment) with sequencing words and imperatives.",
+        "general_objective": "Develop visual planning and organizational skills.",
+        "specific_objectives": [
+          "Create logical flowchart structure",
+          "Use appropriate flowchart symbols",
+          "Incorporate sequencing vocabulary",
+          "Present flowchart clearly"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.2.2",
+          "CE.ING.4.3.2",
+          "CE.ING.4.4.3"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Flowchart templates",
+          "Symbol guides",
+          "Markers/rulers",
+          "Presentation boards"
+        ],
+        "technology_integration": "Use digital tools for flowchart creation and presentation.",
+        "skills_developed": [
+          "Visual Organization",
+          "Process Mapping",
+          "Logical Thinking",
+          "Presentation Skills"
+        ]
+      }
+    ],
+    "Helping in the Garden": [
+      {
+        "id": "grade4_scenario2_project1",
+        "name": "Garden Growth Chart",
+        "type": "official",
+        "category": "Growth Documentation",
+        "overview": "Students describe plant growth using 'this/that' and verbs such as 'dig,' 'plant,' 'water,' 'grow.'",
+        "general_objective": "Develop observation skills and gardening vocabulary.",
+        "specific_objectives": [
+          "Observe and record plant growth",
+          "Use this/that correctly",
+          "Apply gardening action verbs",
+          "Create visual growth record"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.1.3",
+          "CE.ING.4.2.3",
+          "CE.ING.4.3.3"
+        ],
+        "duration": "Ongoing (2-4 weeks)",
+        "materials": [
+          "Growth chart templates",
+          "Measuring tools",
+          "Camera for documentation",
+          "Garden journal"
+        ],
+        "technology_integration": "Use plant growth tracking apps and video recording for tutorials.",
+        "skills_developed": [
+          "Scientific Observation",
+          "Data Recording",
+          "Descriptive Language",
+          "Patience & Care"
+        ]
+      },
+      {
+        "id": "grade4_scenario2_project2",
+        "name": "Step-by-Step Planting Guide",
+        "type": "official",
+        "category": "Instructional Design",
+        "overview": "Students create a planting guide with simple gardening steps.",
+        "general_objective": "Develop instructional design and sequential thinking.",
+        "specific_objectives": [
+          "Break planting process into steps",
+          "Create clear instructions",
+          "Use sequential language",
+          "Design visually appealing guide"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.2.4",
+          "CE.ING.4.3.4"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Guidebook templates",
+          "Planting materials",
+          "Illustration tools",
+          "Binding supplies"
+        ],
+        "technology_integration": "Create digital planting guides with images.",
+        "skills_developed": [
+          "Instructional Design",
+          "Sequential Thinking",
+          "Visual Communication",
+          "Gardening Knowledge"
+        ]
+      },
+      {
+        "id": "grade4_scenario2_project3",
+        "name": "Gardening Video Tutorial",
+        "type": "official",
+        "category": "Video Tutorials",
+        "overview": "Students film a simple video tutorial on planting seeds, describing the process step by step.",
+        "general_objective": "Develop video production and explanatory skills.",
+        "specific_objectives": [
+          "Plan tutorial content",
+          "Demonstrate planting techniques",
+          "Provide clear verbal explanations",
+          "Edit tutorial video"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.4.4",
+          "CE.ING.4.4.5"
+        ],
+        "duration": "3 class periods",
+        "materials": [
+          "Video equipment",
+          "Gardening supplies",
+          "Script cards",
+          "Editing software"
+        ],
+        "technology_integration": "Use video recording apps and editing tools.",
+        "skills_developed": [
+          "Video Production",
+          "Explanatory Skills",
+          "Technical Demonstration",
+          "Editing Skills"
+        ]
+      },
+      {
+        "id": "instruction_manual",
+        "name": "Instruction manual",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "process_poster",
+        "name": "Process poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "weather_report",
+        "name": "Weather report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "garden_log",
+        "name": "Garden log",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "beach_trip_guide",
+        "name": "Beach trip guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "It's the Rainy Season": [
+      {
+        "id": "instruction_manual",
+        "name": "Instruction manual",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "process_poster",
+        "name": "Process poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "weather_report",
+        "name": "Weather report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "garden_log",
+        "name": "Garden log",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "beach_trip_guide",
+        "name": "Beach trip guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "Morning, Noon, and Night": [
+      {
+        "id": "grade4_scenario5_project1",
+        "name": "Classroom Clean-Up Plan",
+        "type": "official",
+        "category": "Classroom Management",
+        "overview": "Students develop a written plan outlining roles and responsibilities for keeping the classroom clean, using imperatives and present continuous tense.",
+        "general_objective": "Develop responsibility planning and classroom management skills.",
+        "specific_objectives": [
+          "Create cleaning responsibility plan",
+          "Use imperative verbs appropriately",
+          "Apply present continuous tense",
+          "Assign classroom roles fairly"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.2.7",
+          "CE.ING.4.3.7"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Planning templates",
+          "Classroom map",
+          "Role assignment cards",
+          "Presentation materials"
+        ],
+        "technology_integration": "Use digital design tools for posters and charts.",
+        "skills_developed": [
+          "Responsibility Planning",
+          "Classroom Management",
+          "Collaborative Language",
+          "Organizational Skills"
+        ]
+      },
+      {
+        "id": "grade4_scenario5_project2",
+        "name": "Cleaning Instruction Poster",
+        "type": "official",
+        "category": "Instructional Design",
+        "overview": "Students design posters with illustrated instructions for cleaning tasks, using imperatives and collaborative language.",
+        "general_objective": "Develop visual instruction design and collaborative language use.",
+        "specific_objectives": [
+          "Create clear instructional posters",
+          "Use imperative language effectively",
+          "Design visually appealing instructions",
+          "Incorporate collaborative phrases"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.2.8",
+          "CE.ING.4.3.8"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Poster paper",
+          "Illustration materials",
+          "Instruction examples",
+          "Design tools"
+        ],
+        "technology_integration": "Create digital posters with design software.",
+        "skills_developed": [
+          "Visual Design",
+          "Instruction Creation",
+          "Collaborative Language",
+          "Clear Communication"
+        ]
+      },
+      {
+        "id": "grade4_scenario5_project3",
+        "name": "Classroom Responsibility Chart",
+        "type": "official",
+        "category": "Responsibility Systems",
+        "overview": "Students create a responsibility chart on paper or digitally, assigning weekly tasks to classmates, using present continuous and imperatives.",
+        "general_objective": "Develop system design and responsibility tracking skills.",
+        "specific_objectives": [
+          "Design responsibility chart system",
+          "Assign tasks appropriately",
+          "Use present continuous for ongoing tasks",
+          "Create tracking mechanism"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.3.9",
+          "CE.ING.4.4.12"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Chart templates",
+          "Task cards",
+          "Assignment materials",
+          "Display board"
+        ],
+        "technology_integration": "Create digital responsibility charts.",
+        "skills_developed": [
+          "System Design",
+          "Responsibility Tracking",
+          "Fair Assignment",
+          "Organizational Systems"
+        ]
+      }
+    ],
+    "Our Traditional Style of Dress": [
+      {
+        "id": "instruction_manual",
+        "name": "Instruction manual",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "process_poster",
+        "name": "Process poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "weather_report",
+        "name": "Weather report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "garden_log",
+        "name": "Garden log",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "beach_trip_guide",
+        "name": "Beach trip guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "Our Weather Report": [
+      {
+        "id": "grade4_scenario6_project1",
+        "name": "Weather Report Role-Play",
+        "type": "official",
+        "category": "Weather Reporting",
+        "overview": "Students act out a weather report and describe what they need and wear (e.g., 'I need an umbrella.').",
+        "general_objective": "Develop weather reporting and need/wear vocabulary skills.",
+        "specific_objectives": [
+          "Perform weather report role-play",
+          "Use need/wear vocabulary correctly",
+          "Describe appropriate clothing",
+          "Present engaging weather report"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.1.6",
+          "CE.ING.4.3.10"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Weather map backdrop",
+          "Clothing props",
+          "Script prompts",
+          "Recording device"
+        ],
+        "technology_integration": "Use digital weather maps and journaling apps.",
+        "skills_developed": [
+          "Role-playing",
+          "Weather Vocabulary",
+          "Public Speaking",
+          "Descriptive Language"
+        ]
+      },
+      {
+        "id": "grade4_scenario6_project2",
+        "name": "Rainy Day Journal",
+        "type": "official",
+        "category": "Journaling",
+        "overview": "Students describe the activities they do during rainy days (e.g., 'It's raining today. I am reading inside the house.').",
+        "general_objective": "Develop descriptive writing and weather-activity connection skills.",
+        "specific_objectives": [
+          "Write descriptive rainy day entries",
+          "Connect weather with activities",
+          "Use present continuous tense",
+          "Create engaging journal entries"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.2.9",
+          "CE.ING.4.3.11"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Journal notebooks",
+          "Rainy day prompts",
+          "Illustration materials",
+          "Writing tools"
+        ],
+        "technology_integration": "Use digital journaling apps.",
+        "skills_developed": [
+          "Descriptive Writing",
+          "Weather-Activity Connection",
+          "Journaling Skills",
+          "Creative Expression"
+        ]
+      },
+      {
+        "id": "grade4_scenario6_project3",
+        "name": "Digital Weather Map",
+        "type": "official",
+        "category": "Digital Mapping",
+        "overview": "Students create or use a digital weather map, labeling locations and describing rainy weather.",
+        "general_objective": "Develop digital mapping and weather description skills.",
+        "specific_objectives": [
+          "Create digital weather map",
+          "Label locations accurately",
+          "Describe weather conditions",
+          "Present digital map"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.4.13",
+          "CE.ING.4.4.14"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Computers/tablets",
+          "Mapping software",
+          "Weather symbols",
+          "Presentation tools"
+        ],
+        "technology_integration": "Create interactive digital weather maps.",
+        "skills_developed": [
+          "Digital Mapping",
+          "Weather Description",
+          "Technical Skills",
+          "Presentation"
+        ]
+      }
+    ],
+    "Planning Meals for My Family": [
+      {
+        "id": "grade4_scenario7_project1",
+        "name": "Healthy Meal Plan",
+        "type": "official",
+        "category": "Meal Planning",
+        "overview": "Students create a meal plan for their family, using countable and uncountable nouns with quantifiers and modal verbs to describe preparation.",
+        "general_objective": "Develop meal planning and food vocabulary skills.",
+        "specific_objectives": [
+          "Create balanced meal plan",
+          "Use countable/uncountable nouns correctly",
+          "Apply quantifiers appropriately",
+          "Use modal verbs for preparation"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.2.10",
+          "CE.ING.4.3.12"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Meal plan templates",
+          "Food group charts",
+          "Quantifier guides",
+          "Recipe references"
+        ],
+        "technology_integration": "Use digital tools for recipe book creation and poster design.",
+        "skills_developed": [
+          "Meal Planning",
+          "Food Vocabulary",
+          "Nutrition Awareness",
+          "Family Responsibility"
+        ]
+      },
+      {
+        "id": "grade4_scenario7_project2",
+        "name": "Digital Recipe Book",
+        "type": "official",
+        "category": "Digital Publishing",
+        "overview": "Students collaborate to create a digital recipe book featuring healthy meals. They describe the ingredients and steps using the present simple tense.",
+        "general_objective": "Develop collaborative digital publishing and recipe writing skills.",
+        "specific_objectives": [
+          "Collaborate on digital book",
+          "Write clear recipe instructions",
+          "Use present simple tense correctly",
+          "Create visually appealing digital book"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.4.15",
+          "CE.ING.4.4.16"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Computers/tablets",
+          "Recipe book software",
+          "Food images",
+          "Collaboration tools"
+        ],
+        "technology_integration": "Create collaborative digital recipe books.",
+        "skills_developed": [
+          "Digital Publishing",
+          "Collaborative Writing",
+          "Recipe Creation",
+          "Technical Collaboration"
+        ]
+      },
+      {
+        "id": "grade4_scenario7_project3",
+        "name": "Nutrition Poster",
+        "type": "official",
+        "category": "Nutrition Education",
+        "overview": "Students design a nutrition poster highlighting the benefits of different foods, using quantifiers and the present simple tense.",
+        "general_objective": "Develop nutrition education and persuasive design skills.",
+        "specific_objectives": [
+          "Design informative nutrition poster",
+          "Use quantifiers accurately",
+          "Apply present simple for facts",
+          "Create persuasive visual design"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.2.11",
+          "CE.ING.4.3.13"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Poster materials",
+          "Nutrition information",
+          "Design tools",
+          "Presentation board"
+        ],
+        "technology_integration": "Create digital nutrition posters.",
+        "skills_developed": [
+          "Nutrition Education",
+          "Persuasive Design",
+          "Visual Communication",
+          "Health Awareness"
+        ]
+      }
+    ],
+    "Shopping at the Market": [
+      {
+        "id": "instruction_manual",
+        "name": "Instruction manual",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "process_poster",
+        "name": "Process poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "weather_report",
+        "name": "Weather report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "garden_log",
+        "name": "Garden log",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "beach_trip_guide",
+        "name": "Beach trip guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "The Beautiful Mola": [
+      {
+        "id": "grade4_scenario4_project1",
+        "name": "Mola Design Project",
+        "type": "official",
+        "category": "Art & Cultural Design",
+        "overview": "Students design a mola, describing the steps and choosing the colors (e.g., 'First, I choose the red fabric. Then I cut it.').",
+        "general_objective": "Develop artistic design and sequential description skills.",
+        "specific_objectives": [
+          "Design traditional mola pattern",
+          "Describe creation process sequentially",
+          "Use color vocabulary accurately",
+          "Present completed design"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.1.5",
+          "CE.ING.4.3.6"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Mola design templates",
+          "Colored paper/fabric",
+          "Scissors/glue",
+          "Sequencing word bank"
+        ],
+        "technology_integration": "Use video editing apps for tutorials and virtual exhibit tools.",
+        "skills_developed": [
+          "Artistic Design",
+          "Sequential Description",
+          "Cultural Appreciation",
+          "Fine Motor Skills"
+        ]
+      },
+      {
+        "id": "grade4_scenario4_project2",
+        "name": "Virtual Mola Exhibit",
+        "type": "official",
+        "category": "Digital Exhibition",
+        "overview": "Students create a virtual exhibit of their mola designs, describing the process using sequencing words.",
+        "general_objective": "Develop digital exhibition and descriptive skills.",
+        "specific_objectives": [
+          "Create digital exhibit space",
+          "Describe design process digitally",
+          "Use sequencing vocabulary",
+          "Present virtual exhibit"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.4.8",
+          "CE.ING.4.4.9"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Computers/tablets",
+          "Exhibit creation software",
+          "Digital mola images",
+          "Audio recording equipment"
+        ],
+        "technology_integration": "Use virtual exhibit creation tools.",
+        "skills_developed": [
+          "Digital Exhibition",
+          "Descriptive Language",
+          "Virtual Presentation",
+          "Cultural Documentation"
+        ]
+      },
+      {
+        "id": "grade4_scenario4_project3",
+        "name": "Mola Design Video",
+        "type": "official",
+        "category": "Video Instruction",
+        "overview": "Students film a video tutorial showing how to create a mola, describing each step of the process.",
+        "general_objective": "Develop video tutorial creation and explanatory skills.",
+        "specific_objectives": [
+          "Plan tutorial sequence",
+          "Demonstrate mola creation steps",
+          "Provide clear verbal instructions",
+          "Edit tutorial video"
+        ],
+        "institutional_standards": [
+          "CE.ING.4.4.10",
+          "CE.ING.4.4.11"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Video equipment",
+          "Mola materials",
+          "Script outlines",
+          "Editing software"
+        ],
+        "technology_integration": "Use video editing apps for tutorial production.",
+        "skills_developed": [
+          "Video Instruction",
+          "Process Explanation",
+          "Editing Skills",
+          "Cultural Teaching"
+        ]
+      },
+      {
+        "id": "instruction_manual",
+        "name": "Instruction manual",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "process_poster",
+        "name": "Process poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "weather_report",
+        "name": "Weather report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "garden_log",
+        "name": "Garden log",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "beach_trip_guide",
+        "name": "Beach trip guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "Visiting the Panama Canal": [
+      {
+        "id": "instruction_manual",
+        "name": "Instruction manual",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "process_poster",
+        "name": "Process poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "weather_report",
+        "name": "Weather report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "garden_log",
+        "name": "Garden log",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "beach_trip_guide",
+        "name": "Beach trip guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ]
+  }
+}

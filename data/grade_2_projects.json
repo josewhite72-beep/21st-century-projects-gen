@@ -1,0 +1,817 @@
+{
+  "project_type": "combined",
+  "grade": "2",
+  "proficiency_level": "A1.2",
+  "projects_by_scenario": {
+    "All About My Body": [
+      {
+        "id": "grade2_scenario4_project1",
+        "name": "Body & Clothes Matching Game",
+        "type": "official",
+        "category": "Matching Games",
+        "overview": "Students create a matching game with cards showing body parts and clothes (e.g., 'head' with 'hat') and play the game in groups.",
+        "general_objective": "Develop body and clothing vocabulary through interactive play.",
+        "specific_objectives": [
+          "Match body parts with appropriate clothing",
+          "Create game materials",
+          "Play game collaboratively"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.1.5",
+          "CE.ING.2.3.4"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Cardstock",
+          "Body part images",
+          "Clothing images",
+          "Game storage"
+        ],
+        "technology_integration": "Use online matching game platform for digital version."
+      },
+      {
+        "id": "grade2_scenario4_project2",
+        "name": "Body Part Puppet Show",
+        "type": "official",
+        "category": "Storytelling & Puppetry",
+        "overview": "Students create a storybook about puppets and the type of clothes they want them to wear, using descriptive sentences like 'The teddy bear wears a hat on his head.'",
+        "general_objective": "Develop storytelling skills and descriptive language.",
+        "specific_objectives": [
+          "Create puppet characters",
+          "Write simple stories",
+          "Perform puppet show"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.2.5",
+          "CE.ING.2.3.5"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Puppet materials",
+          "Storybook templates",
+          "Clothing for puppets",
+          "Stage setup"
+        ],
+        "technology_integration": "Record puppet show performances."
+      },
+      {
+        "id": "grade2_scenario4_project3",
+        "name": "Digital Body Quiz",
+        "type": "official",
+        "category": "Interactive Quizzes",
+        "overview": "Students create an interactive body part quiz using a simple online quiz-making tool.",
+        "general_objective": "Develop digital creation skills and body vocabulary reinforcement.",
+        "specific_objectives": [
+          "Create digital quiz questions",
+          "Add images to quiz",
+          "Test quiz with classmates"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.4.8",
+          "CE.ING.2.4.9"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Computers/tablets",
+          "Quiz creation tool",
+          "Body part images",
+          "Microphone (optional)"
+        ],
+        "technology_integration": "Create interactive digital quizzes."
+      },
+      {
+        "id": "community_map",
+        "name": "Community map",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "festival_poster",
+        "name": "Festival poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "nature_report",
+        "name": "Nature report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "recycling_chart",
+        "name": "Recycling chart",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "All About the Weather": [
+      {
+        "id": "grade2_scenario3_project1",
+        "name": "Weather Journal",
+        "type": "official",
+        "category": "Scientific Observation",
+        "overview": "Children create a weather journal, drawing daily weather conditions (e.g., sunny, rainy) and describing their favorite weather.",
+        "general_objective": "Develop consistent observation habits and weather vocabulary.",
+        "specific_objectives": [
+          "Record daily weather observations",
+          "Express weather preferences",
+          "Maintain organized journal"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.2.4",
+          "CE.ING.2.3.3"
+        ],
+        "duration": "Ongoing (1-2 weeks)",
+        "materials": [
+          "Weather journals",
+          "Drawing materials",
+          "Weather stamps",
+          "Date labels"
+        ],
+        "technology_integration": "Use a weather app to track daily weather conditions."
+      },
+      {
+        "id": "grade2_scenario3_project2",
+        "name": "Weather Forecast Video",
+        "type": "official",
+        "category": "Media & Performance",
+        "overview": "Students act as weather reporters, recording short videos describing the day's weather and their favorite weather using phrases like 'I like sunny days.'",
+        "general_objective": "Develop presentation skills and weather vocabulary in context.",
+        "specific_objectives": [
+          "Describe current weather accurately",
+          "Express personal preferences",
+          "Create engaging weather report"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.1.4",
+          "CE.ING.2.4.5"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Video recording equipment",
+          "Weather map backdrop",
+          "Script prompts",
+          "Props (umbrella, sunglasses)"
+        ],
+        "technology_integration": "Record and edit weather forecast videos."
+      },
+      {
+        "id": "grade2_scenario3_project3",
+        "name": "Digital Weather Tracking",
+        "type": "official",
+        "category": "Data Tracking",
+        "overview": "Students use a weather app to track daily weather conditions and create a digital weather report.",
+        "general_objective": "Develop digital research skills and data presentation.",
+        "specific_objectives": [
+          "Use weather app for data collection",
+          "Create digital weather charts",
+          "Present weather patterns"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.4.6",
+          "CE.ING.2.4.7"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Tablets/computers",
+          "Weather tracking app",
+          "Chart creation software",
+          "Presentation tools"
+        ],
+        "technology_integration": "Use weather apps and digital chart tools."
+      },
+      {
+        "id": "community_map",
+        "name": "Community map",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "festival_poster",
+        "name": "Festival poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "nature_report",
+        "name": "Nature report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "recycling_chart",
+        "name": "Recycling chart",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Discovering Nature's Wonders": [
+      {
+        "id": "grade2_scenario6_project1",
+        "name": "Rainforest Animal Profiles",
+        "type": "official",
+        "category": "Research & Profiles",
+        "overview": "Children review research simplified for learners by the teacher to understand different rainforest animals. With that information, students will create a profile for each animal with descriptions and images.",
+        "general_objective": "Develop research skills and animal vocabulary.",
+        "specific_objectives": [
+          "Gather animal information",
+          "Create animal profile cards",
+          "Present animal characteristics"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.2.7",
+          "CE.ING.2.3.8"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Animal information sheets",
+          "Profile templates",
+          "Animal images",
+          "Writing materials"
+        ],
+        "technology_integration": "Use tablet to research animals and create digital profiles."
+      },
+      {
+        "id": "grade2_scenario6_project2",
+        "name": "Nature Storybook",
+        "type": "official",
+        "category": "Creative Writing",
+        "overview": "Students create a storybook about animals they find in the rainforest, using descriptive sentences like 'The sloth is slow and furry.'",
+        "general_objective": "Develop creative writing and descriptive language skills.",
+        "specific_objectives": [
+          "Write simple animal stories",
+          "Create storybook illustrations",
+          "Assemble completed storybook"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.2.8",
+          "CE.ING.2.3.9"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Blank books",
+          "Animal reference materials",
+          "Drawing supplies",
+          "Binding materials"
+        ],
+        "technology_integration": "Create digital storybook with images and text."
+      },
+      {
+        "id": "grade2_scenario6_project3",
+        "name": "Digital Animal Cards",
+        "type": "official",
+        "category": "Digital Flashcards",
+        "overview": "Students use a digital tool, with assistance from the teacher, to create animal flashcards; they label the animals and describe them with adjectives like 'big jaguar' or 'slow sloth'.",
+        "general_objective": "Develop digital creation skills and descriptive vocabulary.",
+        "specific_objectives": [
+          "Create digital flashcards",
+          "Add images and descriptions",
+          "Use flashcards for review"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.4.12",
+          "CE.ING.2.4.13"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Tablets/computers",
+          "Flashcard app",
+          "Animal images",
+          "Adjective word bank"
+        ],
+        "technology_integration": "Create interactive digital animal flashcards."
+      },
+      {
+        "id": "community_map",
+        "name": "Community map",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "festival_poster",
+        "name": "Festival poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "nature_report",
+        "name": "Nature report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "recycling_chart",
+        "name": "Recycling chart",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Exploring My Community": [
+      {
+        "id": "grade2_scenario5_project1",
+        "name": "Community Map",
+        "type": "official",
+        "category": "Mapping Skills",
+        "overview": "Students create a community map labeling important places like 'the park' or 'the market' and drawing routes to explore them.",
+        "general_objective": "Develop spatial awareness and community vocabulary.",
+        "specific_objectives": [
+          "Identify community locations",
+          "Create accurate map representation",
+          "Label map elements"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.2.6",
+          "CE.ING.2.3.6"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Map paper",
+          "Community symbol stickers",
+          "Markers",
+          "Ruler"
+        ],
+        "technology_integration": "Use online map tool to create and label simple community map."
+      },
+      {
+        "id": "grade2_scenario5_project2",
+        "name": "Community Place Scavenger Hunt",
+        "type": "official",
+        "category": "Exploration Games",
+        "overview": "Students participate in a scavenger hunt around the classroom, identifying places in the community and matching them to descriptions (e.g., 'It's the market.').",
+        "general_objective": "Develop observation skills and community place recognition.",
+        "specific_objectives": [
+          "Match descriptions to community places",
+          "Complete scavenger hunt tasks",
+          "Work collaboratively"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.1.6",
+          "CE.ING.2.3.7"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Scavenger hunt cards",
+          "Community place pictures",
+          "Clipboards",
+          "Recording sheets"
+        ],
+        "technology_integration": "Use tablets for photo documentation during hunt."
+      },
+      {
+        "id": "grade2_scenario5_project3",
+        "name": "Digital Community Tour",
+        "type": "official",
+        "category": "Digital Tours",
+        "overview": "Students create a digital tour of their community with photos on a cell phone or by using pictures found or taken by the teacher, describing places with sentences like 'This is the park.'",
+        "general_objective": "Develop digital presentation skills and community awareness.",
+        "specific_objectives": [
+          "Create digital tour presentation",
+          "Add descriptive captions",
+          "Present tour to classmates"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.4.10",
+          "CE.ING.2.4.11"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Digital cameras/tablets",
+          "Presentation software",
+          "Community photos",
+          "Microphone"
+        ],
+        "technology_integration": "Create narrated digital community tour."
+      },
+      {
+        "id": "community_map",
+        "name": "Community map",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "festival_poster",
+        "name": "Festival poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "nature_report",
+        "name": "Nature report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "recycling_chart",
+        "name": "Recycling chart",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Fun Outdoors!": [
+      {
+        "id": "grade2_scenario7_project1",
+        "name": "Outdoor Sports Journal",
+        "type": "official",
+        "category": "Sports & Journaling",
+        "overview": "Students create a journal to record outdoor activities they enjoy (e.g., 'swimming' or 'running'), using action verbs to describe their experiences.",
+        "general_objective": "Develop writing skills and sports vocabulary.",
+        "specific_objectives": [
+          "Record outdoor activities",
+          "Use action verbs accurately",
+          "Create organized journal"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.2.9",
+          "CE.ING.2.3.10"
+        ],
+        "duration": "Ongoing (1-2 weeks)",
+        "materials": [
+          "Sports journals",
+          "Action verb list",
+          "Drawing materials",
+          "Activity stickers"
+        ],
+        "technology_integration": "Use fitness app to track outdoor activities."
+      },
+      {
+        "id": "grade2_scenario7_project2",
+        "name": "Digital Sports Day",
+        "type": "official",
+        "category": "Digital Media",
+        "overview": "Students create a short video or draw a comic strip panel about their favorite outdoor activity (e.g., swimming or running), and describe it using sentences like 'I love to run.'",
+        "general_objective": "Develop media creation skills and personal expression.",
+        "specific_objectives": [
+          "Create sports-themed media",
+          "Express personal preferences",
+          "Present media to others"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.1.7",
+          "CE.ING.2.4.14"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Video/camera equipment",
+          "Comic strip templates",
+          "Sports equipment props",
+          "Editing tools"
+        ],
+        "technology_integration": "Create digital sports presentations."
+      },
+      {
+        "id": "grade2_scenario7_project3",
+        "name": "Fitness Tracking App",
+        "type": "official",
+        "category": "Health & Technology",
+        "overview": "Students use a fitness tracking app to monitor their outdoor activities and describe their progress in simple sentences.",
+        "general_objective": "Develop technology skills and health awareness.",
+        "specific_objectives": [
+          "Use fitness tracking app",
+          "Record activity data",
+          "Describe progress verbally"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.4.15",
+          "CE.ING.2.4.16"
+        ],
+        "duration": "Ongoing (1 week)",
+        "materials": [
+          "Tablets/smartphones",
+          "Fitness app",
+          "Progress charts",
+          "Presentation tools"
+        ],
+        "technology_integration": "Use fitness apps for activity tracking and reporting."
+      },
+      {
+        "id": "community_map",
+        "name": "Community map",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "festival_poster",
+        "name": "Festival poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "nature_report",
+        "name": "Nature report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "recycling_chart",
+        "name": "Recycling chart",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "It's Festival Season": [
+      {
+        "id": "grade2_scenario8_project1",
+        "name": "Festival Celebration Poster",
+        "type": "official",
+        "category": "Cultural Arts",
+        "overview": "Students create a poster describing their favorite festival activities, including food and fun, using simple sentences and illustrations.",
+        "general_objective": "Develop cultural awareness and descriptive language.",
+        "specific_objectives": [
+          "Identify festival elements",
+          "Create visual festival representation",
+          "Write descriptive sentences"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.2.10",
+          "CE.ING.2.3.11"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Poster board",
+          "Festival images",
+          "Markers",
+          "Cultural reference materials"
+        ],
+        "technology_integration": "Use digital poster-making tool for design."
+      },
+      {
+        "id": "grade2_scenario8_project2",
+        "name": "Festival Storybook",
+        "type": "official",
+        "category": "Storytelling",
+        "overview": "Students create a storybook about their favorite festival, describing activities and food using general phrases like 'I like the fireworks.' or 'I love the food.'",
+        "general_objective": "Develop storytelling skills and cultural expression.",
+        "specific_objectives": [
+          "Write festival story",
+          "Create storybook illustrations",
+          "Share stories with others"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.2.11",
+          "CE.ING.2.3.12"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Blank books",
+          "Festival reference materials",
+          "Drawing supplies",
+          "Binding materials"
+        ],
+        "technology_integration": "Create digital festival storybook."
+      },
+      {
+        "id": "grade2_scenario8_project3",
+        "name": "Festival Photo Story",
+        "type": "official",
+        "category": "Photo Journalism",
+        "overview": "The teacher collects photos of local festivals and prints for students. In groups, students organize the images into a story collage they can present and describe to others.",
+        "general_objective": "Develop visual storytelling and presentation skills.",
+        "specific_objectives": [
+          "Organize photos into narrative",
+          "Create descriptive captions",
+          "Present photo story"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.4.17",
+          "CE.ING.2.4.18"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Festival photos",
+          "Collage materials",
+          "Caption strips",
+          "Presentation board"
+        ],
+        "technology_integration": "Create digital photo story with captions."
+      }
+    ],
+    "It's Festival Season.": [
+      {
+        "id": "community_map",
+        "name": "Community map",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "festival_poster",
+        "name": "Festival poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "nature_report",
+        "name": "Nature report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "recycling_chart",
+        "name": "Recycling chart",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "School Days": [
+      {
+        "id": "grade2_scenario1_project1",
+        "name": "Time Travel Calendar",
+        "type": "official",
+        "category": "Time Concepts & Art",
+        "overview": "Students draw a 'Time Travel' calendar on paper, note the days 'yesterday,' 'today,' and 'tomorrow,' and draw an activity for each day.",
+        "general_objective": "Develop understanding of past, present, and future time concepts.",
+        "specific_objectives": [
+          "Distinguish between yesterday, today, tomorrow",
+          "Create visual calendar representation",
+          "Associate activities with time periods"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.1.1",
+          "CE.ING.2.2.1"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Calendar templates",
+          "Markers/crayons",
+          "Day labels",
+          "Activity stickers"
+        ],
+        "technology_integration": "Use a simple calendar app to track days and events."
+      },
+      {
+        "id": "grade2_scenario1_project2",
+        "name": "Weekly Story Journal",
+        "type": "official",
+        "category": "Journaling & Weather",
+        "overview": "Students write short journal entries about the weather in their diaries (e.g., 'It is rainy today.' 'It was sunny yesterday.' 'It was cloudy on Tuesday.').",
+        "general_objective": "Develop writing skills and time/weather vocabulary integration.",
+        "specific_objectives": [
+          "Write complete sentences about weather",
+          "Use past and present tense correctly",
+          "Maintain consistent journal entries"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.2.2",
+          "CE.ING.2.3.1"
+        ],
+        "duration": "Ongoing (1 week)",
+        "materials": [
+          "Journal notebooks",
+          "Weather word bank",
+          "Date stamps",
+          "Writing prompts"
+        ],
+        "technology_integration": "Create digital diary entries with calendar integration."
+      },
+      {
+        "id": "grade2_scenario1_project3",
+        "name": "Digital Time Diary",
+        "type": "official",
+        "category": "Digital Documentation",
+        "overview": "Students learn to create a digital diary by using a simple calendar app or filling in calendar areas on a digital diary worksheet to track activities and events for yesterday and today.",
+        "general_objective": "Develop digital literacy and time tracking skills.",
+        "specific_objectives": [
+          "Navigate digital diary interface",
+          "Enter daily activities digitally",
+          "Review past entries"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.4.1",
+          "CE.ING.2.4.2"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Tablets/computers",
+          "Diary app",
+          "Digital calendar",
+          "Stylus (optional)"
+        ],
+        "technology_integration": "Use digital diary apps with calendar features."
+      },
+      {
+        "id": "community_map",
+        "name": "Community map",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "festival_poster",
+        "name": "Festival poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "nature_report",
+        "name": "Nature report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "recycling_chart",
+        "name": "Recycling chart",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "School Life Adventures": [
+      {
+        "id": "grade2_scenario2_project1",
+        "name": "My Classroom Object Hunt",
+        "type": "official",
+        "category": "Exploration & Description",
+        "overview": "Students go on a classroom object hunt, labeling objects with descriptive words like 'big,' 'small,' or colors, and create a mini-poster.",
+        "general_objective": "Develop descriptive vocabulary and observation skills.",
+        "specific_objectives": [
+          "Find and describe classroom objects",
+          "Use adjectives accurately",
+          "Create organized visual display"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.1.2",
+          "CE.ING.2.2.3"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Hunt checklist",
+          "Clipboards",
+          "Adjective cards",
+          "Poster materials"
+        ],
+        "technology_integration": "Use cellphone or tablet camera to take pictures and label objects digitally."
+      },
+      {
+        "id": "grade2_scenario2_project2",
+        "name": "Classroom Object Bingo",
+        "type": "official",
+        "category": "Listening Games",
+        "overview": "Students play a game of bingo. The teacher describes classroom objects (e.g., 'small brown bag'), and students mark the correct object on their bingo cards.",
+        "general_objective": "Develop listening comprehension and descriptive language recognition.",
+        "specific_objectives": [
+          "Listen for descriptive clues",
+          "Identify objects from descriptions",
+          "Play game with accuracy"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.1.3",
+          "CE.ING.2.3.2"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Bingo cards",
+          "Object pictures",
+          "Calling cards",
+          "Markers"
+        ],
+        "technology_integration": "Create digital bingo game with audio descriptions."
+      },
+      {
+        "id": "grade2_scenario2_project3",
+        "name": "Digital Object Hunt",
+        "type": "official",
+        "category": "Digital Creation",
+        "overview": "Students use cell phones or tablets to take pictures of classroom objects, label them with adjectives, and create a digital poster.",
+        "general_objective": "Develop technology skills and digital presentation abilities.",
+        "specific_objectives": [
+          "Take clear object photos",
+          "Add descriptive labels digitally",
+          "Create organized digital poster"
+        ],
+        "institutional_standards": [
+          "CE.ING.2.4.3",
+          "CE.ING.2.4.4"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Tablets/cameras",
+          "Poster creation app",
+          "Adjective word bank",
+          "Printing capability"
+        ],
+        "technology_integration": "Create digital poster with photos and text labels."
+      },
+      {
+        "id": "community_map",
+        "name": "Community map",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "festival_poster",
+        "name": "Festival poster",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "nature_report",
+        "name": "Nature report",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "recycling_chart",
+        "name": "Recycling chart",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ]
+  }
+}

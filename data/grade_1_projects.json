@@ -1,0 +1,1305 @@
+{
+  "project_type": "combined",
+  "grade": "1",
+  "proficiency_level": "A1.1",
+  "projects_by_scenario": {
+    "All Week Long!": [
+      {
+        "id": "grade1_scenario1_project1",
+        "name": "Days of the Week Calendar",
+        "type": "official",
+        "category": "Time Management & Organization",
+        "overview": "Students create a visual calendar to reinforce their understanding of the days of the week. They mark and label each day, including weekdays and weekends, and illustrate common daily activities.",
+        "general_objective": "Develop time awareness and calendar skills while practicing days of the week vocabulary.",
+        "specific_objectives": [
+          "Identify and name the seven days of the week",
+          "Distinguish between weekdays and weekends",
+          "Associate daily activities with specific days",
+          "Create a visual representation of a weekly schedule"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.1",
+          "CE.ING.1.2.2",
+          "CE.ING.1.3.1"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Blank calendar templates",
+          "Crayons/markers",
+          "Stickers",
+          "Glue",
+          "Magazine cutouts"
+        ],
+        "technology_integration": "Use an online calendar tool to fill in days and activities.",
+        "skills_developed": [
+          "Time Awareness",
+          "Communication",
+          "Organization",
+          "Visual Representation"
+        ],
+        "activities": [
+          "Introduce days of the week through songs and chants",
+          "Create individual calendar templates",
+          "Draw and label activities for each day",
+          "Present calendars to classmates explaining their weekly schedule"
+        ],
+        "products_evidences": [
+          "Completed visual calendar",
+          "Oral presentation",
+          "Labeled illustrations"
+        ],
+        "rubric_criteria": {
+          "Accuracy": "Correct labeling of all days",
+          "Completeness": "Includes both weekdays and weekends",
+          "Creativity": "Clear and colorful illustrations",
+          "Presentation": "Clear explanation of daily activities"
+        },
+        "differentiation": "Provide pre-printed day labels for struggling students; allow choice of digital or physical format."
+      },
+      {
+        "id": "grade1_scenario1_project2",
+        "name": "Day of the Week Song",
+        "type": "official",
+        "category": "Music & Language Integration",
+        "overview": "Students create and sing a song about the days of the week using simple sentences like 'Today is Monday.'",
+        "general_objective": "Reinforce days of the week vocabulary through musical expression and repetition.",
+        "specific_objectives": [
+          "Memorize the sequence of days through song",
+          "Use correct pronunciation of day names",
+          "Incorporate simple sentences in musical format",
+          "Perform rhythmically with peers"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.3",
+          "CE.ING.1.4.1"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Audio recording device",
+          "Simple instruments (shakers, tambourines)",
+          "Lyric sheets"
+        ],
+        "technology_integration": "Record the song using a tablet or computer; create a simple music video.",
+        "skills_developed": [
+          "Musical Expression",
+          "Memorization",
+          "Collaboration",
+          "Oral Fluency"
+        ],
+        "activities": [
+          "Learn existing days-of-the-week songs",
+          "Brainstorm new lyrics as a class",
+          "Practice singing with gestures/movements",
+          "Record or perform the song for others"
+        ],
+        "products_evidences": [
+          "Song performance (live or recorded)",
+          "Written lyrics",
+          "Gesture choreography"
+        ],
+        "rubric_criteria": {
+          "Pronunciation": "Clear articulation of day names",
+          "Accuracy": "Correct sequence of days",
+          "Creativity": "Original lyrics or adaptations",
+          "Participation": "Active engagement in performance"
+        },
+        "differentiation": "Provide visual prompts for lyrics; allow students to hum or clap instead of singing full lyrics if needed."
+      },
+      {
+        "id": "grade1_scenario1_project3",
+        "name": "Daily Schedule Chart",
+        "type": "official",
+        "category": "Routine Planning",
+        "overview": "Students create a chart outlining their activities each day of the week, labeling each activity with simple sentences like 'On Monday, I play.'",
+        "general_objective": "Develop planning skills and associate language with daily routines.",
+        "specific_objectives": [
+          "Identify regular daily activities",
+          "Use day+activity sentence structure",
+          "Create an organized visual schedule",
+          "Present personal routines to others"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.2.3",
+          "CE.ING.1.3.2"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Chart paper",
+          "Markers",
+          "Stickers for activities",
+          "Rulers"
+        ],
+        "technology_integration": "Use simple scheduling apps or create digital charts with teacher assistance.",
+        "skills_developed": [
+          "Planning",
+          "Sequencing",
+          "Self-awareness",
+          "Descriptive Language"
+        ],
+        "activities": [
+          "Brainstorm common daily activities",
+          "Create individual schedule charts",
+          "Draw and label activities for each day",
+          "Share schedules in small groups"
+        ],
+        "products_evidences": [
+          "Daily schedule chart",
+          "Written sentences",
+          "Oral description"
+        ],
+        "rubric_criteria": {
+          "Organization": "Clear day-by-day structure",
+          "Language": "Correct use of 'On [day], I [activity]'",
+          "Completeness": "Includes multiple activities per day",
+          "Neatness": "Legible writing and clear drawings"
+        },
+        "differentiation": "Provide picture cards of common activities; use sentence frames for writing."
+      },
+      {
+        "id": "mini_book",
+        "name": "Mini-book",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "visual_organizer",
+        "name": "Visual organizer",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "weather_chart",
+        "name": "Weather chart",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Around My School": [
+      {
+        "id": "classroom_map",
+        "name": "Classroom map",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ],
+    "Colors in Our World": [
+      {
+        "id": "grade1_scenario3_project1",
+        "name": "Color Nature Walk",
+        "type": "official",
+        "category": "Nature Exploration",
+        "overview": "Students go on a 'color nature walk' around the school, observing and collecting colorful objects (e.g., blue flowers, green leaves), then create a color chart.",
+        "general_objective": "Develop observation skills and color vocabulary through nature exploration.",
+        "specific_objectives": [
+          "Identify colors in natural environment",
+          "Collect and categorize natural objects by color",
+          "Use descriptive color+object phrases",
+          "Create organized visual display"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.2",
+          "CE.ING.1.3.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Collection bags",
+          "Color sorting mats",
+          "Chart paper",
+          "Camera (optional)"
+        ],
+        "technology_integration": "Use a tablet to take photos of objects and create a digital color chart with the teacher's help.",
+        "skills_developed": [
+          "Observation",
+          "Categorization",
+          "Collaboration",
+          "Descriptive Language"
+        ],
+        "activities": [
+          "Pre-walk color vocabulary review",
+          "Guided nature walk with collection bags",
+          "Sorting and categorizing collected items",
+          "Creating classroom color display"
+        ],
+        "products_evidences": [
+          "Color collection",
+          "Classroom color chart",
+          "Photo documentation"
+        ],
+        "rubric_criteria": {
+          "Observation": "Identifies multiple color examples",
+          "Organization": "Clear color categorization",
+          "Vocabulary": "Correct use of color+object phrases",
+          "Participation": "Active engagement in walk and sorting"
+        },
+        "differentiation": "Provide color swatches for matching; limit color focus to 2-3 primary colors."
+      },
+      {
+        "id": "grade1_scenario3_project2",
+        "name": "Color Sorting Game",
+        "type": "official",
+        "category": "Games & Sorting",
+        "overview": "Students play a color sorting game matching colored objects (e.g., blue birds, red cars) to their corresponding colors on a chart.",
+        "general_objective": "Reinforce color recognition through interactive play and matching activities.",
+        "specific_objectives": [
+          "Match objects to corresponding colors",
+          "Use color vocabulary in game context",
+          "Follow game rules and take turns",
+          "Work collaboratively with peers"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.3",
+          "CE.ING.1.4.1"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Color cards",
+          "Object picture cards",
+          "Game boards",
+          "Timers (optional)"
+        ],
+        "technology_integration": "Create digital version of matching game with tablet.",
+        "skills_developed": [
+          "Visual Discrimination",
+          "Game Strategy",
+          "Social Skills",
+          "Following Directions"
+        ],
+        "activities": [
+          "Create or prepare color game materials",
+          "Demonstrate and practice game rules",
+          "Small group game play",
+          "Discussion of matches and choices"
+        ],
+        "products_evidences": [
+          "Game completion",
+          "Photo documentation of play",
+          "Student-created game variations"
+        ],
+        "rubric_criteria": {
+          "Accuracy": "Correct color-object matches",
+          "Participation": "Active engagement in game",
+          "Sportsmanship": "Good turn-taking and collaboration",
+          "Vocabulary": "Use of color names during play"
+        },
+        "differentiation": "Reduce number of colors; provide physical objects instead of pictures."
+      },
+      {
+        "id": "grade1_scenario3_project3",
+        "name": "Color Collage",
+        "type": "official",
+        "category": "Art & Creativity",
+        "overview": "Students create a collage using colored paper or magazine cutouts, labeling objects with sentences like 'This is a blue bird.'",
+        "general_objective": "Develop artistic expression while practicing descriptive language with colors.",
+        "specific_objectives": [
+          "Create visually appealing color collage",
+          "Use glue and cutting skills appropriately",
+          "Write descriptive color+object sentences",
+          "Present artwork with descriptions"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.2.2",
+          "CE.ING.1.3.2"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Construction paper",
+          "Magazines",
+          "Scissors",
+          "Glue",
+          "Markers"
+        ],
+        "technology_integration": "Create digital collage using simple art apps.",
+        "skills_developed": [
+          "Fine Motor Skills",
+          "Artistic Composition",
+          "Descriptive Writing",
+          "Self-expression"
+        ],
+        "activities": [
+          "Collect colored materials",
+          "Plan collage composition",
+          "Cut, arrange, and glue materials",
+          "Write descriptive labels"
+        ],
+        "products_evidences": [
+          "Completed collage",
+          "Written descriptions",
+          "Oral presentation"
+        ],
+        "rubric_criteria": {
+          "Creativity": "Thoughtful color composition",
+          "Craftsmanship": "Neat cutting and gluing",
+          "Language": "Accurate descriptive sentences",
+          "Presentation": "Clear explanation of artwork"
+        },
+        "differentiation": "Pre-cut shapes; provide sentence frames; allow focus on fewer colors."
+      }
+    ],
+    "Colors of Things That Go": [
+      {
+        "id": "grade1_scenario5_project1",
+        "name": "Vehicle Color Matching",
+        "type": "official",
+        "category": "Matching Games",
+        "overview": "Students create a matching game by drawing and coloring different vehicles (e.g., green cars and red buses) and matching them to color labels.",
+        "general_objective": "Reinforce color and vehicle vocabulary through game creation.",
+        "specific_objectives": [
+          "Identify common vehicles and their colors",
+          "Create matching game components",
+          "Play game with correct color-vehicle matches",
+          "Use descriptive phrases in game context"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.2",
+          "CE.ING.1.3.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Cardstock",
+          "Crayons/markers",
+          "Laminator (optional)",
+          "Game storage bags"
+        ],
+        "technology_integration": "Use a tablet to play a color and vehicle matching game or design one digitally.",
+        "skills_developed": [
+          "Game Design",
+          "Visual Discrimination",
+          "Fine Motor Skills",
+          "Social Play"
+        ],
+        "activities": [
+          "Review vehicle and color vocabulary",
+          "Create vehicle cards with colors",
+          "Create matching color label cards",
+          "Play matching game in pairs"
+        ],
+        "products_evidences": [
+          "Matching game set",
+          "Game play demonstration",
+          "Photo documentation"
+        ],
+        "rubric_criteria": {
+          "Accuracy": "Correct vehicle-color combinations",
+          "Craftsmanship": "Neat, recognizable drawings",
+          "Game Play": "Correct matching during play",
+          "Vocabulary": "Use of descriptive phrases"
+        },
+        "differentiation": "Provide vehicle templates; reduce number of matches."
+      },
+      {
+        "id": "grade1_scenario5_project2",
+        "name": "Vehicle Drawing Game",
+        "type": "official",
+        "category": "Art & Description",
+        "overview": "Students draw and color vehicles (cars, buses, bikes) and label them with sentences like 'This is a red bus.'",
+        "general_objective": "Develop artistic skills while practicing descriptive language.",
+        "specific_objectives": [
+          "Draw recognizable vehicles",
+          "Use appropriate colors for vehicles",
+          "Write descriptive vehicle+color sentences",
+          "Present drawings with descriptions"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.2.2",
+          "CE.ING.1.3.2"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Drawing paper",
+          "Colored pencils",
+          "Vehicle reference images",
+          "Label strips"
+        ],
+        "technology_integration": "Use drawing apps on tablets for digital vehicle art.",
+        "skills_developed": [
+          "Drawing Skills",
+          "Color Theory",
+          "Descriptive Writing",
+          "Art Display"
+        ],
+        "activities": [
+          "Study different vehicle shapes",
+          "Practice drawing vehicles",
+          "Color and label drawings",
+          "Create classroom vehicle gallery"
+        ],
+        "products_evidences": [
+          "Vehicle drawings",
+          "Written labels",
+          "Gallery presentation"
+        ],
+        "rubric_criteria": {
+          "Drawing Skill": "Recognizable vehicles",
+          "Color Choice": "Appropriate vehicle colors",
+          "Language": "Accurate descriptive sentences",
+          "Presentation": "Neat, organized work"
+        },
+        "differentiation": "Provide tracing templates; use sentence frames."
+      },
+      {
+        "id": "grade1_scenario5_project3",
+        "name": "Transportation Chart",
+        "type": "official",
+        "category": "Data Organization",
+        "overview": "Students create a transportation chart with columns for vehicles and colors, labeling each with sentences like 'That is a blue car.'",
+        "general_objective": "Develop organizational skills through chart creation and data representation.",
+        "specific_objectives": [
+          "Categorize vehicles by type and color",
+          "Create organized chart layout",
+          "Use chart to present information",
+          "Answer questions using chart data"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.2.3",
+          "CE.ING.1.3.3"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Chart paper",
+          "Markers",
+          "Vehicle pictures",
+          "Rulers"
+        ],
+        "technology_integration": "Create digital chart using spreadsheet or presentation software.",
+        "skills_developed": [
+          "Data Organization",
+          "Chart Creation",
+          "Categorization",
+          "Reference Skills"
+        ],
+        "activities": [
+          "Brainstorm vehicle types and colors",
+          "Design chart layout",
+          "Populate chart with examples",
+          "Use chart for Q&A activities"
+        ],
+        "products_evidences": [
+          "Completed transportation chart",
+          "Chart-based Q&A",
+          "Classroom display"
+        ],
+        "rubric_criteria": {
+          "Organization": "Clear column/row structure",
+          "Completeness": "Multiple vehicle examples",
+          "Accuracy": "Correct vehicle-color combinations",
+          "Utility": "Chart is usable for reference"
+        },
+        "differentiation": "Provide pre-made chart template; work in small groups."
+      }
+    ],
+    "Healthy Habits": [
+      {
+        "id": "daily_routine_poster",
+        "name": "Daily routine poster",
+        "type": "complementary",
+        "category": "Health & Wellbeing"
+      }
+    ],
+    "It's Our Garden": [
+      {
+        "id": "grade1_scenario8_project1",
+        "name": "Garden Nature Journal",
+        "type": "official",
+        "category": "Nature Journaling",
+        "overview": "Children explore the school garden, observe plants and trees, and record their findings in a nature journal, labeling each plant with simple sentences like 'This is a tall tree.'",
+        "general_objective": "Develop observation and documentation skills in natural environment.",
+        "specific_objectives": [
+          "Observe and describe garden plants",
+          "Record observations in journal",
+          "Use descriptive plant vocabulary",
+          "Create organized journal entries"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.1",
+          "CE.ING.1.2.1"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Nature journals/notebooks",
+          "Pencils/crayons",
+          "Clipboards",
+          "Plant identification guides"
+        ],
+        "technology_integration": "Use a nature journaling app to record findings and add digital photos.",
+        "skills_developed": [
+          "Scientific Observation",
+          "Journaling Skills",
+          "Nature Vocabulary",
+          "Documentation"
+        ],
+        "activities": [
+          "Garden exploration walk",
+          "Observation and note-taking",
+          "Journal entry creation",
+          "Journal sharing session"
+        ],
+        "products_evidences": [
+          "Nature journal",
+          "Plant observations",
+          "Descriptive sentences"
+        ],
+        "rubric_criteria": {
+          "Observation": "Detailed plant descriptions",
+          "Recording": "Complete journal entries",
+          "Language": "Descriptive plant vocabulary",
+          "Organization": "Orderly journal format"
+        },
+        "differentiation": "Provide journal templates; focus on 2-3 specific plants."
+      },
+      {
+        "id": "grade1_scenario8_project2",
+        "name": "Garden Scavenger Hunt",
+        "type": "official",
+        "category": "Exploration Games",
+        "overview": "Students participate in a scavenger hunt in the school garden, finding objects like pink flowers and tall trees and labeling them with sentences.",
+        "general_objective": "Develop exploration skills and descriptive language through game-based learning.",
+        "specific_objectives": [
+          "Follow scavenger hunt clues",
+          "Identify specific garden features",
+          "Use descriptive sentences",
+          "Work collaboratively in teams"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.3",
+          "CE.ING.1.3.2"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Scavenger hunt lists",
+          "Clipboards",
+          "Cameras (optional)",
+          "Garden maps"
+        ],
+        "technology_integration": "Use tablets for photo documentation during scavenger hunt.",
+        "skills_developed": [
+          "Exploration",
+          "Team Collaboration",
+          "Observation",
+          "Game-based Learning"
+        ],
+        "activities": [
+          "Introduce scavenger hunt rules",
+          "Garden exploration in teams",
+          "Object identification and labeling",
+          "Team presentations of findings"
+        ],
+        "products_evidences": [
+          "Completed scavenger hunt list",
+          "Labeled photos/drawings",
+          "Team presentation"
+        ],
+        "rubric_criteria": {
+          "Completion": "All scavenger items found",
+          "Accuracy": "Correct identification",
+          "Language": "Descriptive labeling",
+          "Teamwork": "Effective collaboration"
+        },
+        "differentiation": "Simplify scavenger hunt list; provide visual clues."
+      },
+      {
+        "id": "grade1_scenario8_project3",
+        "name": "Digital Nature Photo Book",
+        "type": "official",
+        "category": "Digital Documentation",
+        "overview": "Students take photos of plants and trees in the school garden and create a digital photo book, labeling each plant with simple sentences like 'This is a pink flower.'",
+        "general_objective": "Develop digital documentation skills while exploring nature.",
+        "specific_objectives": [
+          "Use digital camera responsibly",
+          "Take clear plant photos",
+          "Create organized digital book",
+          "Add descriptive text labels"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.4.1",
+          "CE.ING.1.4.3"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Digital cameras/tablets",
+          "Computer for editing",
+          "Book creation software",
+          "Printer (optional)"
+        ],
+        "technology_integration": "Use photo book apps or presentation software for creation.",
+        "skills_developed": [
+          "Digital Photography",
+          "Book Creation",
+          "Plant Identification",
+          "Digital Presentation"
+        ],
+        "activities": [
+          "Camera use training",
+          "Garden photo session",
+          "Digital book creation",
+          "Photo book presentation"
+        ],
+        "products_evidences": [
+          "Digital photo book",
+          "Printed book pages",
+          "Presentation"
+        ],
+        "rubric_criteria": {
+          "Photography": "Clear, well-composed photos",
+          "Organization": "Logical book structure",
+          "Labeling": "Accurate descriptive labels",
+          "Technology Use": "Effective digital tool use"
+        },
+        "differentiation": "Provide pre-taken photos; work in pairs on book creation."
+      }
+    ],
+    "Let's Have Fun Together": [
+      {
+        "id": "teamwork_poster",
+        "name": "Teamwork poster",
+        "type": "complementary",
+        "category": "Civic & Social Responsibility"
+      }
+    ],
+    "My Family and Friends": [
+      {
+        "id": "family_tree",
+        "name": "Family tree",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ],
+    "My Family and I": [
+      {
+        "id": "grade1_scenario4_project1",
+        "name": "Family Portrait",
+        "type": "official",
+        "category": "Art & Family Studies",
+        "overview": "Students draw a family portrait, labeling each family member with sentences like 'This is my mom.' and 'He is my brother.'",
+        "general_objective": "Develop family vocabulary and personal expression through art.",
+        "specific_objectives": [
+          "Identify family members and relationships",
+          "Use possessive adjectives correctly (my, his, her)",
+          "Create detailed family portrait",
+          "Write descriptive labels for each person"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.1",
+          "CE.ING.1.2.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Drawing paper",
+          "Crayons/markers",
+          "Family photo examples",
+          "Label strips"
+        ],
+        "technology_integration": "Create digital family tree using a simple app with photos and names.",
+        "skills_developed": [
+          "Artistic Expression",
+          "Family Vocabulary",
+          "Descriptive Writing",
+          "Personal Identity"
+        ],
+        "activities": [
+          "Discuss different family structures",
+          "Draw family members with details",
+          "Practice family member vocabulary",
+          "Write labeling sentences"
+        ],
+        "products_evidences": [
+          "Family portrait drawing",
+          "Written labels",
+          "Oral family description"
+        ],
+        "rubric_criteria": {
+          "Detail": "Recognizable family members",
+          "Accuracy": "Correct family terms and pronouns",
+          "Completeness": "Includes multiple family members",
+          "Neatness": "Clear writing and drawing"
+        },
+        "differentiation": "Provide family member stickers; use sentence frames for labeling."
+      },
+      {
+        "id": "grade1_scenario4_project2",
+        "name": "Family Member Interview",
+        "type": "official",
+        "category": "Interview Skills",
+        "overview": "Students ask a family member simple questions like 'Who is she/he?' and record their answers to share with the class.",
+        "general_objective": "Develop interview skills and family relationship vocabulary.",
+        "specific_objectives": [
+          "Formulate simple questions about family",
+          "Record answers accurately",
+          "Present interview findings to class",
+          "Use question words appropriately"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.3",
+          "CE.ING.1.4.2"
+        ],
+        "duration": "2-3 class periods (including home component)",
+        "materials": [
+          "Interview question templates",
+          "Recording devices (optional)",
+          "Presentation aids"
+        ],
+        "technology_integration": "Record audio interviews; create simple presentation slides.",
+        "skills_developed": [
+          "Interview Skills",
+          "Family Research",
+          "Presentation Skills",
+          "Question Formation"
+        ],
+        "activities": [
+          "Practice interview questions in class",
+          "Conduct home interview with family",
+          "Record or write answers",
+          "Share interviews in small groups"
+        ],
+        "products_evidences": [
+          "Interview notes/recording",
+          "Presentation to class",
+          "Family information sheet"
+        ],
+        "rubric_criteria": {
+          "Question Quality": "Relevant, clear questions",
+          "Completion": "Completed interview with notes",
+          "Presentation": "Clear sharing of information",
+          "Accuracy": "Correct use of family terms"
+        },
+        "differentiation": "Provide pre-written questions; allow drawing instead of writing answers."
+      },
+      {
+        "id": "grade1_scenario4_project3",
+        "name": "Digital Family Tree",
+        "type": "official",
+        "category": "Digital Literacy & Genealogy",
+        "overview": "Students create a family tree using a digital family tree maker or a slide presentation app. They include simple sentences like 'This is my dad.' and answer questions such as 'Who is she?' with 'She is my grandmother.'",
+        "general_objective": "Develop technology skills while exploring family relationships.",
+        "specific_objectives": [
+          "Navigate simple digital creation tools",
+          "Organize family information hierarchically",
+          "Use digital images or icons",
+          "Answer questions about family relationships"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.4.1",
+          "CE.ING.1.3.3"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Computers/tablets",
+          "Family tree software/app",
+          "Printer (optional)",
+          "Family photos (digital)"
+        ],
+        "technology_integration": "Use family tree apps or presentation software with teacher guidance.",
+        "skills_developed": [
+          "Digital Literacy",
+          "Organizational Skills",
+          "Family History",
+          "Presentation Technology"
+        ],
+        "activities": [
+          "Introduce family tree concept",
+          "Practice with digital tool",
+          "Create digital family tree",
+          "Present and answer questions about tree"
+        ],
+        "products_evidences": [
+          "Digital family tree file",
+          "Printout of tree",
+          "Q&A demonstration"
+        ],
+        "rubric_criteria": {
+          "Organization": "Clear hierarchical structure",
+          "Completeness": "Includes multiple generations",
+          "Technology Use": "Effective use of digital tool",
+          "Communication": "Clear answers to questions"
+        },
+        "differentiation": "Provide paper-based alternative; use icons instead of photos."
+      }
+    ],
+    "Nice Weather Today!": [
+      {
+        "id": "grade1_scenario2_project1",
+        "name": "Weather Wheel",
+        "type": "official",
+        "category": "Science & Observation",
+        "overview": "Children create a 'weather wheel' with pictures of sunny, rainy, and windy weather and use it to describe the daily weather in class.",
+        "general_objective": "Develop observation skills and weather-related vocabulary through hands-on creation.",
+        "specific_objectives": [
+          "Identify basic weather conditions (sunny, rainy, windy)",
+          "Create a functional weather tool",
+          "Use weather vocabulary in daily descriptions",
+          "Observe and record daily weather patterns"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.2",
+          "CE.ING.1.3.3"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Paper plates",
+          "Brad fasteners",
+          "Weather symbol printables",
+          "Crayons"
+        ],
+        "technology_integration": "Use an interactive weather app to learn about different types of weather.",
+        "skills_developed": [
+          "Scientific Observation",
+          "Fine Motor Skills",
+          "Routine Establishment",
+          "Descriptive Language"
+        ],
+        "activities": [
+          "Discuss different types of weather",
+          "Create weather wheel with movable arrow",
+          "Practice using wheel to show current weather",
+          "Take turns being 'weather reporter'"
+        ],
+        "products_evidences": [
+          "Completed weather wheel",
+          "Daily weather reports",
+          "Observation records"
+        ],
+        "rubric_criteria": {
+          "Functionality": "Wheel spins smoothly and clearly",
+          "Accuracy": "Correct weather symbols and labels",
+          "Usage": "Regular use for daily weather reporting",
+          "Vocabulary": "Correct use of weather terms"
+        },
+        "differentiation": "Pre-cut weather symbols; provide verbal prompts for descriptions."
+      },
+      {
+        "id": "grade1_scenario2_project2",
+        "name": "Weather Journal",
+        "type": "official",
+        "category": "Journaling & Documentation",
+        "overview": "Students maintain a weather journal where they draw the day's weather and write sentences like 'It is sunny.'",
+        "general_objective": "Develop consistent documentation habits and written expression skills.",
+        "specific_objectives": [
+          "Record daily weather observations",
+          "Practice simple sentence writing",
+          "Create a consistent journaling routine",
+          "Compare weather patterns over time"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.2.1",
+          "CE.ING.1.4.2"
+        ],
+        "duration": "Ongoing (1-2 weeks)",
+        "materials": [
+          "Notebooks or journal templates",
+          "Pencils/crayons",
+          "Weather stamps or stickers"
+        ],
+        "technology_integration": "Use a digital journaling app with weather icons.",
+        "skills_developed": [
+          "Consistency",
+          "Written Expression",
+          "Observation",
+          "Data Collection"
+        ],
+        "activities": [
+          "Create personalized weather journal covers",
+          "Daily weather observation and recording",
+          "Weekly review of weather patterns",
+          "Share journal entries with classmates"
+        ],
+        "products_evidences": [
+          "Weather journal with multiple entries",
+          "Written sentences",
+          "Weather drawings"
+        ],
+        "rubric_criteria": {
+          "Consistency": "Regular daily entries",
+          "Accuracy": "Correct weather depiction",
+          "Writing": "Legible sentences with correct structure",
+          "Completion": "Journal covers specified period"
+        },
+        "differentiation": "Provide sentence starters; allow drawing-only entries initially."
+      },
+      {
+        "id": "grade1_scenario2_project3",
+        "name": "Weather Report Video",
+        "type": "official",
+        "category": "Media & Presentation",
+        "overview": "Students act as weather reporters and record short videos describing the weather using sentences like 'It is raining today.'",
+        "general_objective": "Develop presentation skills and confidence in spoken English through role-play.",
+        "specific_objectives": [
+          "Speak clearly about weather conditions",
+          "Use appropriate reporter language and posture",
+          "Create simple visual aids for report",
+          "Participate in video recording"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.4",
+          "CE.ING.1.4.3"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Video recording device",
+          "Simple props (umbrella, sunglasses)",
+          "Background paper/signs"
+        ],
+        "technology_integration": "Use tablet or phone for recording; simple editing if possible.",
+        "skills_developed": [
+          "Public Speaking",
+          "Role-playing",
+          "Technology Use",
+          "Confidence Building"
+        ],
+        "activities": [
+          "Watch sample weather reports",
+          "Practice reporter scripts",
+          "Create simple background props",
+          "Record and watch videos"
+        ],
+        "products_evidences": [
+          "Weather report video",
+          "Script or notes",
+          "Prop/background creation"
+        ],
+        "rubric_criteria": {
+          "Clarity": "Clear speech and pronunciation",
+          "Content": "Accurate weather description",
+          "Creativity": "Engaging presentation style",
+          "Participation": "Active involvement in production"
+        },
+        "differentiation": "Provide script templates; allow pairs instead of solo reports."
+      },
+      {
+        "id": "weather_chart",
+        "name": "Weather chart",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "garden_poster",
+        "name": "Garden poster",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "mini_dictionary_weather",
+        "name": "Mini dictionary (Weather)",
+        "type": "complementary",
+        "category": "School & Academic"
+      }
+    ],
+    "Our Community": [
+      {
+        "id": "community_map",
+        "name": "Community map",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "Shapes Around Us": [
+      {
+        "id": "grade1_scenario6_project1",
+        "name": "Shape Collage",
+        "type": "official",
+        "category": "Art & Geometry",
+        "overview": "Children cut out pictures of objects in different shapes (circles, squares, rectangles) and create a collage, labeling each shape with sentences like 'This is a circle.'",
+        "general_objective": "Develop shape recognition through hands-on art creation.",
+        "specific_objectives": [
+          "Identify basic geometric shapes",
+          "Find shape examples in real-world objects",
+          "Create organized collage composition",
+          "Label shapes accurately"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.1",
+          "CE.ING.1.2.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Magazines/catalogs",
+          "Scissors",
+          "Glue",
+          "Construction paper",
+          "Markers"
+        ],
+        "technology_integration": "Use a digital collage-making tool or an interactive shape recognition app.",
+        "skills_developed": [
+          "Shape Recognition",
+          "Fine Motor Skills",
+          "Art Composition",
+          "Geometric Vocabulary"
+        ],
+        "activities": [
+          "Shape hunt in classroom",
+          "Collect shape pictures from magazines",
+          "Arrange and glue collage",
+          "Write shape labels"
+        ],
+        "products_evidences": [
+          "Shape collage",
+          "Written labels",
+          "Shape identification demonstration"
+        ],
+        "rubric_criteria": {
+          "Shape Recognition": "Correct identification of shapes",
+          "Composition": "Thoughtful collage arrangement",
+          "Accuracy": "Correct shape labels",
+          "Craftsmanship": "Neat cutting and gluing"
+        },
+        "differentiation": "Provide pre-cut shapes; focus on 2-3 basic shapes."
+      },
+      {
+        "id": "grade1_scenario6_project2",
+        "name": "Shape Sorting Activity",
+        "type": "official",
+        "category": "Sorting & Classification",
+        "overview": "Students sort shapes (e.g., squares, circles) into groups and describe each with simple sentences like 'This is a square.'",
+        "general_objective": "Develop classification skills and shape vocabulary.",
+        "specific_objectives": [
+          "Sort shapes by type",
+          "Describe sorted groups",
+          "Use shape vocabulary in context",
+          "Work collaboratively on sorting task"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.3",
+          "CE.ING.1.3.2"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Physical shape manipulatives",
+          "Sorting mats/trays",
+          "Labels",
+          "Containers"
+        ],
+        "technology_integration": "Use digital sorting games on tablets.",
+        "skills_developed": [
+          "Classification",
+          "Visual Discrimination",
+          "Descriptive Language",
+          "Collaborative Learning"
+        ],
+        "activities": [
+          "Introduce shape sorting mats",
+          "Practice sorting with physical shapes",
+          "Describe sorting choices",
+          "Create shape sorting display"
+        ],
+        "products_evidences": [
+          "Sorted shape groups",
+          "Descriptive labels",
+          "Photo documentation"
+        ],
+        "rubric_criteria": {
+          "Accuracy": "Correct shape sorting",
+          "Language": "Clear shape descriptions",
+          "Collaboration": "Effective group work",
+          "Completion": "All shapes sorted correctly"
+        },
+        "differentiation": "Reduce number of shape types; provide visual sorting guides."
+      },
+      {
+        "id": "grade1_scenario6_project3",
+        "name": "Digital Shape Game",
+        "type": "official",
+        "category": "Digital Games",
+        "overview": "Students play a digital shape recognition game, matching objects to their corresponding shapes and labeling them.",
+        "general_objective": "Develop technology skills while reinforcing shape recognition.",
+        "specific_objectives": [
+          "Navigate digital game interface",
+          "Match objects to correct shapes",
+          "Use game controls appropriately",
+          "Apply shape vocabulary in digital context"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.4.1",
+          "CE.ING.1.4.3"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Tablets/computers",
+          "Shape recognition apps",
+          "Headphones (optional)"
+        ],
+        "technology_integration": "Use interactive shape recognition apps and games.",
+        "skills_developed": [
+          "Digital Literacy",
+          "Game-based Learning",
+          "Shape Recognition",
+          "Problem-solving"
+        ],
+        "activities": [
+          "Introduce digital game platform",
+          "Practice game mechanics",
+          "Play shape matching games",
+          "Discuss strategies and successes"
+        ],
+        "products_evidences": [
+          "Game completion screenshots",
+          "Score records",
+          "Strategy discussion notes"
+        ],
+        "rubric_criteria": {
+          "Game Skill": "Successful game completion",
+          "Accuracy": "High correct match rate",
+          "Technology Use": "Independent navigation",
+          "Learning Transfer": "Application of shape knowledge"
+        },
+        "differentiation": "Adjust game difficulty levels; provide physical shape references."
+      },
+      {
+        "id": "shape_hunt",
+        "name": "Shape hunt activity",
+        "type": "complementary",
+        "category": "STEM & Creativity"
+      }
+    ],
+    "Shapes on Our Plates": [
+      {
+        "id": "grade1_scenario7_project1",
+        "name": "Food Shape Match",
+        "type": "official",
+        "category": "Food Studies & Geometry",
+        "overview": "Students collect pictures of different foods and match them to their shapes (e.g., round oranges, square crackers), creating a poster or chart.",
+        "general_objective": "Connect geometry to everyday life through food shapes.",
+        "specific_objectives": [
+          "Identify shapes in common foods",
+          "Match foods to geometric shapes",
+          "Create organized visual display",
+          "Use descriptive food+shape phrases"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.1.2",
+          "CE.ING.1.3.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Food magazines/catalogs",
+          "Poster board",
+          "Glue",
+          "Shape cutouts",
+          "Markers"
+        ],
+        "technology_integration": "Use an app to take pictures of foods and match them to shapes digitally.",
+        "skills_developed": [
+          "Observation",
+          "Categorization",
+          "Visual Display",
+          "Real-world Geometry"
+        ],
+        "activities": [
+          "Food shape brainstorming",
+          "Collect food pictures",
+          "Create matching poster/chart",
+          "Present food shape findings"
+        ],
+        "products_evidences": [
+          "Food shape poster",
+          "Matching demonstration",
+          "Presentation"
+        ],
+        "rubric_criteria": {
+          "Observation": "Accurate food shape identification",
+          "Organization": "Clear matching display",
+          "Creativity": "Varied food examples",
+          "Language": "Correct descriptive phrases"
+        },
+        "differentiation": "Provide pre-selected food pictures; focus on basic shapes."
+      },
+      {
+        "id": "grade1_scenario7_project2",
+        "name": "Food Shape Sorting",
+        "type": "official",
+        "category": "Sorting & Classification",
+        "overview": "Students sort different foods into shape categories (e.g., round, square) and label them with simple sentences like 'This is a round orange.'",
+        "general_objective": "Develop classification skills using food items.",
+        "specific_objectives": [
+          "Sort foods by shape characteristics",
+          "Create labeled shape categories",
+          "Use descriptive sentences",
+          "Work collaboratively on sorting task"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.2.2",
+          "CE.ING.1.3.2"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Food pictures/real food",
+          "Sorting trays",
+          "Label cards",
+          "Containers"
+        ],
+        "technology_integration": "Create digital food sorting activity.",
+        "skills_developed": [
+          "Classification",
+          "Critical Thinking",
+          "Descriptive Language",
+          "Group Work"
+        ],
+        "activities": [
+          "Introduce food shape categories",
+          "Sort physical or picture foods",
+          "Create category labels",
+          "Present sorted groups"
+        ],
+        "products_evidences": [
+          "Sorted food groups",
+          "Category labels",
+          "Photo documentation"
+        ],
+        "rubric_criteria": {
+          "Accuracy": "Correct shape categorization",
+          "Organization": "Clear grouping system",
+          "Language": "Descriptive labeling",
+          "Collaboration": "Effective group work"
+        },
+        "differentiation": "Provide shape templates for matching; reduce number of categories."
+      },
+      {
+        "id": "grade1_scenario7_project3",
+        "name": "Digital Food Shape Chart",
+        "type": "official",
+        "category": "Digital Creation",
+        "overview": "Students create a digital food shape chart, labeling each food with sentences like 'The cracker is square.'",
+        "general_objective": "Develop digital creation skills while exploring food geometry.",
+        "specific_objectives": [
+          "Use digital tools to create chart",
+          "Organize food shape information",
+          "Add descriptive text labels",
+          "Present digital creation"
+        ],
+        "institutional_standards": [
+          "CE.ING.1.4.2",
+          "CE.ING.1.3.3"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Computers/tablets",
+          "Chart creation software",
+          "Printer (optional)",
+          "Food images"
+        ],
+        "technology_integration": "Use spreadsheet or presentation software for chart creation.",
+        "skills_developed": [
+          "Digital Creation",
+          "Data Organization",
+          "Chart Design",
+          "Presentation Skills"
+        ],
+        "activities": [
+          "Learn digital chart tool",
+          "Collect and organize food shape data",
+          "Create digital chart",
+          "Share and present charts"
+        ],
+        "products_evidences": [
+          "Digital food shape chart",
+          "Printout of chart",
+          "Presentation"
+        ],
+        "rubric_criteria": {
+          "Digital Skills": "Effective tool use",
+          "Organization": "Clear chart structure",
+          "Content": "Accurate food shape information",
+          "Presentation": "Clear explanation of chart"
+        },
+        "differentiation": "Provide chart template; work in pairs."
+      }
+    ]
+  }
+}

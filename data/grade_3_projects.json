@@ -1,0 +1,748 @@
+{
+  "project_type": "combined",
+  "grade": "3",
+  "proficiency_level": "A1.3",
+  "projects_by_scenario": {
+    "A Polite Request": [
+      {
+        "id": "grade3_scenario2_project1",
+        "name": "Polite Request Poster",
+        "type": "official",
+        "category": "Social Skills & Design",
+        "overview": "Students create posters with polite requests (e.g., 'Can I have a pencil, please?') and responses (e.g., 'Sorry, I can't help.').",
+        "general_objective": "Develop polite language skills and social awareness.",
+        "specific_objectives": [
+          "Identify polite request phrases",
+          "Create visual language aids",
+          "Practice request-response pairs"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.1.2",
+          "CE.ING.3.3.2"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Poster paper",
+          "Polite phrase examples",
+          "Markers",
+          "Glue"
+        ],
+        "technology_integration": "Use poster-making app for digital versions."
+      },
+      {
+        "id": "grade3_scenario2_project2",
+        "name": "Request Role-Play",
+        "type": "official",
+        "category": "Role-play & Communication",
+        "overview": "Students role-play, making polite requests and responses using phrases like 'Can I have...' and 'Sorry, I can't...'.",
+        "general_objective": "Develop verbal communication skills in social contexts.",
+        "specific_objectives": [
+          "Perform polite request scenarios",
+          "Use appropriate body language",
+          "Respond appropriately to requests"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.1.3",
+          "CE.ING.3.3.3"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Role-play scenario cards",
+          "Props for requests",
+          "Recording device",
+          "Feedback forms"
+        ],
+        "technology_integration": "Record role-play sessions for analysis."
+      },
+      {
+        "id": "grade3_scenario2_project3",
+        "name": "Digital Polite Phrase Poster",
+        "type": "official",
+        "category": "Digital Design",
+        "overview": "Students use a poster-making app to design posters with polite phrases.",
+        "general_objective": "Develop digital design skills and language reinforcement.",
+        "specific_objectives": [
+          "Navigate design software",
+          "Create visually appealing posters",
+          "Incorporate polite language effectively"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.4.3",
+          "CE.ING.3.4.4"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Tablets/computers",
+          "Design software",
+          "Polite phrase bank",
+          "Printer"
+        ],
+        "technology_integration": "Create and print digital polite phrase posters."
+      },
+      {
+        "id": "market_role_play",
+        "name": "Market role-play",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "cultural_presentation",
+        "name": "Cultural presentation",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "recycling_plan",
+        "name": "Recycling plan",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "places_guide",
+        "name": "Places guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "Discovering Our Classroom": [
+      {
+        "id": "market_role_play",
+        "name": "Market role-play",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "cultural_presentation",
+        "name": "Cultural presentation",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "recycling_plan",
+        "name": "Recycling plan",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "places_guide",
+        "name": "Places guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "I Can Connect with Nature!": [
+      {
+        "id": "market_role_play",
+        "name": "Market role-play",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "cultural_presentation",
+        "name": "Cultural presentation",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "recycling_plan",
+        "name": "Recycling plan",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "places_guide",
+        "name": "Places guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "It's Time to Eat.": [
+      {
+        "id": "market_role_play",
+        "name": "Market role-play",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "cultural_presentation",
+        "name": "Cultural presentation",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "recycling_plan",
+        "name": "Recycling plan",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "places_guide",
+        "name": "Places guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "Let's Go Shopping!": [
+      {
+        "id": "grade3_scenario4_project1",
+        "name": "Classroom Scavenger Hunt",
+        "type": "official",
+        "category": "Scavenger Hunts",
+        "overview": "Students go on a scavenger hunt, finding and labeling classroom objects using prepositions (e.g., 'The book is on the table.').",
+        "general_objective": "Develop observation skills and preposition use.",
+        "specific_objectives": [
+          "Find objects based on location clues",
+          "Use prepositions accurately",
+          "Complete hunt tasks"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.1.5",
+          "CE.ING.3.3.6"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Scavenger hunt cards",
+          "Clipboards",
+          "Preposition guide",
+          "Recording sheets"
+        ],
+        "technology_integration": "Use tablets to photograph found objects."
+      },
+      {
+        "id": "grade3_scenario4_project2",
+        "name": "Object Sorting Game",
+        "type": "official",
+        "category": "Classification Games",
+        "overview": "Students organize classroom items into categories and label them with prepositions.",
+        "general_objective": "Develop classification skills and spatial vocabulary.",
+        "specific_objectives": [
+          "Sort objects by location characteristics",
+          "Create labeled categories",
+          "Explain sorting choices"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.2.4",
+          "CE.ING.3.3.7"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Classroom objects",
+          "Sorting containers",
+          "Preposition labels",
+          "Recording sheets"
+        ],
+        "technology_integration": "Create digital sorting activity."
+      },
+      {
+        "id": "grade3_scenario4_project3",
+        "name": "Digital Object Finder",
+        "type": "official",
+        "category": "Digital Documentation",
+        "overview": "Students use digital devices to photograph classroom objects and label them with prepositions.",
+        "general_objective": "Develop technology skills and vocabulary application.",
+        "specific_objectives": [
+          "Take clear object photos",
+          "Add preposition labels digitally",
+          "Create organized digital collection"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.4.7",
+          "CE.ING.3.4.8"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Digital cameras/tablets",
+          "Labeling app",
+          "Object checklist",
+          "Presentation software"
+        ],
+        "technology_integration": "Create digital preposition photo collection."
+      },
+      {
+        "id": "market_role_play",
+        "name": "Market role-play",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "cultural_presentation",
+        "name": "Cultural presentation",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "recycling_plan",
+        "name": "Recycling plan",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "places_guide",
+        "name": "Places guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "My Evening Routine": [
+      {
+        "id": "market_role_play",
+        "name": "Market role-play",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "cultural_presentation",
+        "name": "Cultural presentation",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "recycling_plan",
+        "name": "Recycling plan",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "places_guide",
+        "name": "Places guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "Our Traditional Style of Dress": [
+      {
+        "id": "grade3_scenario7_project1",
+        "name": "Favorite Food Survey",
+        "type": "official",
+        "category": "Social Research",
+        "overview": "Students conduct a class survey asking peers about their favorite foods (e.g., 'What's your favorite food?') and create a chart showing the results.",
+        "general_objective": "Develop research skills and food vocabulary.",
+        "specific_objectives": [
+          "Conduct simple surveys",
+          "Record survey data",
+          "Create visual data representation"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.2.7",
+          "CE.ING.3.3.12"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Survey templates",
+          "Clipboards",
+          "Chart paper",
+          "Markers"
+        ],
+        "technology_integration": "Use digital survey tool to gather and graph preferences."
+      },
+      {
+        "id": "grade3_scenario7_project2",
+        "name": "Food Recipe Book",
+        "type": "official",
+        "category": "Culinary Arts",
+        "overview": "Students create a simple recipe book by drawing pictures of their favorite foods and writing sentences like 'I like sancocho.'",
+        "general_objective": "Develop creative expression and food vocabulary.",
+        "specific_objectives": [
+          "Create recipe illustrations",
+          "Write simple recipe descriptions",
+          "Assemble recipe book"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.2.8",
+          "CE.ING.3.3.13"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Recipe book templates",
+          "Food drawing references",
+          "Writing materials",
+          "Binding supplies"
+        ],
+        "technology_integration": "Create digital recipe book."
+      },
+      {
+        "id": "grade3_scenario7_project3",
+        "name": "Digital Food Survey",
+        "type": "official",
+        "category": "Digital Data Collection",
+        "overview": "Students use a digital survey tool to gather and make a graph of types of food preferences.",
+        "general_objective": "Develop digital research and data analysis skills.",
+        "specific_objectives": [
+          "Create digital survey",
+          "Collect data electronically",
+          "Generate data graphs"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.4.13",
+          "CE.ING.3.4.14"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Tablets/computers",
+          "Survey software",
+          "Graph creation tool",
+          "Presentation device"
+        ],
+        "technology_integration": "Conduct digital surveys and create graphs."
+      }
+    ],
+    "Places I Can Go": [
+      {
+        "id": "grade3_scenario1_project1",
+        "name": "Where Am I? Map",
+        "type": "official",
+        "category": "Mapping & Geography",
+        "overview": "Students create a map showing places like 'home,' 'school,' and 'market,' labeling each with 'I'm at...' sentences.",
+        "general_objective": "Develop spatial awareness and location vocabulary.",
+        "specific_objectives": [
+          "Identify common community places",
+          "Create simple map representation",
+          "Use location sentences correctly"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.1.1",
+          "CE.ING.3.2.1"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Map templates",
+          "Place symbol stickers",
+          "Sentence strips",
+          "Markers"
+        ],
+        "technology_integration": "Use a digital mapping tool to label familiar places."
+      },
+      {
+        "id": "grade3_scenario1_project2",
+        "name": "Digital Map Tour",
+        "type": "official",
+        "category": "Digital Exploration",
+        "overview": "Students create a digital tour of familiar places using an online map tool and label them with 'I'm at' phrases.",
+        "general_objective": "Develop digital literacy and location presentation skills.",
+        "specific_objectives": [
+          "Navigate online mapping tools",
+          "Create digital location tour",
+          "Add descriptive labels"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.4.1",
+          "CE.ING.3.4.2"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Computers/tablets",
+          "Map software",
+          "Location images",
+          "Headphones"
+        ],
+        "technology_integration": "Create interactive digital map tour."
+      },
+      {
+        "id": "grade3_scenario1_project3",
+        "name": "Location Drawing Project",
+        "type": "official",
+        "category": "Art & Writing",
+        "overview": "Students draw pictures of familiar places and write sentences like 'I'm at the park.'",
+        "general_objective": "Develop artistic expression and location vocabulary integration.",
+        "specific_objectives": [
+          "Draw recognizable places",
+          "Write accurate location sentences",
+          "Present drawings with descriptions"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.2.2",
+          "CE.ING.3.3.1"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Drawing paper",
+          "Colored pencils",
+          "Location reference images",
+          "Writing templates"
+        ],
+        "technology_integration": "Create digital drawings with text labels."
+      },
+      {
+        "id": "market_role_play",
+        "name": "Market role-play",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "cultural_presentation",
+        "name": "Cultural presentation",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "recycling_plan",
+        "name": "Recycling plan",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "places_guide",
+        "name": "Places guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "Recycling for Our World": [
+      {
+        "id": "grade3_scenario6_project1",
+        "name": "Nature Observation Journal",
+        "type": "official",
+        "category": "Nature Observation",
+        "overview": "Students observe nature around school, writing sentences using 'can' and 'can't' to describe their abilities (e.g., 'I can see a tree.').",
+        "general_objective": "Develop observation skills and ability expression.",
+        "specific_objectives": [
+          "Observe nature carefully",
+          "Use can/can't accurately",
+          "Write descriptive sentences"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.2.6",
+          "CE.ING.3.3.10"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Nature journals",
+          "Observation guides",
+          "Sentence frames",
+          "Clipboards"
+        ],
+        "technology_integration": "Use nature journaling app for documentation."
+      },
+      {
+        "id": "grade3_scenario6_project2",
+        "name": "Outdoor Role-Play",
+        "type": "official",
+        "category": "Outdoor Education",
+        "overview": "Students role-play outdoor activities using sentences like 'I can relax.' or 'I can't hear the birds.'",
+        "general_objective": "Develop language skills in outdoor contexts.",
+        "specific_objectives": [
+          "Perform outdoor scenarios",
+          "Use can/can't in context",
+          "Express outdoor experiences"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.1.7",
+          "CE.ING.3.3.11"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Outdoor space",
+          "Nature props",
+          "Role-play cards",
+          "Recording device"
+        ],
+        "technology_integration": "Record outdoor role-play sessions."
+      },
+      {
+        "id": "grade3_scenario6_project3",
+        "name": "Digital Nature Journal",
+        "type": "official",
+        "category": "Digital Nature Documentation",
+        "overview": "Students use a nature journaling app to document observations and feelings about nature.",
+        "general_objective": "Develop digital documentation skills and nature appreciation.",
+        "specific_objectives": [
+          "Use nature journaling app",
+          "Document observations digitally",
+          "Add descriptive text"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.4.11",
+          "CE.ING.3.4.12"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Tablets",
+          "Nature journal app",
+          "Camera function",
+          "Headphones"
+        ],
+        "technology_integration": "Create digital nature journal entries."
+      }
+    ],
+    "Shopping at the Market": [
+      {
+        "id": "grade3_scenario3_project1",
+        "name": "Shopping List Game",
+        "type": "official",
+        "category": "Games & Economics",
+        "overview": "Students make a shopping list using pictures of fruits and vegetables, labeling quantities with numbers (e.g., 'three bananas').",
+        "general_objective": "Develop numeracy and shopping vocabulary integration.",
+        "specific_objectives": [
+          "Create organized shopping lists",
+          "Use numbers with food items",
+          "Practice quantity vocabulary"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.2.3",
+          "CE.ING.3.3.4"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Shopping list templates",
+          "Food picture cards",
+          "Number stickers",
+          "Markers"
+        ],
+        "technology_integration": "Use tablet to create digital shopping list."
+      },
+      {
+        "id": "grade3_scenario3_project2",
+        "name": "Shopping Role-Play",
+        "type": "official",
+        "category": "Dramatic Play",
+        "overview": "Students role-play a shopping scenario, practicing using numbers and requesting different items.",
+        "general_objective": "Develop practical language skills for real-life situations.",
+        "specific_objectives": [
+          "Perform shopping transactions",
+          "Use numbers in context",
+          "Practice customer-seller interactions"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.1.4",
+          "CE.ING.3.3.5"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Play money",
+          "Food props",
+          "Shopping baskets",
+          "Price tags"
+        ],
+        "technology_integration": "Use calculator app for price calculations."
+      },
+      {
+        "id": "grade3_scenario3_project3",
+        "name": "Digital Shopping List",
+        "type": "official",
+        "category": "Digital Organization",
+        "overview": "Students use a tablet to create a digital shopping list with pictures and number labels.",
+        "general_objective": "Develop digital organization skills and vocabulary reinforcement.",
+        "specific_objectives": [
+          "Create digital list with images",
+          "Add quantity labels",
+          "Organize list categories"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.4.5",
+          "CE.ING.3.4.6"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Tablets",
+          "List-making app",
+          "Food image database",
+          "Stylus"
+        ],
+        "technology_integration": "Create interactive digital shopping lists."
+      }
+    ],
+    "This Beautiful Day": [
+      {
+        "id": "market_role_play",
+        "name": "Market role-play",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "cultural_presentation",
+        "name": "Cultural presentation",
+        "type": "complementary",
+        "category": "Community & Cultural"
+      },
+      {
+        "id": "recycling_plan",
+        "name": "Recycling plan",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      },
+      {
+        "id": "places_guide",
+        "name": "Places guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      }
+    ],
+    "Time for Exercise": [
+      {
+        "id": "grade3_scenario5_project1",
+        "name": "Weather & Feelings Journal",
+        "type": "official",
+        "category": "Journaling & Emotions",
+        "overview": "Students keep a journal, drawing the weather each day and describing how it makes them feel (e.g., 'I'm happy.').",
+        "general_objective": "Develop emotional awareness and weather-feeling connections.",
+        "specific_objectives": [
+          "Record daily weather",
+          "Express associated feelings",
+          "Maintain consistent journal"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.2.5",
+          "CE.ING.3.3.8"
+        ],
+        "duration": "Ongoing (1 week)",
+        "materials": [
+          "Weather-feeling journals",
+          "Emotion word bank",
+          "Weather symbols",
+          "Drawing materials"
+        ],
+        "technology_integration": "Use weather app to track and match weather with feelings."
+      },
+      {
+        "id": "grade3_scenario5_project2",
+        "name": "Weather Role-Play",
+        "type": "official",
+        "category": "Dramatic Expression",
+        "overview": "Students role-play different weather scenarios and describe their emotions (e.g., 'It's sunny. I'm happy.').",
+        "general_objective": "Develop expressive skills and emotion-weather vocabulary.",
+        "specific_objectives": [
+          "Act out weather scenarios",
+          "Express appropriate emotions",
+          "Use connected vocabulary"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.1.6",
+          "CE.ING.3.3.9"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Weather prop cards",
+          "Emotion face cards",
+          "Role-play area",
+          "Recording device"
+        ],
+        "technology_integration": "Record weather-emotion role-plays."
+      },
+      {
+        "id": "grade3_scenario5_project3",
+        "name": "Digital Weather Log",
+        "type": "official",
+        "category": "Digital Tracking",
+        "overview": "Students use a weather app to track and match daily weather with their feelings.",
+        "general_objective": "Develop digital tracking skills and self-awareness.",
+        "specific_objectives": [
+          "Use weather app for data",
+          "Record emotional responses",
+          "Create weather-feeling charts"
+        ],
+        "institutional_standards": [
+          "CE.ING.3.4.9",
+          "CE.ING.3.4.10"
+        ],
+        "duration": "Ongoing (1 week)",
+        "materials": [
+          "Tablets",
+          "Weather tracking app",
+          "Emotion recording app",
+          "Chart paper"
+        ],
+        "technology_integration": "Use apps for weather and emotion tracking."
+      }
+    ]
+  }
+}

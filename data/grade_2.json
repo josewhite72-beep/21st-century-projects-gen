@@ -1,0 +1,342 @@
+{
+  "grade": "2",
+  "proficiency_level": "Pre A1.4",
+  "scenarios": [
+    {
+      "scenario_number": 1,
+      "title": "School Days",
+      "themes": ["Yesterday Was Wednesday.", "Today Is Friday!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow the main plot of simple stories told with visual support.",
+          "interactive": "Respond in a predictable pattern to simple questions about familiar things."
+        },
+        "reading": {
+          "reading1": "Show comprehension of simple sentences.",
+          "reading2": "Follow written instructions with visual aids.",
+          "phonemic_awareness": "Recognize all the letters of the alphabet in isolation and the correspondence between letter and sound at the beginning of words."
+        },
+        "speaking": {
+          "productive": "Identify independently common actions seen in daily routines.",
+          "interactive": "Participate in simple formulaic question-and-answer exchanges on familiar subjects."
+        },
+        "writing": {
+          "productive": "Write simple thank-you notes or greetings in cards using one-sentence picture cards.",
+          "interactive": "Contribute, with help, a word to a class story or sentence."
+        },
+        "mediation": {
+          "text": "Summarize short stories using drawings or pictures.",
+          "communication": "Explain simple written instructions to peers using English or Spanish."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Past simple with the verb 'be' (e.g., 'Yesterday was...')", "Present simple (e.g., 'Today is...')", "WH-questions (e.g., 'What is it?')"],
+          "vocabulary": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "calendar", "schedule", "activity", "week", "school", "friend", "math", "science", "English", "be (was, is)", "start", "end", "learn", "read", "write", "say", "listen", "share", "talk", "draw", "like", "have", "sunny", "rainy", "cloudy", "it", "on", "this", "that", "these", "yesterday", "today", "tomorrow", "morning", "afternoon", "evening"],
+          "pronunciation": ["/w/ in 'Wednesday'", "/f/ in 'Friday'", "Letter-sound correspondence (e.g., F → /f/ in 'Friday')"]
+        },
+        "pragmatic": ["Answering questions about days: 'Yesterday was Wednesday.'", "Expressing preferences: 'I like Friday. Art is on Friday!'", "Discourse marker: and (e.g., 'Yesterday was Wednesday and I went outside!')"],
+        "sociolinguistic": ["Talking about schedules: Communicating about daily classroom activities using appropriate language and turn-taking."]
+      },
+      "assessment_ideas": [
+        "Observe student responses during daily schedule routines.",
+        "Check Time Travel Calendar drawings with labels like 'yesterday' or 'today'.",
+        "Review Weekly Story Journal entries for correct use of time markers and verbs."
+      ]
+    },
+    {
+      "scenario_number": 2,
+      "title": "School Life Adventures",
+      "themes": ["That's a Big Book!", "That's a Small, Brown Bag."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow the main plot of simple stories told with visual support.",
+          "interactive": "Demonstrate comprehension of a variety of classroom commands."
+        },
+        "reading": {
+          "reading1": "Identify key words and phrases in texts.",
+          "reading2": "Follow written instructions with visual aids.",
+          "phonemic_awareness": "Identify a spoken word's initial and final phoneme if these words have been previously encountered and are attached to a picture."
+        },
+        "speaking": {
+          "productive": "Contribute to storytelling sessions with simple sentences based on visual prompts.",
+          "interactive": "Use greetings and farewells appropriately in conversations with peers."
+        },
+        "writing": {
+          "productive": "Write simple thank-you notes or greetings in cards using one-sentence picture cards.",
+          "interactive": "Contribute, with help, a word to a class story or sentence."
+        },
+        "mediation": {
+          "text": "Use visual information in texts to convey meaning.",
+          "communication": "Relay simple information received verbally using English or Spanish."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Adjectives (e.g., 'Point to the blue book.')", "Present simple (e.g., 'That's a book.')", "WH-questions (e.g., 'What size is the book?')"],
+          "vocabulary": ["book", "bag", "pencil", "desk", "chair", "eraser", "ruler", "board", "marker", "crayon", "paper", "shelf", "folder", "backpack", "notebook", "window", "door", "chalk", "scissors", "poster", "table", "bin", "please", "thank you", "see", "look", "find", "lost", "draw", "write", "read", "point", "stack", "brown", "red", "blue", "yellow", "green", "black", "white", "round", "flat", "big", "small", "long", "short", "tall", "square", "rectangular", "oval", "diamond", "it", "this", "that", "these", "on", "in", "under", "next to", "by", "one–twelve"],
+          "pronunciation": ["/b/ in 'book'", "/s/ in 'small'", "Initial sounds: /p/ in 'pencil'"]
+        },
+        "pragmatic": ["Describing objects with detail: 'This is a small bag.' 'That's a big, blue book.'", "Responding to questions: 'What color is the book?' → 'It’s blue.'", "Discourse marker: and"],
+        "sociolinguistic": ["Employing polite expressions: 'Can you please pass me the blue pencil?' or 'Thank you for the book.'", "Using greetings and farewells appropriately."]
+      },
+      "assessment_ideas": [
+        "Observe participation in Classroom Object Bingo.",
+        "Review My Classroom Object Hunt posters with descriptive labels.",
+        "Assess use of adjectives and polite language during object-describing tasks."
+      ]
+    },
+    {
+      "scenario_number": 3,
+      "title": "All About the Weather",
+      "themes": ["A Perfect Day!", "Dress for the Weather."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Comprehend simple descriptions of people, places, and things around them.",
+          "interactive": "Participate in call-and-response activities, responding appropriately to cues in songs or stories."
+        },
+        "reading": {
+          "reading1": "Identify simple story elements (e.g., characters, setting).",
+          "reading2": "Find specific information in a text (e.g., names, quantities, dates).",
+          "phonemic_awareness": "Identify a spoken word's initial and final phoneme if these words have been previously encountered and are attached to a picture."
+        },
+        "speaking": {
+          "productive": "Count up to 50 out loud with help.",
+          "interactive": "Describe simple pictures or objects during classroom discussions."
+        },
+        "writing": {
+          "productive": "Fill in blanks in sentences using a word bank related to a familiar context.",
+          "interactive": "Write simple words supported with drawings to peers."
+        },
+        "mediation": {
+          "text": "Use visual information in texts to convey meaning.",
+          "communication": "Describe everyday objects using visual support."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Adjectives + nouns (e.g., 'rainy day')", "Present simple (e.g., 'I like sunny days.')", "WH-questions (e.g., 'What is the weather like?')"],
+          "vocabulary": ["sun", "rain", "raindrop", "coat", "hat", "day", "cloud", "wind", "storm", "umbrella", "boots", "scarf", "puddle", "rainbow", "season", "weather", "jacket", "sky", "temperature", "forecast", "wear", "like", "play", "run", "jump", "look", "feel", "change", "shine", "fall", "blow", "check", "prepare", "watch", "enjoy", "sunny", "rainy", "warm", "cold", "cloudy", "windy", "bright", "clear", "wet", "dry", "chilly", "hot", "cool", "foggy", "mild", "freezing", "today", "tomorrow", "yesterday", "morning", "afternoon", "evening", "night", "now", "later", "soon", "inside", "outside"],
+          "pronunciation": ["/s/ in 'sunny'", "/r/ in 'rainy'", "Initial /w/ and final /i/ in 'windy'"]
+        },
+        "pragmatic": ["Describing the weather and activities: 'It's a sunny day, and I play outside.'", "Responding to questions: 'What's the weather like?' → 'It's rainy. I need my umbrella.'", "Discourse marker: and"],
+        "sociolinguistic": ["Expressing preferences: Talking about preferences related to weather and clothing."]
+      },
+      "assessment_ideas": [
+        "Observe participation in weather chants and call-and-response songs.",
+        "Review Weather Journal entries for weather vocabulary and personal preferences.",
+        "Assess use of adjectives and WH-questions during Weather Forecast Videos."
+      ]
+    },
+    {
+      "scenario_number": 4,
+      "title": "All About My Body",
+      "themes": ["Head to Toes!", "Hats and Shoes!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow two-step spoken instructions related to classroom activities.",
+          "interactive": "Respond in a predictable pattern to simple questions about familiar things."
+        },
+        "reading": {
+          "reading1": "Identify keywords and phrases in texts.",
+          "reading2": "Identify simple story elements (e.g., characters, setting).",
+          "phonemic_awareness": "Identify a spoken word's initial and final phoneme if these words have been previously encountered and are attached to a picture."
+        },
+        "speaking": {
+          "productive": "Locate people, objects, and things around them.",
+          "interactive": "Respond to simple verbal commands in classroom settings."
+        },
+        "writing": {
+          "productive": "Write simple responses to texts.",
+          "interactive": "Write simple words supported with drawings to peers."
+        },
+        "mediation": {
+          "text": "Interpret simple phrases from a text.",
+          "communication": "Describe everyday objects using visual support."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Imperative + noun (e.g., 'Put on your hat.')", "WH-questions (e.g., 'Where is your hat?')", "Present simple (e.g., 'This is my head.')"],
+          "vocabulary": ["head", "toes", "hand", "foot", "arm", "leg", "knee", "elbow", "shoulder", "finger", "thumb", "neck", "back", "face", "eye", "nose", "mouth", "ear", "hair", "hat", "shoes", "coat", "jacket", "shirt", "undershirt", "pants", "socks", "boots", "belt", "wear", "put on", "take off", "touch", "raise", "bend", "point", "stretch", "lift", "clean", "dirty", "warm", "cold", "comfortable", "uncomfortable", "thick", "thin", "light", "heavy", "this", "that", "these", "those", "my", "your", "his", "her", "on", "in", "under", "next to"],
+          "pronunciation": ["/h/ in 'hat'", "/t/ in 'toes'", "Initial sounds: /h/ in 'hand'"]
+        },
+        "pragmatic": ["Identifying body parts and clothing: 'This is my hand.' 'The hat is on my head.'", "Following directions: 'Put on your hat.' 'Raise your hand.'"],
+        "sociolinguistic": ["Personal awareness: Describing and identifying body parts and clothing."]
+      },
+      "assessment_ideas": [
+        "Observe responses during 'Simon Says' style body-part games.",
+        "Review Body & Clothes Matching Game cards for correct labeling.",
+        "Assess use of imperatives and location prepositions in puppet shows or digital quizzes."
+      ]
+    },
+    {
+      "scenario_number": 5,
+      "title": "Exploring My Community",
+      "themes": ["It's the Park!", "It's the Market!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Comprehend simple descriptions of people, places, and things around them.",
+          "interactive": "Answer simple questions about a story they have just listened to."
+        },
+        "reading": {
+          "reading1": "Identify keywords and phrases in texts.",
+          "reading2": "Identify simple story elements (e.g., characters, setting).",
+          "phonemic_awareness": "Identify a spoken word's initial and final phoneme if these words have been previously encountered and are attached to a picture."
+        },
+        "speaking": {
+          "productive": "Introduce themselves or family members using basic personal information.",
+          "interactive": "Take part in role-plays that mimic familiar everyday interactions."
+        },
+        "writing": {
+          "productive": "Write simple phrases or sentences about personal experiences and familiar items with support and guidance.",
+          "interactive": "Contribute, with help, a word to a class story or sentence."
+        },
+        "mediation": {
+          "text": "Connect ideas from a text with personal experiences.",
+          "concept": "Show a connection between class concepts and personal experiences."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["WH-questions (e.g., 'Where is it?')", "Present simple (e.g., 'It's the market.')", "Adjectives + nouns (e.g., 'big park')"],
+          "vocabulary": ["park", "market", "school", "library", "church", "store", "office", "home", "playground", "gym", "restroom", "street", "building", "bus", "bench", "road", "garden", "map", "go", "walk", "visit", "play", "run", "see", "meet", "find", "stop", "look", "rest", "big", "small", "busy", "quiet", "open", "closed", "tall", "short", "safe", "familiar", "friendly", "clean", "in", "on", "in front of", "between", "next to", "near"],
+          "pronunciation": ["/p/ in 'park'", "/m/ in 'market'", "Initial and final /ch/ in 'church'"]
+        },
+        "pragmatic": ["Describing places and activities: 'The park is big. I play there.'", "Answering questions: 'Where is the library?' → 'Next to the market.'"],
+        "sociolinguistic": ["Polite expressions to ask for location: 'Excuse me, where is the library?'", "Describing places respectfully."]
+      },
+      "assessment_ideas": [
+        "Observe role-play interactions about community places.",
+        "Review Community Map posters with labeled locations.",
+        "Assess ability to connect personal experiences to story content (e.g., 'I go to the market on weekends')."
+      ]
+    },
+    {
+      "scenario_number": 6,
+      "title": "Discovering Nature’s Wonders",
+      "themes": ["It's the Rainforest.", "It's a Slow, Furry Sloth!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify familiar vocabulary from daily life used in context.",
+          "interactive": "Engage in short exchanges using phrases learned from classroom discussions."
+        },
+        "reading": {
+          "reading1": "Show comprehension of simple sentences.",
+          "reading2": "Follow written instructions with visual aids.",
+          "phonemic_awareness": "Recognize all the letters of the alphabet in isolation and the correspondence between letter and sound at the beginning of words."
+        },
+        "speaking": {
+          "productive": "Contribute to storytelling sessions with simple sentences based on visual prompts.",
+          "interactive": "Relay short messages from one person to another in a group setting."
+        },
+        "writing": {
+          "productive": "Make a list of items.",
+          "interactive": "Write words or phrases as responses to classroom polls or questions."
+        },
+        "mediation": {
+          "text": "Summarize short stories using drawings or pictures.",
+          "communication": "Relay simple information received verbally using English or Spanish."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Adjectives + nouns (e.g., 'slow sloth')", "WH-questions (e.g., 'What animal is it?')", "Present simple (e.g., 'It's the rainforest.')"],
+          "vocabulary": ["rainforest", "jungle", "sloth", "toucan", "monkey", "parrot", "frog", "snake", "jaguar", "leaf", "river", "waterfall", "vines", "nest", "branch", "hole", "forest", "live", "grow", "climb", "swing", "hide", "sleep", "rest", "fly", "dig", "eat", "slow", "furry", "colorful", "noisy", "quiet", "wild", "tall", "leafy", "jumpy", "this", "that"],
+          "pronunciation": ["/s/ in 'sloth'", "/r/ in 'rainforest'", "Initial /j/ in 'jungle'"]
+        },
+        "pragmatic": ["Describing animals with traits: 'The sloth is slow and furry.'", "Talking about preferences: 'I like sloths. They are quiet.'"],
+        "sociolinguistic": ["Respect for nature: Talking about the rainforest and animals using respectful language."]
+      },
+      "assessment_ideas": [
+        "Observe participation in animal guessing games based on descriptions.",
+        "Review Rainforest Animal Profiles for accurate use of adjectives.",
+        "Assess ability to relay messages about habitats during group storytelling."
+      ]
+    },
+    {
+      "scenario_number": 7,
+      "title": "Fun Outdoors!",
+      "themes": ["I Love to Run!", "I Like to Swim."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow two-step spoken instructions related to classroom activities.",
+          "interactive": "Retell a simple instruction or message accurately to another peer."
+        },
+        "reading": {
+          "reading1": "Show comprehension of simple sentences.",
+          "reading2": "Create a title or caption for a paragraph or image.",
+          "phonemic_awareness": "Identify a spoken word's initial and final phoneme if these words have been previously encountered and are attached to a picture."
+        },
+        "speaking": {
+          "productive": "Express basic needs and feelings using simple phrases.",
+          "interactive": "Interact in a predictable pattern with simple questions and answers about familiar things using simple phrases."
+        },
+        "writing": {
+          "productive": "Write simple responses to texts.",
+          "interactive": "Write simple messages to peers using words, drawings, and short phrases."
+        },
+        "mediation": {
+          "text": "Summarize short stories using drawings or pictures.",
+          "concept": "Show a connection between class concepts and personal experiences."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Subject + verb + adverb (e.g., 'I run fast.' 'I swim slowly.')", "Present simple (e.g., 'I love to run.')", "WH-questions (e.g., 'Why do you like to swim?')"],
+          "vocabulary": ["friend", "team", "park", "playground", "activity", "race", "game", "sport", "ball", "bike", "bat", "goal", "soccer", "baseball", "basketball", "run", "jump", "swim", "play", "race", "climb", "rest", "like", "love", "watch", "pass", "win", "lose", "enjoy", "fast", "slow", "happy", "fun", "big", "small", "little", "good", "bad", "nice", "quickly", "slowly", "high", "low", "fast"],
+          "pronunciation": ["/r/ in 'run'", "/s/ in 'swim'", "Initial /g/ in 'game'"]
+        },
+        "pragmatic": ["Expressing preferences for activities: 'I like to run. It's fun.'", "Asking questions about others' preferences: 'Do you like to play outside?'"],
+        "sociolinguistic": ["Expressing preferences: Using appropriate language to express preferences about outdoor activities."]
+      },
+      "assessment_ideas": [
+        "Observe expressions of preference during outdoor sports discussions.",
+        "Review Outdoor Sports Journal entries for action verbs and adverbs.",
+        "Assess caption writing for images of physical activities."
+      ]
+    },
+    {
+      "scenario_number": 8,
+      "title": "It's Festival Season.",
+      "themes": ["Look at the Fireworks!", "Food I Eat During a Celebration"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify numbers and quantities when heard slowly and clearly.",
+          "interactive": "Follow directions in a game as instructed."
+        },
+        "reading": {
+          "reading1": "Create a title or caption for a paragraph or image.",
+          "reading2": "Show comprehension of simple texts.",
+          "phonemic_awareness": "Recognize all the letters of the alphabet in isolation and the correspondence between letter and sound at the beginning of words."
+        },
+        "speaking": {
+          "productive": "Express basic needs and feelings using simple phrases.",
+          "interactive": "Interact in a predictable pattern with simple questions and answers about familiar things using simple phrases."
+        },
+        "writing": {
+          "productive": "Write a word or phrase to a group story or project with support or guidance.",
+          "interactive": "Write simple messages to peers using words, drawings, and short phrases."
+        },
+        "mediation": {
+          "text": "Use visual information in texts to convey meaning.",
+          "communication": "Explain simple written instructions to peers, using English or Spanish."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Subject + verb + adjective (e.g., 'It is fun!')", "Present simple (e.g., 'I like the meal.')", "WH-questions (e.g., 'What do you like?')"],
+          "vocabulary": ["festival", "celebration", "party", "fireworks", "meal", "shaved ice", "cotton candy", "corn on the cob", "music", "dance", "balloons", "drums", "tradition", "like", "love", "eat", "watch", "celebrate", "dance", "sing", "play", "toss", "point", "clap", "fun", "happy", "loud", "bright", "colorful", "big", "special", "exciting"],
+          "pronunciation": ["/f/ in 'fireworks'", "/m/ in 'meal'", "Initial /p/ in 'party'"]
+        },
+        "pragmatic": ["Describing favorite festival parts: 'I like the fireworks. They are bright.'", "Asking and answering about festival foods: 'What do you like to eat?' → 'I like cotton candy.'"],
+        "sociolinguistic": ["Cultural awareness: Talking about and showing respect for different festivals."]
+      },
+      "assessment_ideas": [
+        "Observe participation in festival-themed polls and games.",
+        "Review Festival Celebration Posters for accurate use of descriptive language.",
+        "Assess ability to describe festival foods and activities using gestures and simple phrases."
+      ]
+    }
+  ]
+}

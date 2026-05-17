@@ -1,0 +1,342 @@
+{
+  "grade": "4",
+  "proficiency_level": "A1.2",
+  "scenarios": [
+    {
+      "scenario_number": 1,
+      "title": "A Walk in the Neighborhood",
+      "themes": ["This Is My Favorite.", "It's the Best!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify the main points of talks on familiar matters.",
+          "interactive": "Respond to questions about familiar topics."
+        },
+        "reading": {
+          "reading1": "Outline key information in simple factual texts on familiar subjects.",
+          "reading2": "Comprehend instructions for classroom projects and crafts.",
+          "phonemic_awareness": "Decode English graphemes and phonemes using knowledge of word parts, syllabification, and phonemic awareness."
+        },
+        "speaking": {
+          "productive": "Describe a current personal experience in detail in a logical sequence.",
+          "interactive": "Engage in simple exchanges about personal interests."
+        },
+        "writing": {
+          "productive": "Write simple sentences on familiar topics.",
+          "interactive": "Edit classmates' written work."
+        },
+        "mediation": {
+          "text": "Interpret simple school notices.",
+          "communication": "Facilitate a simple discussion among classmates."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Superlatives (e.g., 'This school is the best.')", "Simple present + conjunction (e.g., 'I like this park because it is fun.')", "Question structure (e.g., 'What is your favorite?')"],
+          "vocabulary": ["neighborhood", "park", "place", "tree", "flower", "building", "street", "path", "playground", "walk", "explore", "visit", "see", "enjoy", "like", "share", "hear", "prefer", "observe", "ride", "run", "play", "fun", "exciting", "beautiful", "quiet", "friendly", "busy", "safe", "favorite", "best", "cool", "amazing", "big", "small", "crowded", "often", "sometimes", "always", "usually", "rarely", "and", "or", "but", "because"],
+          "pronunciation": ["/b/ in 'best'", "/f/ in 'favorite'", "Blend of spoken onsets and rhymes (onset /b/ and rhyme /ɪɡ/) to form words like 'big'"]
+        },
+        "pragmatic": ["Describing preferences: 'This is my favorite.'", "Expressing opinions: 'I like this park because it is fun.'", "Discourse marker: Because"],
+        "sociolinguistic": ["Explaining opinions: Using 'because' to justify preferences in familiar contexts (e.g., 'I like this street because it has beautiful trees.')"]
+      },
+      "assessment_ideas": [
+        "Observe student responses during 'Where Am I?' map activities.",
+        "Review digital map tours with 'I'm at...' labels.",
+        "Assess use of contractions and prepositions in location drawings."
+      ]
+    },
+    {
+      "scenario_number": 2,
+      "title": "Helping in the Garden",
+      "themes": ["The Tomatoes Grow Quickly.", "These Plants Are from Panama."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow stories and descriptions about everyday experiences.",
+          "interactive": "Participate in discussions about school events."
+        },
+        "reading": {
+          "reading1": "Identify the main ideas and details in short narratives.",
+          "reading2": "Summarize simple stories or articles.",
+          "phonemic_awareness": "Read regularly spelled one-syllable or two-syllable words represented by single letters."
+        },
+        "speaking": {
+          "productive": "Explain how to perform a simple task.",
+          "interactive": "Engage in questions and answers about familiar subjects."
+        },
+        "writing": {
+          "productive": "Express opinions about familiar topics in writing.",
+          "interactive": "Write simple role plays or dialogues collaboratively."
+        },
+        "mediation": {
+          "text": "Simplify textbook content for peer study groups.",
+          "communication": "Assist classmates in interpreting homework assignments."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Present simple + 's' (e.g., 'How often does María water the plants?')", "Demonstratives (e.g., 'These are tomatoes, and this is a tomato plant.')", "Question forms (e.g., 'How often do you water the plants?')"],
+          "vocabulary": ["garden", "plant", "tomato", "seed", "soil", "watering can", "flower", "vegetable", "sunlight", "hose", "rainwater", "grow", "water", "plant", "harvest", "bloom", "care", "dig", "need", "put", "add", "cover", "green", "bright", "healthy", "quick", "tall", "every day", "sometimes", "always", "in the morning", "first", "second"],
+          "pronunciation": ["/t/ in 'tomatoes'", "/g/ in 'grow'", "Spelling one-syllable or two-syllable words using alphabet knowledge (e.g., 'water', 'sun', 'soil')"]
+        },
+        "pragmatic": ["Describing gardening steps: 'First, plant the seeds.'", "Describing routines: 'I water the plants every day.'", "Expressing preferences: like, don't like (e.g., 'I like watering the plants, but I don't like digging.')", "Discourse markers: and, but"],
+        "sociolinguistic": ["Describing simple gardening instructions: Using conjunctions to describe gardening tasks (e.g., 'You dig a hole, plant the seed, and water the plant.')"]
+      },
+      "assessment_ideas": [
+        "Observe participation in polite request role-plays.",
+        "Review collaborative dialogues with 'Can I...' and 'Sorry, I can't...'.",
+        "Assess use of polite expressions in digital posters."
+      ]
+    },
+    {
+      "scenario_number": 3,
+      "title": "Shopping at the Market",
+      "themes": ["How Much Is the Pineapple?", "I Need Five Yucas."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Comprehend basic facts in simple educational content.",
+          "interactive": "Discuss learned content from audio lessons."
+        },
+        "reading": {
+          "reading1": "Write short responses to questions about a text.",
+          "reading2": "Outline key information in simple factual texts on familiar subjects.",
+          "phonemic_awareness": "Blend spoken simple onsets and rhymes to form real words (onset /c/ and rhyme /at/)."
+        },
+        "speaking": {
+          "productive": "Describe quantities and dates using numbers up to a hundred.",
+          "interactive": "Participate in role-plays based on classroom scenarios."
+        },
+        "writing": {
+          "productive": "Create short texts based on prompts.",
+          "interactive": "Write findings from group research projects for a presentation."
+        },
+        "mediation": {
+          "text": "Explain the main ideas of class readings to absent students.",
+          "concept": "Use examples to explain math concepts to peers."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["WH-Questions (e.g., 'How much is it?')", "Quantities (e.g., 'I need five potatoes.')", "Present Simple (e.g., 'I want three apples and one banana.')"],
+          "vocabulary": ["market", "price", "shopping list", "item", "store", "cost", "pineapple", "cashier", "money", "cassava", "potatoes", "buy", "sell", "ask", "pay", "choose", "compare", "need", "want", "get", "cost", "help", "cheap", "fresh", "expensive", "delicious", "sweet", "one", "two", "three", "four", "five", "ten"],
+          "pronunciation": ["/p/ in 'pineapple'", "/m/ in 'money'", "Blending of spoken simple onsets and rhymes to form words related to numbers (e.g., 'one', 'twenty')"]
+        },
+        "pragmatic": ["Asking about prices: 'How much is the pineapple?'", "Describing quantities: 'I need five apples.'", "Discourse marker: 'I need two apples and four bananas.'"],
+        "sociolinguistic": ["Expressing needs: Using polite expressions to talk about shopping and prices (e.g., 'Excuse me, how much is it?')"]
+      },
+      "assessment_ideas": [
+        "Observe participation in shopping role-plays.",
+        "Review digital shopping lists with pictures and quantities.",
+        "Assess ability to facilitate peer interactions during shopping games."
+      ]
+    },
+    {
+      "scenario_number": 4,
+      "title": "Visiting the Panama Canal",
+      "themes": ["The Vessels Are Big Because...", "A Vessel Is Crossing!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Extract specific information from announcements or instructions.",
+          "interactive": "Perform multi-step tasks based on oral directions."
+        },
+        "reading": {
+          "reading1": "Create lists from information read in texts.",
+          "reading2": "Identify the main ideas and details in short narratives.",
+          "phonemic_awareness": "Read regularly spelled one-syllable or two-syllable words represented by single letters."
+        },
+        "speaking": {
+          "productive": "Narrate a short story or incident that is happening now.",
+          "interactive": "Respond to a large variety of classroom commands and instructions."
+        },
+        "writing": {
+          "productive": "Develop short drafts of texts on class experiments or projects.",
+          "interactive": "Create instructional posters for peers."
+        },
+        "mediation": {
+          "communication": "Assist classmates in interpreting homework assignments.",
+          "concept": "Compare a simple classroom object to something familiar."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Present simple with affirmative and interrogative sentences (e.g., 'The Panama Canal connects two oceans.')", "Present continuous with affirmative and interrogative sentences (e.g., 'Two vessels are crossing the Canal now.')", "Comparatives and superlatives (e.g., 'That ship is bigger than this yacht.')"],
+          "vocabulary": ["canal", "boat", "ocean", "bridge", "current", "vessel", "ship", "yacht", "goods", "locks", "travel", "connect", "observe", "see", "visit", "important", "historic", "wide", "deep", "fascinating", "big", "small", "across", "along", "through"],
+          "pronunciation": ["/k/ in 'Canal'", "/b/ in 'boat'", "Spelling and blending of spoken onsets and rhymes to form words (e.g., 'vessel', 'wave', 'boat')"]
+        },
+        "pragmatic": ["Describing current events: 'There are many people at the Miraflores Locks today.'", "Comparing things: 'That black vessel is bigger than the white ship.'", "Describing facts: 'The Panama Canal connects two oceans.'", "Discourse marker: 'It connects the Atlantic and the Pacific Oceans.'"],
+        "sociolinguistic": ["Respectful Conversations: Engaging in polite exchanges by sharing opinions and inviting others to participate (e.g., 'I like the canal because it is big. What do you think?')"]
+      },
+      "assessment_ideas": [
+        "Review Canal descriptive posters with present tenses and comparatives.",
+        "Observe participation in virtual Canal tours.",
+        "Assess digital Canal timelines for correct sequencing and vocabulary."
+      ]
+    },
+    {
+      "scenario_number": 5,
+      "title": "A Trip to the Beach",
+      "themes": ["Let's Pack for a Trip.", "I Always Pack Lunch."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow simple instructions for using classroom technology.",
+          "interactive": "Respond to questions about familiar topics."
+        },
+        "reading": {
+          "reading1": "Demonstrate comprehension of simple written exchanges in letters, emails, or social media.",
+          "reading2": "Create lists from information read in texts.",
+          "phonemic_awareness": "Read regularly spelled one-syllable or two-syllable words represented by single letters."
+        },
+        "speaking": {
+          "productive": "Describe quantities and dates using numbers up to a hundred.",
+          "interactive": "Sustain conversations on a variety of topics."
+        },
+        "writing": {
+          "productive": "Write instructions for simple tasks.",
+          "interactive": "Edit classmates' written work."
+        },
+        "mediation": {
+          "communication": "Facilitate a simple discussion among classmates.",
+          "concept": "Link historical events to current events for class discussions."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Present simple in affirmative and question forms (e.g., 'I like to run.')", "Imperatives (e.g., 'Please, bring your swimsuit.')", "Going to (e.g., 'I am going to the beach this weekend.')"],
+          "vocabulary": ["beach", "towel", "sunscreen", "sand", "shell", "wave", "bucket", "picnic", "sun", "umbrella", "swimsuit", "beachgoer", "cooler", "beach ball", "flip-flops", "sun hat", "floaties", "swim", "relax", "build", "collect", "sunbathe", "plan", "bring", "pack", "forget", "sunny", "sandy", "fun", "warm", "cool", "what", "where", "when", "every day", "sometimes", "always"],
+          "pronunciation": ["/b/ in 'beach'", "/p/ in 'pack'", "Spelling and blending of spoken onsets and rhymes to form words (e.g., 'pack', 'sandy')"]
+        },
+        "pragmatic": ["Describing trips: 'I always pack lunch for the trip.'", "Describing routines: 'We go to the beach every Saturday.'"],
+        "sociolinguistic": ["Giving instructions politely: Communicating instructions politely when using imperative forms (e.g., 'Please pack a swimsuit and a pair of sandals.')"]
+      },
+      "assessment_ideas": [
+        "Review packing checklists with prepositions and routines.",
+        "Observe storytelling about beach trips.",
+        "Assess digital beach adventure storyboards."
+      ]
+    },
+    {
+      "scenario_number": 6,
+      "title": "It's the Rainy Season",
+      "themes": ["Where's the Puddle?", "I Need an Umbrella."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify the setting and characters in audio storybooks.",
+          "interactive": "Engage in simple exchanges about familiar topics."
+        },
+        "reading": {
+          "reading1": "Identify the main ideas and details in short narratives.",
+          "reading2": "Respond creatively to stories read.",
+          "phonemic_awareness": "Read regularly spelled one-syllable or two-syllable words represented by single letters."
+        },
+        "speaking": {
+          "productive": "Narrate a short story or incident that is happening now.",
+          "interactive": "Engage in simple exchanges about personal interests."
+        },
+        "writing": {
+          "productive": "Write simple sentences on familiar topics.",
+          "interactive": "Edit classmates' written work."
+        },
+        "mediation": {
+          "communication": "Relay the teacher’s instructions during group activities.",
+          "concept": "Explain steps in an experiment to peers."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Present simple (e.g., 'What do you need?')", "Present continuous (e.g., 'It is raining today.')", "WH-questions (e.g., 'What do you wear in the rain?')"],
+          "vocabulary": ["puddle", "umbrella", "raincoat", "boots", "sandals", "storm", "cloud", "sky", "lightning", "thunder", "splash", "drop", "pour", "need", "want", "puddle-jump", "flood", "wet", "rainy", "gloomy", "muddy", "windy", "under", "next to", "in front of", "where", "when"],
+          "pronunciation": ["/r/ in 'rain'", "/p/ in 'puddle'", "Spelling and blending of spoken onsets and rhymes to form words (e.g., 'sky', 'muddy')"]
+        },
+        "pragmatic": ["Talking about rainy weather: 'I need an umbrella.'", "Sharing experiences: 'I wear my boots when it rains.'", "I am wearing my boots because it is raining."],
+        "sociolinguistic": ["Narrating current events related to weather: Using the present continuous tense (e.g., 'It is raining. I like puddle-jumping.')"]
+      },
+      "assessment_ideas": [
+        "Observe weather report role-plays.",
+        "Review rainy day journals with present continuous.",
+        "Assess digital weather maps with location language."
+      ]
+    },
+    {
+      "scenario_number": 7,
+      "title": "The Beautiful Mola",
+      "themes": ["A Mola Has Many Colors!", "I Can Make a Mola."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify the setting and characters in audio storybooks.",
+          "interactive": "Engage in simple exchanges about familiar topics."
+        },
+        "reading": {
+          "reading1": "Respond creatively to stories read.",
+          "reading2": "Summarize simple stories or articles.",
+          "phonemic_awareness": "Read regularly spelled one-syllable or two-syllable words represented by single letters."
+        },
+        "speaking": {
+          "productive": "Express opinions about a familiar topic.",
+          "interactive": "Sustain conversations on a variety of topics."
+        },
+        "writing": {
+          "productive": "Compose simple personal letters or emails.",
+          "interactive": "Respond in writing to written questions from peers."
+        },
+        "mediation": {
+          "text": "Explain the main ideas of class readings to absent students.",
+          "concept": "Use examples to explain math concepts to peers."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Subordinating conjunction 'because' (e.g., 'I like this design because it is colorful.')", "Present simple (e.g., 'A mola has...')", "Instructional steps (e.g., 'First, cut the fabric...')"],
+          "vocabulary": ["mola", "creativity", "project", "inspiration", "culture", "turtle", "butterfly", "jaguar", "cut", "sew", "paste", "choose", "express", "illustrate", "decorate", "collaborate", "turquoise", "golden", "round", "vibrant", "traditional", "unique", "carefully", "skillfully", "artistically", "also", "and", "because", "first", "second", "third", "next", "last"],
+          "pronunciation": ["/m/ in 'mola'", "/k/ in 'colors'", "Spell one-syllable or two-syllable words using alphabet knowledge (e.g., 'red', 'orange', 'vibrant', 'second')"]
+        },
+        "pragmatic": ["Describing things: 'A mola has many colors.'", "Describing project steps: Using instructional language to describe creative tasks, such as 'First, gather your materials.'", "Expressing preferences: 'I like this mola because it has many shapes.'"],
+        "sociolinguistic": ["Participating in collaborative art-making: Acknowledging peers' contributions and sharing feedback (e.g., 'Your mola is very creative!')"]
+      },
+      "assessment_ideas": [
+        "Review mola design projects with sequencing words.",
+        "Observe virtual mola exhibits.",
+        "Assess mola design video tutorials."
+      ]
+    },
+    {
+      "scenario_number": 8,
+      "title": "Our Traditional Style of Dress",
+      "themes": ["She Is Wearing a Pollera.", "Let's Dress for a Dance."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Extract specific information connected to time, quantities, and location.",
+          "interactive": "Clarify oral questions in group activities."
+        },
+        "reading": {
+          "reading1": "Demonstrate comprehension of simple written exchanges in letters, emails, or social media.",
+          "reading2": "Write short responses to questions about a text.",
+          "phonemic_awareness": "Blend spoken simple onsets and rhymes to form real words (onset /c/ and rhyme /at/)."
+        },
+        "speaking": {
+          "productive": "Provide instructions for developing a hands-on project.",
+          "interactive": "Collaborate with peers to plan a simple presentation."
+        },
+        "writing": {
+          "productive": "Write simple sentences on familiar topics.",
+          "interactive": "Edit classmates' written work."
+        },
+        "mediation": {
+          "text": "Interpret simple school notices.",
+          "concept": "Link historical events to current events for class discussions."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Present continuous (e.g., 'She is wearing...')", "WH-questions (e.g., 'What are you wearing?')", "Present simple (e.g., 'Women wear this dress at festivals.')"],
+          "vocabulary": ["attire", "celebration", "event", "community", "traditional clothing", "jewelry", "showcase", "represent", "explain", "admire", "dress", "use", "wear", "fold", "sew", "festive", "pretty", "beautiful", "cultural", "important", "traditional", "old-fashioned", "modern", "during", "at", "in"],
+          "pronunciation": ["/w/ in 'wearing'", "/t/ in 'these'", "Blend of spoken simple onsets and rhymes to form words (e.g., 'dress', 'pretty')"]
+        },
+        "pragmatic": ["Describing traditional clothing: 'She is wearing a pollera.'", "Explaining cultural significance: 'Polleras are worn at festivals.'"],
+        "sociolinguistic": ["Discussing traditions: Describing different traditional clothing designs."]
+      },
+      "assessment_ideas": [
+        "Review traditional clothing posters with present continuous.",
+        "Observe fashion show presentations.",
+        "Assess traditional clothing video blogs."
+      ]
+    }
+  ]
+}

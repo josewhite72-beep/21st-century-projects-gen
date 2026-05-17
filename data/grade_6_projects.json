@@ -1,0 +1,951 @@
+{
+  "project_type": "combined",
+  "grade": "6",
+  "proficiency_level": "A2.3",
+  "projects_by_scenario": {
+    "Career Goals": [
+      {
+        "id": "grade6_scenario5_project1",
+        "name": "The Vessels Are Big Because",
+        "type": "official",
+        "category": "Engineering & Description",
+        "overview": "Students research Panama Canal vessels and explain their characteristics using cause-and-effect language.",
+        "general_objective": "Develop technical description and cause-effect language skills.",
+        "specific_objectives": [
+          "Research Canal vessel characteristics",
+          "Use cause-effect language correctly",
+          "Explain technical features clearly",
+          "Present research findings"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.1.5",
+          "CE.ING.6.2.7"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Canal research resources",
+          "Cause-effect language guides",
+          "Technical description templates",
+          "Presentation aids"
+        ],
+        "technology_integration": "Use digital research and presentation tools.",
+        "skills_developed": [
+          "Technical Description",
+          "Cause-Effect Language",
+          "Research Skills",
+          "Clear Explanation"
+        ]
+      },
+      {
+        "id": "grade6_scenario5_project2",
+        "name": "A Vessel Is Crossing",
+        "type": "official",
+        "category": "Process Description",
+        "overview": "Students describe the process of vessels crossing the canal using present continuous and sequential language.",
+        "general_objective": "Develop process description and tense application skills.",
+        "specific_objectives": [
+          "Describe crossing process accurately",
+          "Use present continuous correctly",
+          "Apply sequential language",
+          "Create clear process descriptions"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.2.8",
+          "CE.ING.6.3.8"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Canal process information",
+          "Tense usage guides",
+          "Sequential language resources",
+          "Description templates"
+        ],
+        "technology_integration": "Create digital process descriptions.",
+        "skills_developed": [
+          "Process Description",
+          "Present Continuous Usage",
+          "Sequential Language",
+          "Technical Writing"
+        ]
+      },
+      {
+        "id": "grade6_scenario5_project3",
+        "name": "Canal Virtual Tour",
+        "type": "official",
+        "category": "Virtual Tours",
+        "overview": "Students create a virtual tour of the Panama Canal with descriptive narration.",
+        "general_objective": "Develop virtual tour creation and descriptive narration skills.",
+        "specific_objectives": [
+          "Plan virtual tour route",
+          "Write descriptive narration",
+          "Create tour multimedia elements",
+          "Present virtual tour"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.4.10",
+          "CE.ING.6.4.11"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Tour creation software",
+          "Canal images/videos",
+          "Narration recording equipment",
+          "Editing tools"
+        ],
+        "technology_integration": "Create interactive virtual tours.",
+        "skills_developed": [
+          "Virtual Tour Creation",
+          "Descriptive Narration",
+          "Multimedia Integration",
+          "Technical Production"
+        ]
+      }
+    ],
+    "Cultural Connections": [
+      {
+        "id": "grade6_scenario2_project1",
+        "name": "Where Are You From?",
+        "type": "official",
+        "category": "Personal History",
+        "overview": "Students interview classmates about their backgrounds, using questions about origins and previous experiences.",
+        "general_objective": "Develop interview skills and personal history vocabulary.",
+        "specific_objectives": [
+          "Prepare interview questions about origins",
+          "Conduct respectful interviews",
+          "Record and present findings",
+          "Use appropriate question forms"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.1.2",
+          "CE.ING.6.3.3"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Interview guides",
+          "Recording devices",
+          "Note-taking materials",
+          "Presentation tools"
+        ],
+        "technology_integration": "Use digital recording and presentation tools.",
+        "skills_developed": [
+          "Interview Techniques",
+          "Personal History",
+          "Question Formation",
+          "Active Listening"
+        ]
+      },
+      {
+        "id": "grade6_scenario2_project2",
+        "name": "What Was Your Previous School Like?",
+        "type": "official",
+        "category": "Cultural Research",
+        "overview": "Students research and compare different school experiences, using descriptive language and past tense.",
+        "general_objective": "Develop research skills and descriptive comparison abilities.",
+        "specific_objectives": [
+          "Research educational backgrounds",
+          "Compare different school experiences",
+          "Use descriptive language accurately",
+          "Apply past tense correctly"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.2.3",
+          "CE.ING.6.3.4"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Research templates",
+          "School information resources",
+          "Comparison charts",
+          "Writing materials"
+        ],
+        "technology_integration": "Use digital research and comparison tools.",
+        "skills_developed": [
+          "Research Skills",
+          "Descriptive Comparison",
+          "Past Tense Usage",
+          "Cultural Awareness"
+        ]
+      },
+      {
+        "id": "grade6_scenario2_project3",
+        "name": "Cultural Background Presentation",
+        "type": "official",
+        "category": "Digital Presentation",
+        "overview": "Students create digital presentations about classmates' cultural backgrounds and school experiences.",
+        "general_objective": "Develop digital presentation and synthesis skills.",
+        "specific_objectives": [
+          "Synthesize interview information",
+          "Create engaging digital presentation",
+          "Incorporate multimedia elements",
+          "Present findings clearly"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.4.4",
+          "CE.ING.6.4.5"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Presentation software",
+          "Multimedia resources",
+          "Design tools",
+          "Presentation equipment"
+        ],
+        "technology_integration": "Create digital presentations with multimedia.",
+        "skills_developed": [
+          "Digital Presentation",
+          "Information Synthesis",
+          "Multimedia Integration",
+          "Public Speaking"
+        ]
+      }
+    ],
+    "Keeping Our Communities Clean": [
+      {
+        "id": "canal_pre_guide",
+        "name": "Canal pre-guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "transport_infographic",
+        "name": "Transport infographic",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "career_presentation",
+        "name": "Career presentation",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ai_assisted_project",
+        "name": "AI-assisted project",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ocean_awareness_campaign",
+        "name": "Ocean awareness campaign",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Legends of Panama": [
+      {
+        "id": "grade6_scenario3_project1",
+        "name": "I Celebrate This Tradition Because",
+        "type": "official",
+        "category": "Cultural Storytelling",
+        "overview": "Students research and present about cultural traditions, explaining reasons using 'because' and descriptive language.",
+        "general_objective": "Develop cultural storytelling and explanatory skills.",
+        "specific_objectives": [
+          "Research cultural traditions",
+          "Explain traditions using 'because'",
+          "Use descriptive language effectively",
+          "Present cultural information engagingly"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.1.3",
+          "CE.ING.6.2.4"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Cultural research resources",
+          "Presentation templates",
+          "Explanation guides",
+          "Visual aids"
+        ],
+        "technology_integration": "Use digital storytelling tools.",
+        "skills_developed": [
+          "Cultural Storytelling",
+          "Explanatory Writing",
+          "Descriptive Language",
+          "Research Presentation"
+        ]
+      },
+      {
+        "id": "grade6_scenario3_project2",
+        "name": "In This Region, They Have a Custom Of",
+        "type": "official",
+        "category": "Regional Studies",
+        "overview": "Students research regional customs and present findings using appropriate descriptive structures.",
+        "general_objective": "Develop regional research and descriptive presentation skills.",
+        "specific_objectives": [
+          "Research regional customs",
+          "Use descriptive structures accurately",
+          "Create informative presentations",
+          "Compare different regional practices"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.2.5",
+          "CE.ING.6.3.5"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Regional research materials",
+          "Custom description guides",
+          "Presentation tools",
+          "Comparison charts"
+        ],
+        "technology_integration": "Use digital research and presentation tools.",
+        "skills_developed": [
+          "Regional Research",
+          "Descriptive Presentation",
+          "Cultural Comparison",
+          "Information Organization"
+        ]
+      },
+      {
+        "id": "grade6_scenario3_project3",
+        "name": "Cultural Customs Digital Archive",
+        "type": "official",
+        "category": "Digital Documentation",
+        "overview": "Students create a digital archive of regional customs with descriptions and multimedia elements.",
+        "general_objective": "Develop digital archiving and multimedia documentation skills.",
+        "specific_objectives": [
+          "Create organized digital archive",
+          "Incorporate multimedia elements",
+          "Write clear descriptions",
+          "Design user-friendly archive interface"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.4.6",
+          "CE.ING.6.4.7"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Digital archiving software",
+          "Multimedia resources",
+          "Description templates",
+          "Design tools"
+        ],
+        "technology_integration": "Create digital archives with multimedia integration.",
+        "skills_developed": [
+          "Digital Archiving",
+          "Multimedia Documentation",
+          "Information Design",
+          "Technical Organization"
+        ]
+      }
+    ],
+    "Our Amazing Community": [
+      {
+        "id": "canal_pre_guide",
+        "name": "Canal pre-guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "transport_infographic",
+        "name": "Transport infographic",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "career_presentation",
+        "name": "Career presentation",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ai_assisted_project",
+        "name": "AI-assisted project",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ocean_awareness_campaign",
+        "name": "Ocean awareness campaign",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Our Changing Forests": [
+      {
+        "id": "canal_pre_guide",
+        "name": "Canal pre-guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "transport_infographic",
+        "name": "Transport infographic",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "career_presentation",
+        "name": "Career presentation",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ai_assisted_project",
+        "name": "AI-assisted project",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ocean_awareness_campaign",
+        "name": "Ocean awareness campaign",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Our Classroom News": [
+      {
+        "id": "canal_pre_guide",
+        "name": "Canal pre-guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "transport_infographic",
+        "name": "Transport infographic",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "career_presentation",
+        "name": "Career presentation",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ai_assisted_project",
+        "name": "AI-assisted project",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ocean_awareness_campaign",
+        "name": "Ocean awareness campaign",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Our Community News": [
+      {
+        "id": "canal_pre_guide",
+        "name": "Canal pre-guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "transport_infographic",
+        "name": "Transport infographic",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "career_presentation",
+        "name": "Career presentation",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ai_assisted_project",
+        "name": "AI-assisted project",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ocean_awareness_campaign",
+        "name": "Ocean awareness campaign",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Our Local Library": [
+      {
+        "id": "canal_pre_guide",
+        "name": "Canal pre-guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "transport_infographic",
+        "name": "Transport infographic",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "career_presentation",
+        "name": "Career presentation",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ai_assisted_project",
+        "name": "AI-assisted project",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ocean_awareness_campaign",
+        "name": "Ocean awareness campaign",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Our New Classmates": [
+      {
+        "id": "grade6_scenario1_project1",
+        "name": "Fiestas Patrias Parade Planner",
+        "type": "official",
+        "category": "Interview & Research",
+        "overview": "Students plan a mock Fiestas Patrias parade, using the future simple tense to describe roles and the first conditional for planning.",
+        "general_objective": "Develop event planning skills and conditional language use.",
+        "specific_objectives": [
+          "Plan detailed parade event",
+          "Use future simple for role descriptions",
+          "Apply first conditional for planning scenarios",
+          "Create organized event schedule"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.1.1",
+          "CE.ING.6.2.1",
+          "CE.ING.6.3.1"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Planning templates",
+          "Event resources",
+          "Role assignment cards",
+          "Schedule tools"
+        ],
+        "technology_integration": "Use video creation tools for documentaries and digital design platforms for visual materials.",
+        "skills_developed": [
+          "Event Planning",
+          "Future Tense Application",
+          "Conditional Language",
+          "Organizational Skills"
+        ]
+      },
+      {
+        "id": "grade6_scenario1_project2",
+        "name": "Fiestas Patrias Celebration Documentary",
+        "type": "official",
+        "category": "Documentary Production",
+        "overview": "Students create a short documentary about Fiestas Patrias traditions, highlighting event preparations, cultural practices, and celebrations.",
+        "general_objective": "Develop documentary production and cultural research skills.",
+        "specific_objectives": [
+          "Research cultural traditions",
+          "Plan documentary content",
+          "Conduct interviews and recordings",
+          "Edit and produce documentary"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.4.1",
+          "CE.ING.6.4.2",
+          "CE.ING.6.4.3"
+        ],
+        "duration": "4-5 class periods",
+        "materials": [
+          "Video equipment",
+          "Interview guides",
+          "Cultural resources",
+          "Editing software"
+        ],
+        "technology_integration": "Use video recording and editing software for documentary production.",
+        "skills_developed": [
+          "Documentary Production",
+          "Cultural Research",
+          "Interview Skills",
+          "Video Editing"
+        ]
+      },
+      {
+        "id": "grade6_scenario1_project3",
+        "name": "Fiestas Patrias Celebration Mural",
+        "type": "official",
+        "category": "Collaborative Art",
+        "overview": "Students collaborate to create a mural showcasing key elements of Fiestas Patrias, including cultural symbols, traditional attire, and parade scenes.",
+        "general_objective": "Develop collaborative art creation and cultural representation skills.",
+        "specific_objectives": [
+          "Design cultural mural collaboratively",
+          "Research traditional symbols",
+          "Create cohesive artistic composition",
+          "Present mural with cultural explanations"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.2.2",
+          "CE.ING.6.3.2"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Mural surface",
+          "Art supplies",
+          "Cultural reference materials",
+          "Design sketches"
+        ],
+        "technology_integration": "Use online design tools for collaborative digital murals.",
+        "skills_developed": [
+          "Collaborative Art",
+          "Cultural Representation",
+          "Artistic Design",
+          "Team Coordination"
+        ]
+      }
+    ],
+    "Our Weather Report": [
+      {
+        "id": "canal_pre_guide",
+        "name": "Canal pre-guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "transport_infographic",
+        "name": "Transport infographic",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "career_presentation",
+        "name": "Career presentation",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ai_assisted_project",
+        "name": "AI-assisted project",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ocean_awareness_campaign",
+        "name": "Ocean awareness campaign",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Our Wonderful Ocean": [
+      {
+        "id": "grade6_scenario7_project1",
+        "name": "The Benefits of Public Transportation",
+        "type": "official",
+        "category": "Transportation Analysis",
+        "overview": "Students research and present about public transportation benefits using comparative language.",
+        "general_objective": "Develop research analysis and comparative language skills.",
+        "specific_objectives": [
+          "Research transportation benefits",
+          "Use comparative language accurately",
+          "Analyze transportation systems",
+          "Present findings persuasively"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.1.7",
+          "CE.ING.6.3.11"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Transportation research resources",
+          "Comparative language guides",
+          "Analysis templates",
+          "Presentation tools"
+        ],
+        "technology_integration": "Use digital research and analysis tools.",
+        "skills_developed": [
+          "Research Analysis",
+          "Comparative Language",
+          "Transportation Knowledge",
+          "Persuasive Presentation"
+        ]
+      },
+      {
+        "id": "grade6_scenario7_project2",
+        "name": "Rules of the Road",
+        "type": "official",
+        "category": "Rules & Regulations",
+        "overview": "Students research and explain transportation rules using imperative and modal language.",
+        "general_objective": "Develop rule explanation and instructional language skills.",
+        "specific_objectives": [
+          "Research transportation rules",
+          "Use imperative language correctly",
+          "Apply modal verbs appropriately",
+          "Explain rules clearly"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.2.10",
+          "CE.ING.6.3.12"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Transportation rule resources",
+          "Language usage guides",
+          "Explanation templates",
+          "Visual aid materials"
+        ],
+        "technology_integration": "Create digital rule explanation guides.",
+        "skills_developed": [
+          "Rule Explanation",
+          "Instructional Language",
+          "Modal Verb Usage",
+          "Clear Communication"
+        ]
+      },
+      {
+        "id": "grade6_scenario7_project3",
+        "name": "Transportation Safety Digital Guide",
+        "type": "official",
+        "category": "Interactive Guides",
+        "overview": "Students create interactive digital guides about transportation safety and rules.",
+        "general_objective": "Develop interactive guide creation and safety education skills.",
+        "specific_objectives": [
+          "Create interactive digital guide",
+          "Incorporate safety information",
+          "Design user-friendly interface",
+          "Present guide effectively"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.4.14",
+          "CE.ING.6.4.15"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Interactive guide software",
+          "Safety information resources",
+          "Design tools",
+          "Testing equipment"
+        ],
+        "technology_integration": "Create interactive digital safety guides.",
+        "skills_developed": [
+          "Interactive Guide Creation",
+          "Safety Education",
+          "Interface Design",
+          "Digital Instruction"
+        ]
+      }
+    ],
+    "The Talents Around Us": [
+      {
+        "id": "canal_pre_guide",
+        "name": "Canal pre-guide",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "transport_infographic",
+        "name": "Transport infographic",
+        "type": "complementary",
+        "category": "Tourism & Local Promotion"
+      },
+      {
+        "id": "career_presentation",
+        "name": "Career presentation",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ai_assisted_project",
+        "name": "AI-assisted project",
+        "type": "complementary",
+        "category": "Technological & Digital"
+      },
+      {
+        "id": "ocean_awareness_campaign",
+        "name": "Ocean awareness campaign",
+        "type": "complementary",
+        "category": "Environmental & Sustainability"
+      }
+    ],
+    "Transportation in Panama": [
+      {
+        "id": "grade6_scenario6_project1",
+        "name": "I Want to Be a Doctor Because",
+        "type": "official",
+        "category": "Career Exploration",
+        "overview": "Students research and present about career goals, explaining reasons using 'because' and future planning language.",
+        "general_objective": "Develop career exploration and explanatory language skills.",
+        "specific_objectives": [
+          "Research career options",
+          "Explain career choices using 'because'",
+          "Use future planning language",
+          "Present career goals clearly"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.1.6",
+          "CE.ING.6.3.9"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Career research resources",
+          "Explanation language guides",
+          "Future tense materials",
+          "Presentation templates"
+        ],
+        "technology_integration": "Use digital career exploration tools.",
+        "skills_developed": [
+          "Career Exploration",
+          "Explanatory Language",
+          "Future Planning",
+          "Goal Presentation"
+        ]
+      },
+      {
+        "id": "grade6_scenario6_project2",
+        "name": "To Become a Doctor, First I Will Need To",
+        "type": "official",
+        "category": "Educational Planning",
+        "overview": "Students create educational plans for their career goals using sequential future language.",
+        "general_objective": "Develop educational planning and sequential future language skills.",
+        "specific_objectives": [
+          "Create step-by-step educational plans",
+          "Use sequential future language",
+          "Research educational requirements",
+          "Present realistic career paths"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.2.9",
+          "CE.ING.6.3.10"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Educational planning templates",
+          "Career path resources",
+          "Sequential language guides",
+          "Presentation materials"
+        ],
+        "technology_integration": "Create digital career path presentations.",
+        "skills_developed": [
+          "Educational Planning",
+          "Sequential Language",
+          "Career Research",
+          "Realistic Goal Setting"
+        ]
+      },
+      {
+        "id": "grade6_scenario6_project3",
+        "name": "Career Pathway Digital Portfolio",
+        "type": "official",
+        "category": "Digital Portfolios",
+        "overview": "Students create digital portfolios showcasing their career research and educational plans.",
+        "general_objective": "Develop digital portfolio creation and career documentation skills.",
+        "specific_objectives": [
+          "Create organized digital portfolio",
+          "Showcase career research",
+          "Present educational plans",
+          "Design professional portfolio interface"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.4.12",
+          "CE.ING.6.4.13"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Portfolio software",
+          "Career documentation",
+          "Design tools",
+          "Presentation equipment"
+        ],
+        "technology_integration": "Create professional digital portfolios.",
+        "skills_developed": [
+          "Digital Portfolio Creation",
+          "Career Documentation",
+          "Professional Design",
+          "Information Presentation"
+        ]
+      }
+    ],
+    "Visiting the Panama Canal": [
+      {
+        "id": "grade6_scenario4_project1",
+        "name": "My Favorite Legend",
+        "type": "official",
+        "category": "Literary Analysis",
+        "overview": "Students analyze and present their favorite Panamanian legend, using descriptive language and narrative structures.",
+        "general_objective": "Develop literary analysis and narrative presentation skills.",
+        "specific_objectives": [
+          "Analyze legendary narratives",
+          "Use descriptive language effectively",
+          "Present legends engagingly",
+          "Explain personal preferences clearly"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.1.4",
+          "CE.ING.6.3.6"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Legend collections",
+          "Analysis templates",
+          "Presentation guides",
+          "Visual storytelling aids"
+        ],
+        "technology_integration": "Use digital storytelling platforms.",
+        "skills_developed": [
+          "Literary Analysis",
+          "Narrative Presentation",
+          "Descriptive Language",
+          "Personal Expression"
+        ]
+      },
+      {
+        "id": "grade6_scenario4_project2",
+        "name": "Once Upon a Time",
+        "type": "official",
+        "category": "Creative Writing",
+        "overview": "Students write their own legends using traditional story structures and descriptive language.",
+        "general_objective": "Develop creative writing and traditional storytelling skills.",
+        "specific_objectives": [
+          "Apply traditional story structures",
+          "Use descriptive language creatively",
+          "Write coherent legendary narratives",
+          "Present original legends"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.2.6",
+          "CE.ING.6.3.7"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Writing templates",
+          "Story structure guides",
+          "Creative writing resources",
+          "Presentation materials"
+        ],
+        "technology_integration": "Use digital writing and publishing tools.",
+        "skills_developed": [
+          "Creative Writing",
+          "Storytelling",
+          "Descriptive Language",
+          "Narrative Structure"
+        ]
+      },
+      {
+        "id": "grade6_scenario4_project3",
+        "name": "Digital Legend Collection",
+        "type": "official",
+        "category": "Multimedia Storytelling",
+        "overview": "Students create a digital collection of Panamanian legends with multimedia enhancements.",
+        "general_objective": "Develop multimedia storytelling and digital publication skills.",
+        "specific_objectives": [
+          "Create digital legend collection",
+          "Incorporate multimedia elements",
+          "Design engaging digital interface",
+          "Present collection effectively"
+        ],
+        "institutional_standards": [
+          "CE.ING.6.4.8",
+          "CE.ING.6.4.9"
+        ],
+        "duration": "3-4 class periods",
+        "materials": [
+          "Digital publishing software",
+          "Multimedia resources",
+          "Design tools",
+          "Presentation equipment"
+        ],
+        "technology_integration": "Create interactive digital legend collections.",
+        "skills_developed": [
+          "Multimedia Storytelling",
+          "Digital Publication",
+          "Interface Design",
+          "Cultural Preservation"
+        ]
+      }
+    ]
+  }
+}

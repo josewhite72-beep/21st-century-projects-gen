@@ -1,0 +1,334 @@
+{
+  "grade": "Kinder",
+  "proficiency_level": "Pre A1.2",
+  "scenarios": [
+    {
+      "scenario_number": 1,
+      "title": "It's a School Day!",
+      "themes": ["Let's Listen!", "Stand Up!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow very simple classroom instructions with visual cues.",
+          "interactive": "Engage in basic interactive games with instructions."
+        },
+        "reading": {
+          "reading": "Recognize basic familiar words supported with illustrations or visual aids.",
+          "reading2": "Attempt to read basic and familiar words supported with pictures.",
+          "phonemic_awareness": "Identify sounds at the beginning of words."
+        },
+        "speaking": {
+          "productive": "Use simple words to express basic needs.",
+          "interactive": "Engage in question-and-answer exchanges using simple words and gestures."
+        },
+        "writing": {
+          "productive": "Practice tracing and copying letters of the alphabet.",
+          "interactive": "Engage in interactive labeling activities."
+        },
+        "mediation": {
+          "text": "Identify objects on the pages of picture books, using simple words."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Imperatives (e.g., 'Stand up.')", "Present simple (e.g., 'It is a school.')", "WH-questions (e.g., 'What is it?')"],
+          "vocabulary": ["child", "table", "morning", "book", "music", "window", "door", "listen", "stand up", "jump", "touch", "open", "nice", "calm", "top", "bottom", "near", "away"],
+          "pronunciation": ["/s/ in 'school'", "/l/ in 'listen'", "Syllable stress in 'teacher' and 'student'", "Initial sounds: /b/ 'book', /l/ 'listen', /t/ 'touch'"]
+        },
+        "pragmatic": ["Following instructions: respond to commands like 'stand up'", "Describing actions: 'Please, sit.'", "Answering WH-questions like 'What is it?'"],
+        "sociolinguistic": ["Politeness and formality: use 'Please stand up'"]
+      },
+      "assessment_ideas": [
+        "Observe student responses during Simon Says or similar command games.",
+        "Check labeling of classroom objects in posters or digital drawings.",
+        "Assess ability to identify objects in picture books using single words."
+      ]
+    },
+    {
+      "scenario_number": 2,
+      "title": "Our Routines",
+      "themes": ["First, I Sit Down.", "Pick It Up!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Show comprehension of basic commands used in the classroom.",
+          "interactive": "Respond to simple oral requests."
+        },
+        "reading": {
+          "reading": "Identify characters in a picture book.",
+          "reading2": "Match spoken words to their written form as they are heard and supported with pictures.",
+          "phonemic_awareness": "Recognize familiar letters."
+        },
+        "speaking": {
+          "productive": "Name daily activities, using isolated words.",
+          "interactive": "Engage with simple commands using basic words and gestures."
+        },
+        "writing": {
+          "productive": "Write simple words with model guidance.",
+          "interactive": "Engage in interactive labeling activities."
+        },
+        "mediation": {
+          "concept": "Use gestures and drawings to link daily routines to classroom activities that are performed."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Present simple (e.g., 'This is a pen.')", "Sequencing words with numbers (e.g., 'Step 1, Step 2')", "Imperatives (e.g., 'Pick it up.')"],
+          "vocabulary": ["bag", "pen", "paper", "notebook", "calendar", "alphabet", "door", "eraser", "sit", "play", "take", "put", "jump", "clap", "pick up", "draw", "big", "small", "long", "short", "on", "up", "down", "Please"],
+          "pronunciation": ["/p/ in 'pick'", "/d/ in 'down'", "Letter sounds: A, B, C, D, E"]
+        },
+        "pragmatic": ["Describing daily routines with sequencing words", "Following instructions like 'pick up'"],
+        "sociolinguistic": ["Routine interactions: 'Please, pick up the paper.'"]
+      },
+      "assessment_ideas": [
+        "Observe participation in routine role-plays.",
+        "Review labeled routine charts or digital timelines.",
+        "Check copying of simple words like 'sit' or 'pen' in labeling tasks."
+      ]
+    },
+    {
+      "scenario_number": 3,
+      "title": "Hold Up Ten Fingers!",
+      "themes": ["I Can Count!", "All the Pencils!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Show comprehension of basic commands used in the classroom.",
+          "interactive": "Repeat simple rhymes and songs."
+        },
+        "reading": {
+          "reading": "Recognize basic familiar words supported with illustrations or visual aids.",
+          "reading2": "Show comprehension of storybook sequencing by pointing to pictures with the teacher's guidance.",
+          "phonemic_awareness": "Recognize familiar letters."
+        },
+        "speaking": {
+          "productive": "Count out loud up to ten with help.",
+          "interactive": "Respond nonverbally to simple yes/no questions by nodding or shaking head."
+        },
+        "writing": {
+          "productive": "Write simple words, with model guidance.",
+          "interactive": "Engage in interactive labeling activities."
+        },
+        "mediation": {
+          "concept": "Use gestures and drawings to link daily routines to classroom activities that are performed."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Quantity + nouns (e.g., 'ten fingers')", "WH-questions (e.g., 'How many fingers?')", "Yes/No questions (e.g., 'Is this number five?')"],
+          "vocabulary": ["numbers 1–10", "hand", "finger", "block", "pencil", "book", "crayon", "marker", "glue", "juice", "count", "show", "point", "hold", "match", "red", "yellow", "blue", "green", "orange", "purple", "tall", "small", "short", "big"],
+          "pronunciation": ["/k/ in 'count'", "/f/ in 'fingers'", "Number sounds 1–10", "Letter sounds: F, G, H, I, J"]
+        },
+        "pragmatic": ["Counting aloud in response to prompts", "Answering 'how many' questions"],
+        "sociolinguistic": ["Encouraging turn-taking and active listening during group counting"]
+      },
+      "assessment_ideas": [
+        "Observe finger-counting during group activities.",
+        "Review counting books with labeled drawings.",
+        "Assess ability to respond to 'Is this number five?' with yes/no and gestures."
+      ]
+    },
+    {
+      "scenario_number": 4,
+      "title": "Where Is It?",
+      "themes": ["Where Is Your Book?", "Go to the Window."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow very simple classroom instructions with visual cues.",
+          "interactive": "Follow along during group story time."
+        },
+        "reading": {
+          "reading": "Participate in choral reading sessions, supported by the teacher.",
+          "reading2": "Match spoken words to their written form as they are heard and supported with pictures.",
+          "phonemic_awareness": "Recognize familiar letters."
+        },
+        "speaking": {
+          "productive": "Identify primary and secondary colors.",
+          "interactive": "Respond to classroom commands."
+        },
+        "writing": {
+          "productive": "Label drawings of basic objects.",
+          "interactive": "Engage in interactive labeling activities."
+        },
+        "mediation": {
+          "text": "Identify objects on the pages of picture books, using simple words."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Prepositions (e.g., 'on the desks')", "WH-Questions for Location (e.g., 'Where is the book?')", "Plural nouns in simple responses"],
+          "vocabulary": ["poster", "clip", "ruler", "glue", "marker", "folder", "card", "shelf", "chart", "pen", "chalk", "key", "notebook", "point", "hold", "pick", "put", "draw", "write", "show", "go", "large", "small", "yellow", "red", "blue", "orange", "green", "purple", "on", "in", "under"],
+          "pronunciation": ["/w/ in 'where'", "/b/ in 'book'", "Letter sounds: K, L, M, N, O"]
+        },
+        "pragmatic": ["Using location words: 'The book is on the desk.'", "Following location commands: 'Go to the window.'"],
+        "sociolinguistic": ["Polite request: 'Show me the blue crayon, please.'", "Giving location information: 'It’s on the desk.'"]
+      },
+      "assessment_ideas": [
+        "Observe participation in preposition scavenger hunts.",
+        "Review classroom maps with labeled object locations.",
+        "Check responses to 'Where is the pen?' using gestures or words."
+      ]
+    },
+    {
+      "scenario_number": 5,
+      "title": "What's that Sound?",
+      "themes": ["The Cat Says 'Meow'.", "That's a Rooster!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow very simple classroom instructions with visual cues.",
+          "interactive": "Respond to simple oral requests."
+        },
+        "reading": {
+          "reading": "Recognize basic familiar words supported with illustrations or visual aids.",
+          "reading2": "Match spoken words to their written form as they are heard and supported with pictures.",
+          "phonemic_awareness": "Recognize familiar letters."
+        },
+        "speaking": {
+          "productive": "Identify things in simple pictures, using isolated words.",
+          "interactive": "Respond to classroom commands."
+        },
+        "writing": {
+          "productive": "Write simple words with model guidance.",
+          "interactive": "Engage in interactive labeling activities."
+        },
+        "mediation": {
+          "communication": "Relay messages from teacher to peers."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["WH-questions (e.g., 'What sound is this?')", "Present simple (e.g., 'The cat says meow.')", "Exclamations (e.g., 'That’s a rooster!')"],
+          "vocabulary": ["cat", "dog", "rooster", "bird", "cow", "duck", "sheep", "horse", "fish", "pig", "say", "jump", "run", "fly", "swim", "loud", "quiet", "big", "small", "bark", "meow", "quack", "woof"],
+          "pronunciation": ["/m/ in 'meow'", "/r/ in 'rooster'", "Letter sounds in animal names: C in 'cat', D in 'dog'; letters P, Q, R"]
+        },
+        "pragmatic": ["Mimicking sounds: 'meow' for cat", "Recognizing sounds: 'moo' for cow"],
+        "sociolinguistic": ["Describing animals based on sounds"]
+      },
+      "assessment_ideas": [
+        "Observe participation in animal sound guessing games.",
+        "Review labeled animal drawings with sound words (e.g., 'cow – moo').",
+        "Assess ability to mimic sounds in response to prompts."
+      ]
+    },
+    {
+      "scenario_number": 6,
+      "title": "Let's Dance!",
+      "themes": ["Move Around", "One Step In, Two Steps Out!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Show comprehension of basic commands used in the classroom.",
+          "interactive": "Repeat simple rhymes and songs."
+        },
+        "reading": {
+          "reading": "Show comprehension of storybook sequencing by pointing to pictures with the teacher's guidance.",
+          "reading2": "Match spoken words to their written form as they are heard and supported with pictures.",
+          "phonemic_awareness": "Recognize familiar letters."
+        },
+        "speaking": {
+          "productive": "Recite simple nursery rhymes.",
+          "interactive": "Engage with simple commands using basic words and gestures."
+        },
+        "writing": {
+          "productive": "Label drawings of basic objects.",
+          "interactive": "Engage in interactive labeling activities."
+        },
+        "mediation": {
+          "concept": "Use gestures and drawings to link daily routines to classroom activities that are performed."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Sequential commands with numbers", "Simple directive phrases (e.g., 'Move to the front.')", "Positional commands with prepositions"],
+          "vocabulary": ["numbers 1–1, step, dance, foot, circle, line, voice", "move", "dance", "step", "spin", "turn", "twirl", "shake", "hop", "put", "jump", "fast", "slow", "big", "small", "in", "out", "around", "up"],
+          "pronunciation": ["/t/ in 'two'", "/d/ in 'dance'", "Letter sounds: J in 'jump'; letters S, T, U, V"]
+        },
+        "pragmatic": ["Acting out dance commands: 'step forward'", "Reciting action rhymes like 'Head, Shoulders, Knees, and Toes'"],
+        "sociolinguistic": ["Group participation: using 'after you' or 'go ahead'"]
+      },
+      "assessment_ideas": [
+        "Observe performance in dance sequence videos.",
+        "Review labeled movement drawings (e.g., 'jump', 'run').",
+        "Assess ability to follow instructions like 'two steps out.'"
+      ]
+    },
+    {
+      "scenario_number": 7,
+      "title": "I'm Happy.",
+      "themes": ["I'm Excited!", "How Are You?"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize basic greetings and farewells.",
+          "interactive": "Respond to simple oral requests."
+        },
+        "reading": {
+          "reading": "Match spoken words to their written form as they are heard and supported with pictures.",
+          "reading2": "Participate in choral reading sessions, supported by the teacher.",
+          "phonemic_awareness": "Recognize familiar letters."
+        },
+        "speaking": {
+          "productive": "Use simple words to express basic needs.",
+          "interactive": "Express likes or dislikes using simple words and pointing."
+        },
+        "writing": {
+          "productive": "Practice tracing and copying letters of the alphabet.",
+          "interactive": "Engage in interactive labeling activities."
+        },
+        "mediation": {
+          "communication": "Relay messages from teacher to peers."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Simple sentences (e.g., 'I'm happy.')", "WH-questions (e.g., 'How are you?')", "I'm + adjective (e.g., 'I'm excited.')"],
+          "vocabulary": ["feelings", "friend", "feel", "be (am)", "need", "want", "rest", "play", "smile", "frown", "hug", "help", "happy", "sad", "tired", "hungry", "thirsty", "calm", "sleepy", "excited", "sick", "warm", "angry", "how"],
+          "pronunciation": ["/h/ in 'happy'", "/e/ in 'excited'", "Letter sounds: E in 'rest', H in 'happy'; letters W, X, Y, Z"]
+        },
+        "pragmatic": ["Expressing feelings: 'I’m tired.'", "Answering 'How are you?' with 'I’m excited.'"],
+        "sociolinguistic": ["Discussing feelings and recognizing others’ emotions"]
+      },
+      "assessment_ideas": [
+        "Observe use of 'I’m...' statements during emotion bingo.",
+        "Review labeled emotion face charts or digital wheels.",
+        "Assess gestures used to convey feelings (e.g., fanning for 'hot')."
+      ]
+    },
+    {
+      "scenario_number": 8,
+      "title": "I Like School!",
+      "themes": ["I Like Games!", "I Like Math!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Show comprehension of basic commands used in the classroom.",
+          "interactive": "Engage in basic interactive games with instructions."
+        },
+        "reading": {
+          "reading": "Participate in choral reading sessions, supported by the teacher.",
+          "reading2": "Recognize basic familiar words supported with illustrations or visual aids.",
+          "phonemic_awareness": "Recognize familiar letters."
+        },
+        "speaking": {
+          "productive": "Identify things in simple pictures, using isolated words.",
+          "interactive": "Express likes or dislikes using simple words and pointing."
+        },
+        "writing": {
+          "productive": "Write simple words with model guidance.",
+          "interactive": "Engage in interactive labeling activities."
+        },
+        "mediation": {
+          "text": "Identify objects on the pages of picture books, using simple words."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Subject + verb (e.g., 'I like school.')", "Present simple (e.g., 'I like games.')", "Yes/No questions (e.g., 'Do you like it?')"],
+          "vocabulary": ["teacher", "art", "playground", "science", "music", "math", "English", "enjoy", "choose", "create", "count", "build", "sing", "share", "look", "write", "color", "interesting", "funny", "boring", "exciting", "happy", "sad", "favorite", "colorful"],
+          "pronunciation": ["/l/ in 'like'", "/g/ in 'games'", "Letter sounds in 'math' and 'games'"]
+        },
+        "pragmatic": ["Expressing likes: 'I like music!'", "Answering preference questions: 'Yes' or 'No'"],
+        "sociolinguistic": ["Sharing preferences about school activities"]
+      },
+      "assessment_ideas": [
+        "Observe participation in 'likes and dislikes' charts.",
+        "Review collages or digital posters of favorite school things.",
+        "Assess use of 'I like...' with pointing or simple words."
+      ]
+    }
+  ]
+}

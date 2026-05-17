@@ -1,0 +1,342 @@
+{
+  "grade": "3",
+  "proficiency_level": "A1.1",
+  "scenarios": [
+    {
+      "scenario_number": 1,
+      "title": "Places I Can Go",
+      "themes": ["I'm at School.", "I'm at the Market."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Demonstrate comprehension of simple spoken instructions.",
+          "interactive": "Identify the main points in a conversation."
+        },
+        "reading": {
+          "reading1": "Outline the meaning of simple paragraphs.",
+          "reading2": "Follow written instructions for making or doing something simple.",
+          "phonemic_awareness": "Blend spoken phonemes to form one-syllable or two-syllable words if these words have been previously encountered."
+        },
+        "speaking": {
+          "productive": "Describe routines and simple procedures.",
+          "interactive": "Participate in simple dialogues on familiar topics."
+        },
+        "writing": {
+          "productive": "Write simple phrases and sentences on familiar topics.",
+          "interactive": "Write short role plays to be acted out based on class content."
+        },
+        "mediation": {
+          "text": "Interpret short, simple messages from class texts.",
+          "communication": "Assist peers in following oral directions."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Contractions (e.g., 'I'm')", "Prepositions of place (e.g., 'at home')", "Present simple (e.g., 'I'm at school.')"],
+          "vocabulary": ["home", "school", "market", "park", "library", "store", "hospital", "pharmacy", "bakery", "restaurant", "secretary's office", "principal's office", "gym", "playground", "cafeteria", "nurse's office", "walk", "play", "read", "study", "buy", "go", "see", "talk", "quiet", "busy", "big", "small", "clean", "crowded", "my", "your", "his", "her", "at", "in", "near", "on", "next to", "excuse me", "please", "thank you"],
+          "pronunciation": ["/sk/ in 'school'", "/m/ in 'market'", "Blending of spoken phonemes to form one-syllable and two-syllable words (e.g., /ɪn/ for 'in')"]
+        },
+        "pragmatic": ["Describing locations: 'I'm at school.' 'I'm at home.'", "Confirming locations: 'Are you at school?' 'Yes, I'm at school.'"],
+        "sociolinguistic": ["Polite expressions for responding to compliments about locations (e.g., 'Thank you!' in response to 'Your home is beautiful.')"]
+      },
+      "assessment_ideas": [
+        "Observe student responses during 'Where Am I?' map activities.",
+        "Review digital map tours with 'I'm at...' labels.",
+        "Assess use of contractions and prepositions in location drawings."
+      ]
+    },
+    {
+      "scenario_number": 2,
+      "title": "A Polite Request",
+      "themes": ["Can I Have a Pencil?", "Sorry, I Can't Help You."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Respond to basic questions about a familiar story.",
+          "interactive": "Summarize spoken stories."
+        },
+        "reading": {
+          "reading1": "Show comprehension of texts by answering both written and oral questions.",
+          "reading2": "Identify key details in a story.",
+          "phonemic_awareness": "Blend spoken phonemes to form one-syllable or two-syllable words if these words have been previously encountered."
+        },
+        "speaking": {
+          "productive": "Explain simple rules of a game or activity.",
+          "interactive": "Collaborate verbally in team activities."
+        },
+        "writing": {
+          "productive": "Write instructions for simple tasks.",
+          "interactive": "Write a simple collaborative text with peers."
+        },
+        "mediation": {
+          "text": "Simplify written instructions for peers.",
+          "communication": "Relay simplified explanations of lessons to absent peers."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Polite requests (e.g., 'Can I have... please?')", "Negative contracted form of can (e.g., 'I can't roll the dice.')", "Present simple (e.g., 'I have a pencil, but I don't have an eraser.')"],
+          "vocabulary": ["pencil", "desk", "table", "friend", "hand", "bag", "turn", "answer", "help", "paper", "ask", "need", "borrow", "listen", "wait", "give", "roll", "know", "can", "can't", "polite", "kind", "helpful", "ready", "friendly", "please", "thank you", "my pleasure"],
+          "pronunciation": ["/p/ in 'please'", "/k/ in 'can’t'", "Blending of spoken phonemes (e.g., /k-aɪ-n-d/ in 'kind')"]
+        },
+        "pragmatic": ["Making polite requests: 'Can I have a pencil, please?'", "Offering assistance politely: 'Can I help you?' or 'Do you need help?'"],
+        "sociolinguistic": ["Expressing inability politely: Using 'can't' in respectful conversation."]
+      },
+      "assessment_ideas": [
+        "Observe participation in polite request role-plays.",
+        "Review collaborative dialogues with 'Can I...' and 'Sorry, I can't...'.",
+        "Assess use of polite expressions in digital posters."
+      ]
+    },
+    {
+      "scenario_number": 3,
+      "title": "Discovering Our Classroom",
+      "themes": ["What's in Your Bag?", "The Book Is on the Table."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow oral directions for simple games.",
+          "interactive": "Present responses based on listened questions."
+        },
+        "reading": {
+          "reading1": "Describe the purpose of everyday texts.",
+          "reading2": "Outline the meaning of simple paragraphs.",
+          "phonemic_awareness": "Blend spoken phonemes to form one-syllable or two-syllable words if these words have been previously encountered."
+        },
+        "speaking": {
+          "productive": "Share simple stories from books or personal creations.",
+          "interactive": "Interact with questions and answers about a classroom topic."
+        },
+        "writing": {
+          "productive": "Compose short texts using simple phrases and sentences.",
+          "interactive": "Respond to written questions from peers."
+        },
+        "mediation": {
+          "text": "Explain keywords from readings in simpler terms.",
+          "communication": "Facilitate basic peer interactions in group activities."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["WH-questions (e.g., 'What's in your bag?')", "Prepositions of place (e.g., 'on the table')", "Present simple (e.g., 'The book is...')"],
+          "vocabulary": ["desk", "book", "marker", "board", "shelf", "eraser", "paper", "chair", "crayon", "notebook", "ruler", "pencil", "pencil case", "pen", "map", "find", "place", "show", "hold", "look", "color", "draw", "write", "erase", "read", "paint", "cut", "paste", "neat", "messy", "organized", "large", "small", "colorful", "light blue", "green", "my", "his", "her", "your", "here", "there", "in", "on", "next to", "between", "behind"],
+          "pronunciation": ["/b/ in 'book'", "/t/ in 'table'", "Blending of spoken phonemes (e.g., /ɔ/-n/ in 'on')"]
+        },
+        "pragmatic": ["Locating objects and places: 'The book is on the table.'", "Confirming object locations: 'It's here.' 'It's on the shelf.'"],
+        "sociolinguistic": ["Classroom interactions: Respectfully asking and answering questions (e.g., 'Excuse me...')."]
+      },
+      "assessment_ideas": [
+        "Observe participation in classroom scavenger hunts.",
+        "Review labeled object photos with prepositions.",
+        "Assess ability to explain classroom vocabulary with gestures."
+      ]
+    },
+    {
+      "scenario_number": 4,
+      "title": "This Beautiful Day",
+      "themes": ["It's Sunny. I'm Happy!", "It's Raining! I Need an Umbrella."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize familiar sounds from audio sources.",
+          "interactive": "Engage in a role-play based on a listened scenario."
+        },
+        "reading": {
+          "reading1": "Illustrate the main ideas from a reading in a creative project.",
+          "reading2": "Summarize a text using a graphic organizer.",
+          "phonemic_awareness": "Blend spoken phonemes to form one-syllable or two-syllable words if these words have been previously encountered."
+        },
+        "speaking": {
+          "productive": "Describe simple personal experiences and habits.",
+          "interactive": "Participate in simple dialogues on familiar topics."
+        },
+        "writing": {
+          "productive": "Create descriptive captions for images with simple words.",
+          "interactive": "Write short role plays to be acted out based on class content."
+        },
+        "mediation": {
+          "text": "Interpret short, simple messages from class texts.",
+          "concept": "Use simple analogies to explain basic concepts."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Contractions (e.g., 'I'm', 'it's')", "WH-questions (e.g., 'How do you feel today?')", "Present simple (e.g., 'I feel happy on sunny days.')"],
+          "vocabulary": ["sun", "rain", "cloud", "wind", "weather", "umbrella", "sky", "coat", "boots", "shine", "fall", "blow", "get wet", "dry", "enjoy", "feel", "play", "sunny", "rainy", "cloudy", "bright", "warm", "cold", "windy", "happy", "sad", "bored", "excited", "lazy", "hot"],
+          "pronunciation": ["/s/ in 'sunny'", "/r/ in 'raining'", "Blending of spoken phonemes (e.g., /r-eɪ-n/ in 'rain')"]
+        },
+        "pragmatic": ["Describing weather and feelings: 'I'm happy.' 'It's raining.'", "Asking and answering about feelings: 'How do you feel?' 'I feel happy.'"],
+        "sociolinguistic": ["Expressing emotions and needs politely (e.g., 'I need your umbrella, please.')"]
+      },
+      "assessment_ideas": [
+        "Review weather and feelings journals with drawings and captions.",
+        "Observe participation in weather role-plays.",
+        "Assess use of contractions in digital weather logs."
+      ]
+    },
+    {
+      "scenario_number": 5,
+      "title": "Let's Go Shopping!",
+      "themes": ["One, Two, Three Bananas!", "I Want Five Pineapples."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify the main idea from short spoken passages.",
+          "interactive": "Participate in call-and-response activities."
+        },
+        "reading": {
+          "reading1": "Identify key details in a story.",
+          "reading2": "Connect text content to personal experiences or related activities.",
+          "phonemic_awareness": "Blend spoken phonemes to form one-syllable or two-syllable words if these words have been previously encountered."
+        },
+        "speaking": {
+          "productive": "Talk about everyday objects and how they are used.",
+          "interactive": "Express preferences about familiar topics."
+        },
+        "writing": {
+          "productive": "Compose short texts using simple phrases and sentences.",
+          "interactive": "Organize information from discussions into written form."
+        },
+        "mediation": {
+          "communication": "Facilitate basic peer interactions in group activities.",
+          "concept": "Relate concepts to everyday scenarios."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Number + noun (e.g., 'three bananas')", "Present simple (e.g., 'I want five pineapples.')", "Numbers (e.g., 'one, two, three...')"],
+          "vocabulary": ["pineapple", "apple", "orange", "banana", "money", "cart", "market", "store", "basket", "price", "cashier", "buy", "sell", "pay", "choose", "find", "pick", "carry", "cost", "need", "ask", "shop", "fresh", "cheap", "expensive", "delicious", "sweet", "one", "two", "three", "four", "five", "ten"],
+          "pronunciation": ["/b/ in 'banana'", "/p/ in 'pineapple'", "Blending of spoken phonemes (e.g., /s-ɪ-k-s/ in 'six')"]
+        },
+        "pragmatic": ["Expressing quantity: 'I want three apples.'", "Requesting items: 'Can I have two bananas, please?'"],
+        "sociolinguistic": ["Expressing quantity politely while shopping (e.g., 'I want three apples, please.')"]
+      },
+      "assessment_ideas": [
+        "Observe participation in shopping role-plays.",
+        "Review digital shopping lists with pictures and quantities.",
+        "Assess ability to facilitate peer interactions during shopping games."
+      ]
+    },
+    {
+      "scenario_number": 6,
+      "title": "I Can Connect with Nature!",
+      "themes": ["I Can Relax and Listen.", "I'm Outside. I'm Happy!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Respond to basic questions about a familiar story.",
+          "interactive": "Engage in a role-play based on a listened scenario."
+        },
+        "reading": {
+          "reading1": "Summarize a text using a graphic organizer.",
+          "reading2": "Follow written instructions for making or doing something simple.",
+          "phonemic_awareness": "Blend spoken phonemes to form one-syllable or two-syllable words if these words have been previously encountered."
+        },
+        "speaking": {
+          "productive": "Describe routines and simple procedures.",
+          "interactive": "Collaborate verbally in team activities."
+        },
+        "writing": {
+          "productive": "Develop simple responses to questions based on reading texts.",
+          "interactive": "Participate in group-based brainstorming to draft ideas for a text."
+        },
+        "mediation": {
+          "communication": "Assist peers in following oral directions.",
+          "concept": "Explain simple events in story form."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Can/Can't (e.g., 'I can relax.')", "Prepositions of place (e.g., 'I'm outside.')", "Present simple (e.g., 'I'm happy.')"],
+          "vocabulary": ["tree", "grass", "flower", "bird", "leaf", "park", "nature", "trail", "sun", "sky", "stream", "water fall", "picnic", "spot", "river", "butterfly", "spider", "walk", "listen", "look", "explore", "relax", "breathe", "hear", "enjoy", "observe", "smell", "have", "see", "quiet", "peaceful", "beautiful", "green", "bright"],
+          "pronunciation": ["/k/ in 'can'", "/s/ in 'sun'", "Blending of spoken phonemes (e.g., /s//ʌ//n/ for 'sun')"]
+        },
+        "pragmatic": ["Expressing connection with nature: 'I hear the birds.'", "Locating people and things: 'I am near the big tree.'"],
+        "sociolinguistic": ["Expressing appreciation for nature politely (e.g., 'This is my favorite spot in the park.')", "Participating in polite requests during nature activities (e.g., 'Can you pass me the binoculars, please?')"]
+      },
+      "assessment_ideas": [
+        "Review nature observation journals with 'can/can't' sentences.",
+        "Observe participation in outdoor role-plays.",
+        "Assess use of nature-related vocabulary in digital journals."
+      ]
+    },
+    {
+      "scenario_number": 7,
+      "title": "It's Time to Eat.",
+      "themes": ["What's Your Favorite Food?", "I Like Sancocho!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Demonstrate comprehension of phrases with names and dates in a short, simple recording delivered at a slow pace.",
+          "interactive": "Present responses based on listened questions."
+        },
+        "reading": {
+          "reading1": "Show comprehension of texts by answering questions, both written and oral.",
+          "reading2": "Write responses to questions about a text.",
+          "phonemic_awareness": "Blend spoken phonemes to form one-syllable or two-syllable words if these words have been previously encountered."
+        },
+        "speaking": {
+          "productive": "Describe objects using basic words or phrases, provided they can prepare in advance.",
+          "interactive": "Interact with questions and answers about a classroom topic."
+        },
+        "writing": {
+          "productive": "Compose short texts using simple phrases and sentences.",
+          "interactive": "Respond to written questions from peers."
+        },
+        "mediation": {
+          "text": "Simplify written instructions for peers.",
+          "concept": "Relate concepts to everyday scenarios."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["WH- and yes/no questions (e.g., 'What's your favorite food?' 'Do you like sancocho?')", "Present simple (e.g., 'I like sancocho.')", "Compound sentences with 'but' (e.g., 'I like... but I don't...')"],
+          "vocabulary": ["apple", "banana", "sandwich", "lunch", "breakfast", "dinner", "food", "snack", "water", "juice", "rice with chicken", "soup", "eat", "drink", "taste", "choose", "bring", "want", "enjoy", "share", "prepare", "serve", "can", "can't", "tasty", "healthy", "hungry", "favorite", "sweet"],
+          "pronunciation": ["/f/ in 'favorite'", "/s/ in 'snack'", "Blending of spoken phonemes (e.g., /ˈæ-p.əl/ in 'apple')"]
+        },
+        "pragmatic": ["Asking for and giving information about preferences: 'I like apples.' 'Do you like oranges?'"],
+        "sociolinguistic": ["Sharing preferences respectfully (e.g., 'I like apples, but I am not a fan of broccoli.')"]
+      },
+      "assessment_ideas": [
+        "Review favorite food survey charts.",
+        "Observe participation in food recipe book creation.",
+        "Assess responses to digital food surveys."
+      ]
+    },
+    {
+      "scenario_number": 8,
+      "title": "My Evening Routine",
+      "themes": ["First, I Brush My Teeth.", "I'm Sleepy. It's Bedtime."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Demonstrate comprehension of phrases with names and dates in a short, simple recording delivered at a slow pace.",
+          "interactive": "Perform tasks based on oral instructions."
+        },
+        "reading": {
+          "reading1": "Summarize a text using a graphic organizer.",
+          "reading2": "Outline the meaning of simple paragraphs.",
+          "phonemic_awareness": "Blend spoken phonemes to form one-syllable or two-syllable words if these words have been previously encountered."
+        },
+        "speaking": {
+          "productive": "Express likes and dislikes.",
+          "interactive": "Respond to simple instructions during activities."
+        },
+        "writing": {
+          "productive": "Create descriptive captions for images with simple words.",
+          "interactive": "Edit a co-constructed text."
+        },
+        "mediation": {
+          "text": "Explain keywords from readings in simpler terms.",
+          "concept": "Explain simple events in story form."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Imperative (e.g., 'Brush your teeth.')", "Present simple (e.g., 'I'm sleepy.')", "WH-questions (e.g., 'What is your routine?')"],
+          "vocabulary": ["bed", "pillow", "blanket", "night", "pajamas", "toothbrush", "teeth", "bathroom", "story", "moon", "star", "bedtime", "fan", "goodnight", "sleep", "rest", "brush", "dream", "lie down", "close", "read", "get ready", "say", "put on", "pray", "turn off", "wash", "take", "tired", "cozy", "soft", "warm", "sleepy", "first", "second", "then", "finally"],
+          "pronunciation": ["/s/ in 'sleepy'", "/θ/ in 'teeth'", "Blending of spoken phonemes (e.g., /t-iːθ/ in 'teeth')"]
+        },
+        "pragmatic": ["Following instructions about personal routines: 'Go to bed.'", "Describing routines: 'I put on my pajama.'", "Expressing readiness: 'I'm ready to sleep now.'"],
+        "sociolinguistic": ["Sharing personal routines politely (e.g., 'I brush my teeth and say goodnight to my family.')"]
+      },
+      "assessment_ideas": [
+        "Review bedtime routine charts with sequencing words.",
+        "Observe storytelling about evening routines.",
+        "Assess digital routine timelines for correct sequencing and vocabulary."
+      ]
+    }
+  ]
+}

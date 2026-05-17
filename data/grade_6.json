@@ -1,0 +1,334 @@
+{
+  "grade": "6",
+  "proficiency_level": "A2.1",
+  "scenarios": [
+    {
+      "scenario_number": 1,
+      "title": "Our Community News",
+      "themes": ["Reporting From the School!", "Our Community Is Famous For..."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize the main ideas of longer conversational exchanges.",
+          "interactive": "Respond to questions about requesting information."
+        },
+        "reading": {
+          "reading1": "Identify specific information from fictional short texts.",
+          "reading2": "Identify the sequence of events in simple stories."
+        },
+        "speaking": {
+          "productive": "Describe past events using simple past forms.",
+          "interactive": "Ask and answer questions about community events."
+        },
+        "writing": {
+          "productive": "Write short news-style paragraphs with basic structure.",
+          "interactive": "Collaborate to draft headlines and captions for a class newsletter."
+        },
+        "mediation": {
+          "text": "Simplify event flyers for peers, highlighting key details with visuals.",
+          "concept": "Use diagrams to explain concepts to peers."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Simple past (e.g., 'We visited the park.')", "Wh-questions (e.g., 'What happened at the fair?')", "There was/were (e.g., 'There were many people.')"],
+          "vocabulary": ["news", "report", "event", "community", "famous", "celebration", "interview", "headline", "article", "photo", "write", "describe", "happen", "attend", "see", "tell", "local", "important", "exciting", "popular", "last week", "yesterday", "then", "after that", "finally"],
+          "pronunciation": ["/d/ in 'reported'", "/t/ in 'visited'"]
+        },
+        "pragmatic": ["Reporting news: 'Last week, our school had a fair.'", "Asking for details: 'What happened at the parade?'"],
+        "sociolinguistic": ["Respectful reporting: Using neutral and factual language when sharing community news."]
+      },
+      "assessment_ideas": [
+        "Observe student participation in mock interviews about school events.",
+        "Review school or community news articles with clear sequence and past tense.",
+        "Assess simplified flyers with key details and visuals."
+      ]
+    },
+    {
+      "scenario_number": 2,
+      "title": "Keeping Our Communities Clean",
+      "themes": ["We Should Clean the Classroom on Friday.", "Who Will Bring the Cleaning Supplies?"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify specific details in spoken announcements.",
+          "interactive": "Interpret audio clips from class lessons to support class discussions."
+        },
+        "reading": {
+          "reading1": "Follow written instructions for community-based tasks.",
+          "reading2": "Identify main ideas in short informational texts about community actions."
+        },
+        "speaking": {
+          "productive": "Give instructions using imperatives and modals.",
+          "interactive": "Participate in group discussions on community actions."
+        },
+        "writing": {
+          "productive": "Write a simple interpretation of common texts with visual aids.",
+          "interactive": "Facilitate a group project discussion by writing prompts and showing visuals."
+        },
+        "mediation": {
+          "text": "Simplify complex instructions for classmates.",
+          "communication": "Use visual aids and simple phrases to clarify project instructions for peers."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Imperatives (e.g., 'Bring a trash bag.')", "Modals (e.g., 'We should organize the desks.')", "Future with 'will' (e.g., 'I will clean the windows.')"],
+          "vocabulary": ["clean", "trash", "recycle", "supply", "bag", "broom", "mop", "organize", "community", "classroom", "task", "responsibility", "help", "suggest", "plan", "bring", "need", "should", "must", "will", "Friday", "next week", "after school"],
+          "pronunciation": ["/k/ in 'clean'", "/s/ in 'supplies'"]
+        },
+        "pragmatic": ["Making suggestions: 'We should clean the desks.'", "Assigning tasks: 'You will sweep the floor.'"],
+        "sociolinguistic": ["Participating in group discussions on community actions."]
+      },
+      "assessment_ideas": [
+        "Review community clean-up plans with imperatives and modals.",
+        "Observe poster presentations promoting school clean-up day.",
+        "Assess use of visual aids to clarify instructions during group tasks."
+      ]
+    },
+    {
+      "scenario_number": 3,
+      "title": "Our Local Library",
+      "themes": ["Let's Find a Book!", "How Do I Use the Library?"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Understand basic information in library-related announcements.",
+          "interactive": "Ask follow-up questions about library procedures."
+        },
+        "reading": {
+          "reading1": "Locate specific information in library catalogs or signs.",
+          "reading2": "Follow step-by-step instructions for using library resources."
+        },
+        "speaking": {
+          "productive": "Describe library resources and their uses.",
+          "interactive": "Give directions inside the library."
+        },
+        "writing": {
+          "productive": "Write short instructions for using a library resource.",
+          "interactive": "Create labels or signs for a simulated library corner."
+        },
+        "mediation": {
+          "text": "Explain how to use library resources.",
+          "concept": "Use diagrams to explain library systems (e.g., book categories)."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["How to + verb (e.g., 'How to find a book')", "Prepositions of place (e.g., 'The shelf is next to the desk.')", "Can for ability (e.g., 'You can borrow three books.')"],
+          "vocabulary": ["library", "book", "shelf", "catalog", "borrow", "return", "due date", "quiet", "read", "study", "computer", "magazine", "newspaper", "fiction", "nonfiction", "author", "title", "call number", "librarian", "sign", "map", "section"],
+          "pronunciation": ["/l/ in 'library'", "/b/ in 'borrow'"]
+        },
+        "pragmatic": ["Asking for help: 'Where can I find books about animals?'", "Giving directions: 'The fiction section is on the left.'"],
+        "sociolinguistic": ["Following library norms: Using quiet tones and polite expressions."]
+      },
+      "assessment_ideas": [
+        "Observe library scavenger hunt participation.",
+        "Review library resource guides with clear steps.",
+        "Assess digital library maps with labeled sections."
+      ]
+    },
+    {
+      "scenario_number": 4,
+      "title": "Our Classroom News",
+      "themes": ["I Will Write the Article About Our School Trip.", "We Need Pictures for the Classroom Newsletter."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow multi-step instructions for collaborative writing tasks.",
+          "interactive": "Clarify meanings during peer editing sessions."
+        },
+        "reading": {
+          "reading1": "Identify main ideas and supporting details in class-written texts.",
+          "reading2": "Edit peers’ writing for coherence and basic grammar."
+        },
+        "speaking": {
+          "productive": "Present news orally with clear sequencing.",
+          "interactive": "Collaborate on writing roles (writer, editor, presenter)."
+        },
+        "writing": {
+          "productive": "Write short news-style paragraphs about class events.",
+          "interactive": "Collaborate to create a classroom newsletter."
+        },
+        "mediation": {
+          "communication": "Assist peers in organizing ideas for writing.",
+          "text": "Summarize classmates’ ideas in simplified notes."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Future with 'will' (e.g., 'I will write the article.')", "Past simple for events (e.g., 'We visited the museum.')", "Present continuous for current actions (e.g., 'We are editing the photos.')"],
+          "vocabulary": ["article", "newsletter", "headline", "photo", "caption", "trip", "event", "write", "edit", "publish", "share", "present", "team", "role", "responsibility", "draft", "final", "picture", "story", "report"],
+          "pronunciation": ["/w/ in 'will'", "/t/ in 'trip'"]
+        },
+        "pragmatic": ["Assigning writing roles: 'You will take photos.'", "Reporting events: 'Last Tuesday, we went to the zoo.'"],
+        "sociolinguistic": ["Collaborating respectfully in team writing tasks."]
+      },
+      "assessment_ideas": [
+        "Review classroom newsletters with clear headlines and photos.",
+        "Observe script performances of school event reports.",
+        "Assess peer feedback during editing sessions."
+      ]
+    },
+    {
+      "scenario_number": 5,
+      "title": "Our Amazing Community",
+      "themes": ["This Is My Amazing Community.", "This School Has Been Here a Long Time!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Determine the gist of simple stories or reports related to familiar subjects.",
+          "interactive": "Ask questions to clarify understanding of local history."
+        },
+        "reading": {
+          "reading1": "Identify key facts in short texts about community history.",
+          "reading2": "Compare past and present descriptions in informational texts."
+        },
+        "speaking": {
+          "productive": "Describe places using comparatives and superlatives.",
+          "interactive": "Share personal connections to community landmarks."
+        },
+        "writing": {
+          "productive": "Write short descriptive paragraphs about local places.",
+          "interactive": "Contribute to a collaborative community brochure."
+        },
+        "mediation": {
+          "concept": "Link historical events to current community features.",
+          "communication": "Explain why a place is important using personal and historical reasons."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Comparatives and superlatives (e.g., 'This school is older than that one.')", "Present perfect for experiences (e.g., 'This school has been here for 50 years.')", "There is/are (e.g., 'There is a park near my house.')"],
+          "vocabulary": ["community", "school", "park", "church", "market", "history", "old", "new", "famous", "important", "building", "landmark", "century", "years ago", "since", "for", "amazing", "beautiful", "historic", "local", "proud"],
+          "pronunciation": ["/θ/ in 'think'", "/h/ in 'history'"]
+        },
+        "pragmatic": ["Describing places: 'This park is the most beautiful in town.'", "Expressing pride: 'I’m proud of my school.'"],
+        "sociolinguistic": ["Showing respect for community heritage and diversity."]
+      },
+      "assessment_ideas": [
+        "Review community brochures with descriptions and historical facts.",
+        "Observe presentations about local landmarks.",
+        "Assess use of comparatives in written descriptions."
+      ]
+    },
+    {
+      "scenario_number": 6,
+      "title": "Our Weather Report",
+      "themes": ["Today's Weather Will Be Sunny with Some Rain Later.", "How Will the Weather Change Tomorrow?"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify specific details in spoken announcements.",
+          "interactive": "Predict outcomes based on weather information."
+        },
+        "reading": {
+          "reading1": "Interpret weather symbols and short forecasts.",
+          "reading2": "Extract specific data from weather charts."
+        },
+        "speaking": {
+          "productive": "Describe current and future weather conditions.",
+          "interactive": "Give recommendations based on weather (e.g., 'Bring an umbrella.')."
+        },
+        "writing": {
+          "productive": "Write short weather forecasts using future tense.",
+          "interactive": "Create a class weather log with daily entries."
+        },
+        "mediation": {
+          "concept": "Summarize weather-related concepts for classmates by combining words and diagrams.",
+          "text": "Simplify weather forecasts using visuals and key words."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Future with 'will' (e.g., 'It will rain tomorrow.')", "Going to for predictions (e.g., 'It’s going to be sunny.')", "Modal 'should' for advice (e.g., 'You should wear a jacket.')"],
+          "vocabulary": ["sunny", "rainy", "cloudy", "windy", "storm", "forecast", "temperature", "degree", "hot", "cold", "warm", "cool", "umbrella", "jacket", "boots", "weather", "change", "later", "tomorrow", "next week", "prediction"],
+          "pronunciation": ["/w/ in 'weather'", "/r/ in 'rainy'"]
+        },
+        "pragmatic": ["Making predictions: 'It’s going to be cloudy.'", "Giving advice: 'You should take your raincoat.'"],
+        "sociolinguistic": ["Using weather language to plan and care for others."]
+      },
+      "assessment_ideas": [
+        "Observe weather report presentations with forecasts and advice.",
+        "Review digital weather logs with daily predictions.",
+        "Assess use of diagrams (e.g., water cycle) to explain weather concepts."
+      ]
+    },
+    {
+      "scenario_number": 7,
+      "title": "Our Changing Forests",
+      "themes": ["We Must Protect Our Trees.", "Recycling Helps Our Planet."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Understand main ideas in environmental talks.",
+          "interactive": "Discuss solutions to simple environmental problems."
+        },
+        "reading": {
+          "reading1": "Identify cause-and-effect relationships in short environmental texts.",
+          "reading2": "Follow instructions for eco-friendly actions."
+        },
+        "speaking": {
+          "productive": "Explain simple environmental actions using modals.",
+          "interactive": "Debate simple eco-choices with peers."
+        },
+        "writing": {
+          "productive": "Write short persuasive messages about conservation.",
+          "interactive": "Create recycling instructions for the school."
+        },
+        "mediation": {
+          "text": "Simplify recycling instructions using symbols and short phrases.",
+          "concept": "Use visuals to explain why forests are important."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Modals for obligation and advice (e.g., 'We must protect trees.', 'You should recycle.')", "Present simple for facts (e.g., 'Trees give us oxygen.')", "Imperatives for instructions (e.g., 'Separate your trash.')"],
+          "vocabulary": ["forest", "tree", "recycle", "planet", "earth", "oxygen", "trash", "plastic", "paper", "protect", "save", "help", "environment", "green", "clean", "pollution", "waste", "bin", "compost", "reuse", "reduce"],
+          "pronunciation": ["/p/ in 'protect'", "/r/ in 'recycle'"]
+        },
+        "pragmatic": ["Persuading: 'We must stop cutting trees.'", "Instructing: 'Put paper in the blue bin.'"],
+        "sociolinguistic": ["Discussing environmental responsibility as a community value."]
+      },
+      "assessment_ideas": [
+        "Review recycling campaign posters with clear instructions.",
+        "Observe debates on eco-actions (e.g., 'Should we use plastic bags?').",
+        "Assess simplified recycling guides with symbols and modals."
+      ]
+    },
+    {
+      "scenario_number": 8,
+      "title": "The Talents Around Us",
+      "themes": ["Who Will Perform in the Fiestas Patrias Activities?", "I Will Play the Drums in the Parade."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify specific details in narratives that include expressions of feelings and attitudes.",
+          "interactive": "Recognize the main ideas of the conversation when interacting in group discussions."
+        },
+        "reading": {
+          "reading1": "Understand simple event programs or performance schedules.",
+          "reading2": "Identify roles and responsibilities in group activity descriptions."
+        },
+        "speaking": {
+          "productive": "Describe personal talents and future plans for events.",
+          "interactive": "Invite others to participate in community performances."
+        },
+        "writing": {
+          "productive": "Write short event invitations or performance descriptions.",
+          "interactive": "Collaborate on a program for a school or community event."
+        },
+        "mediation": {
+          "communication": "Explain roles in a performance to peers using gestures and simple terms.",
+          "text": "Summarize event details for absent classmates."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Future with 'will' (e.g., 'I will play the drums.')", "Can for ability (e.g., 'She can dance very well.')", "Wh-questions (e.g., 'Who will sing in the parade?')"],
+          "vocabulary": ["talent", "perform", "drum", "dance", "sing", "parade", "celebration", "fiestas patrias", "music", "costume", "stage", "audience", "practice", "rehearse", "invite", "participate", "proud", "excited", "traditional", "role", "event"],
+          "pronunciation": ["/d/ in 'drums'", "/p/ in 'parade'"]
+        },
+        "pragmatic": ["Expressing plans: 'I will play the drums.'", "Inviting: 'Will you join the parade?'"],
+        "sociolinguistic": ["Celebrating cultural events with respect and enthusiasm."]
+      },
+      "assessment_ideas": [
+        "Review event programs with clear roles and schedules.",
+        "Observe talent showcase presentations.",
+        "Assess invitations with future tense and polite language."
+      ]
+    }
+  ]
+}

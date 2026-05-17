@@ -1,0 +1,350 @@
+{
+  "grade": "5",
+  "proficiency_level": "A1.3",
+  "scenarios": [
+    {
+      "scenario_number": 1,
+      "title": "Following Instructions at School",
+      "themes": ["First, I Cut the Paper.", "Let's Make a Poster!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow clear instructions in learning activities.",
+          "interactive": "Execute multi-step directions in learning activities."
+        },
+        "reading": {
+          "reading": "Show comprehension of written instructions for classroom activities.",
+          "reading2": "Demonstrate comprehension of basic descriptions in texts.",
+          "phonemic_awareness": "Decode English graphemes and phonemes using knowledge of word parts, syllabification, and phonemic awareness."
+        },
+        "speaking": {
+          "productive": "Talk about simple rules and laws.",
+          "interactive": "Answer questions about their daily routine."
+        },
+        "writing": {
+          "productive": "Write thank-you cards.",
+          "interactive": "Respond to written questions about a class reading assignment."
+        },
+        "mediation": {
+          "text": "Contextualize simple school announcements according to local needs.",
+          "text2": "Simplify textbook content for peers."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Plural of the imperatives (e.g., 'Let's make a poster.')", "Sequencing words (e.g., 'first, next')", "Future tense (e.g., 'I will make a mask.', 'I am going to make a mask.')"],
+          "vocabulary": ["paper", "scissors", "glue", "pencil", "poster", "classroom", "teacher", "project", "mask", "art", "decoration", "card", "crayon", "paint", "cardboard", "fabric", "string", "bead", "flowchart"],
+          "pronunciation": ["/p/ in 'poster'", "/s/ in 'scissors'"],
+          "phonemic_awareness": "Recognition of compound words and syllable division (e.g., 'classroom', 'class-room', two syllables)"
+        },
+        "pragmatic": ["Asking for clarification: 'What do I need to do next?'", "Communicating future intentions: 'I will make a hat!'"],
+        "sociolinguistic": ["Collaborating: Using imperatives and 'let's' for group activities."]
+      },
+      "assessment_ideas": [
+        "Observe student responses during 'Where Am I?' map activities.",
+        "Review digital map tours with 'I'm at...' labels.",
+        "Assess use of contractions and prepositions in location drawings."
+      ]
+    },
+    {
+      "scenario_number": 2,
+      "title": "Taking Care of Our Class",
+      "themes": ["We Are Sweeping the Floors.", "Let's Arrange the Chairs."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify specific information in announcements or recordings.",
+          "interactive": "Ask for repetition and clarification in a conversation about known topics."
+        },
+        "reading": {
+          "reading": "Extract specific information from short informational texts.",
+          "reading2": "Demonstrate comprehension of basic descriptions in texts.",
+          "phonemic_awareness": "Decode English graphemes and phonemes using knowledge of word parts, syllabification, and phonemic awareness."
+        },
+        "speaking": {
+          "productive": "Give simple directions within the school.",
+          "interactive": "Participate in short conversations about familiar topics."
+        },
+        "writing": {
+          "productive": "Create short descriptions of favorite characters from books.",
+          "interactive": "Draft questions for guest speakers, including imaginary 'guests' or 'characters' of relevance."
+        },
+        "mediation": {
+          "text": "Explain simple written instructions to peers.",
+          "communication": "Facilitate discussions on classroom topics among peers."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Present continuous (e.g., 'We are sweeping.')", "Imperatives (e.g., 'Sweep.', 'Let's sweep.')", "Modal 'can' in affirmative and interrogative form (e.g., 'I can sweep the floor.', 'Can you help me wipe down the desks?')"],
+          "vocabulary": ["whiteboard", "window", "door", "trash can", "dustpan", "mop", "sponge", "bucket", "cloth", "cleaner", "cleaning supplies"],
+          "pronunciation": ["/r/ in 'arrange'", "/s/ in 'supply'"],
+          "phonemic_awareness": "Recognition of compound words and syllable division (e.g., 'whiteboard', 'white-board', two syllables)"
+        },
+        "pragmatic": ["Offering help: 'Can I help you sweep?'", "Giving instructions: 'Please arrange the chairs.'"],
+        "sociolinguistic": ["Collaborating in class: Using 'please' to maintain politeness in interactions when giving instructions, fostering inclusion and solidarity."]
+      },
+      "assessment_ideas": [
+        "Observe participation in polite request role-plays.",
+        "Review collaborative dialogues with 'Can I...' and 'Sorry, I can't...'.",
+        "Assess use of polite expressions in digital posters."
+      ]
+    },
+    {
+      "scenario_number": 3,
+      "title": "The Local Farm Stand",
+      "themes": ["I Need Two Papayas, Please.", "How Much Are the Bananas?"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify specific information in announcements or recordings.",
+          "interactive": "Engage in simple discussions on lessons or current events."
+        },
+        "reading": {
+          "reading": "Comprehend short narratives about familiar experiences.",
+          "reading2": "Extract specific information from texts on familiar topics.",
+          "phonemic_awareness": "Decode English graphemes and phonemes using knowledge of word parts, syllabification, and phonemic awareness."
+        },
+        "speaking": {
+          "productive": "Talk about people or things using simple language.",
+          "interactive": "Role-play simple social interactions."
+        },
+        "writing": {
+          "productive": "Create basic informational leaflets for the event.",
+          "interactive": "Write simple group summaries of chapters read in class."
+        },
+        "mediation": {
+          "communication": "Assist peers in following multi-step school procedures.",
+          "concept": "Explain the steps to solve a problem using practical examples."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Polite requests (e.g., 'Can you help me, please?')", "WH-questions (e.g., 'How much is...?')", "'Some' and 'any' with countable/non-countable nouns (e.g., 'Do you have any apples?', 'I would like some water.')"],
+          "vocabulary": ["mango", "pineapple", "guava", "tomato", "pepper", "lettuce", "papaya", "banana", "fruit", "farm", "egg", "cheese", "bread", "vegetable", "milk", "sugar", "salt", "water", "market", "cashier", "price"],
+          "pronunciation": ["/p/ in 'papaya'", "/b/ in 'banana'"],
+          "phonemic_awareness": "Segmenting words in syllables (e.g., 'banana' to 'ba-na-na' has three syllables)"
+        },
+        "pragmatic": ["Asking about prices: 'How much is this?'", "Asking about availability: 'Do you have any...?'", "Describing availability: 'We have some...', 'I don't have any...'"],
+        "sociolinguistic": ["Discussing prices: Using polite expressions and transactional language at a farm stand."]
+      },
+      "assessment_ideas": [
+        "Observe participation in shopping role-plays.",
+        "Review farm stand price lists with quantities and prices.",
+        "Assess digital shopping lists with pictures and quantities."
+      ]
+    },
+    {
+      "scenario_number": 4,
+      "title": "Helping Around the House",
+      "themes": ["I Wash the Dishes Every day.", "We All Do Chores."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Demonstrate comprehension of the main points of extended discussions on familiar topics.",
+          "interactive": "Engage in role-plays based on familiar social situations."
+        },
+        "reading": {
+          "reading": "Identify main ideas on familiar topics in simple paragraphs.",
+          "reading2": "Illustrate main ideas from readings.",
+          "phonemic_awareness": "Decode English graphemes and phonemes using knowledge of word parts, syllabification, and phonemic awareness."
+        },
+        "speaking": {
+          "productive": "Describe favorite hobbies or activities briefly.",
+          "interactive": "Exchange information about hobbies with peers."
+        },
+        "writing": {
+          "productive": "Develop short poems or rhymes.",
+          "interactive": "Summarize feedback from peer reviews."
+        },
+        "mediation": {
+          "text": "Simplify textbook content for peers.",
+          "concept": "Use visual aids to explain basic concepts."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Present simple (e.g., 'I wash.', 'He washes.', 'I don't like to wash the dishes.')", "WH-questions (e.g., 'What do you do at home?', 'How often do you clean?')", "Frequency adverbs (e.g., every day)"],
+          "vocabulary": ["dishes", "house", "chores", "broom", "floor", "kitchen", "family", "task", "table", "plant", "laundry", "sheets", "clothes", "bathroom", "bedroom", "living room", "porch"],
+          "pronunciation": ["/w/ in 'wash'", "/s/ in 'sweep'"],
+          "phonemic_awareness": "Recognition of closed and open syllables (e.g., closed syllable: 'cook', open syllable: 'do')"
+        },
+        "pragmatic": ["Asking about chores: 'What do you do at home?'", "Sharing experiences: 'I help my mom.'"],
+        "sociolinguistic": ["Discussing routines: Describing daily tasks and house chores according to context."]
+      },
+      "assessment_ideas": [
+        "Review chore scheduling apps with routines and frequencies.",
+        "Observe family chore posters with present simple tense.",
+        "Assess chore murals with drawings and descriptions."
+      ]
+    },
+    {
+      "scenario_number": 5,
+      "title": "Time for Exercise",
+      "themes": ["I Like Walking in the Afternoon.", "We Can Swim."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Comprehend the gist of short stories and news items.",
+          "interactive": "Engage in simple discussions on lessons or current events."
+        },
+        "reading": {
+          "reading": "Respond to texts with personal reflections.",
+          "reading2": "Participate in group discussions based on reading assignments.",
+          "phonemic_awareness": "Decode English graphemes and phonemes using knowledge of word parts, syllabification, and phonemic awareness."
+        },
+        "speaking": {
+          "productive": "Talk about people or things using simple language.",
+          "interactive": "Discuss homework assignments with peers."
+        },
+        "writing": {
+          "productive": "Compose messages to invite peers to a performance, event, or activity.",
+          "interactive": "Exchange messages, letters, or texts with classmates or peers."
+        },
+        "mediation": {
+          "communication": "Facilitate discussions on classroom topics among peers.",
+          "concept": "Connect historical events discussed in class to real-life examples."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Modal verbs (e.g., can, cannot)", "Present simple questions and affirmative sentences (e.g., 'Do you like sports?', 'Yes, I do. I ride my bike every day.')", "WH-question + answer + subject + verb + ing (e.g., 'What type of exercise do you like?', 'I like swimming.')"],
+          "vocabulary": ["walk", "exercise", "afternoon", "gym", "sport", "activity", "friend", "football", "swimming", "running", "hiking", "dancing", "cycling", "horseback riding"],
+          "pronunciation": ["/k/ in 'can'", "/s/ in 'swim'"],
+          "phonemic_awareness": "Segmenting multisyllabic words (e.g., 'wellness' as 'well-ness' and 'exciting' as 'ex-cit-ing')"
+        },
+        "pragmatic": ["Asking about preferences: 'Do you like to swim?'", "Expressing preferences: 'I like swimming.'"],
+        "sociolinguistic": ["Encouraging others: Suggesting group activities to encourage and support peers."]
+      },
+      "assessment_ideas": [
+        "Review fitness routine guides with modal verbs.",
+        "Observe exercise plan posters with present simple tense.",
+        "Assess virtual exercise challenge videos with descriptions."
+      ]
+    },
+    {
+      "scenario_number": 6,
+      "title": "Recycling for Our World",
+      "themes": ["We Recycle Plastic Bottles Every Day.", "Composting Is Easy."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Demonstrate comprehension of the main points of extended discussions on familiar topics.",
+          "interactive": "Ask for repetition and clarification in a conversation about known topics."
+        },
+        "reading": {
+          "reading": "Comprehend short narratives about familiar experiences.",
+          "reading2": "Identify themes in simple stories.",
+          "phonemic_awareness": "Decode English graphemes and phonemes using knowledge of word parts, syllabification, and phonemic awareness."
+        },
+        "speaking": {
+          "productive": "Give a simple report based on a chart.",
+          "interactive": "Exchange information about places."
+        },
+        "writing": {
+          "productive": "Write short reports on classroom experiments or projects.",
+          "interactive": "Write phrases or sentences for a group story or project with support or guidance."
+        },
+        "mediation": {
+          "communication": "Assist peers in following multi-step school procedures.",
+          "concept": "Explain the steps to solve a problem using practical examples."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Present simple (e.g., 'We recycle.')", "Modal verbs can/could (e.g., 'Could you clarify that please?', 'We can recycle paper in the school.')", "There is/there are (e.g., 'There is a recycling center in the community.')"],
+          "vocabulary": ["plastic", "bottles", "compost", "recycling", "trash", "environment", "waste", "program", "food scraps", "bin", "bag", "recycling center"],
+          "pronunciation": ["/r/ in 'recycle'", "/s/ in 'sustainability'"],
+          "phonemic_awareness": "Segmenting multisyllabic words into syllables (e.g., dividing 'environment' into 'en-vi-ron-ment')"
+        },
+        "pragmatic": ["Asking questions about recycling: 'What can we recycle?'", "Giving reasons: 'We recycle to help the planet.'"],
+        "sociolinguistic": ["Discussing environmental actions: discussing taking care of the environment."]
+      },
+      "assessment_ideas": [
+        "Review recycling station posters with present simple tense and modals.",
+        "Observe recycling data charts with frequency adverbs.",
+        "Assess recycling campaign videos with sustainability actions."
+      ]
+    },
+    {
+      "scenario_number": 7,
+      "title": "Conservation Morning, Noon, and Night!",
+      "themes": ["Let's Get Cool in the Shade.", "Turn Off the Lights, Please."],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Comprehend the gist of short stories and news items.",
+          "interactive": "Contribute actively to group projects and discussions."
+        },
+        "reading": {
+          "reading": "Respond to texts with personal reflections.",
+          "reading2": "Participate in group discussions based on reading assignments.",
+          "phonemic_awareness": "Decode English graphemes and phonemes using knowledge of word parts, syllabification, and phonemic awareness."
+        },
+        "speaking": {
+          "productive": "Describe preferences and experiences.",
+          "interactive": "Express likes and dislikes in group discussions."
+        },
+        "writing": {
+          "productive": "Write instructions for playing a simple classroom game.",
+          "interactive": "Write instructions for peers about how to improve their writing products."
+        },
+        "mediation": {
+          "communication": "Assist peers in following multi-step school procedures.",
+          "communication2": "Relay key points from the teacher's lectures to absent students."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Imperatives (e.g., 'Turn off the lights when not in use.', 'Let's save energy.')", "Comparatives (e.g., 'easier than')", "Superlatives (e.g., 'the most important')"],
+          "vocabulary": ["shade", "light", "morning", "night", "water", "energy", "environment", "time", "electricity", "solar power", "bulbs", "faucet"],
+          "pronunciation": ["/sh/ in 'shade'", "/t/ in 'turn off'"],
+          "phonemic_awareness": "Introducing simple prefixes and suffixes (e.g., '-re' in 'recycle', '-er' in 'safer')"
+        },
+        "pragmatic": ["Giving and following suggested actions: 'Use natural light when possible.', 'Turn off appliances when they are not needed.'", "Expressing preferences: 'I prefer saving energy wherever possible because it is beneficial and better for the environment.'"],
+        "sociolinguistic": ["Comparing actions: Using comparatives and superlatives to discuss conservation."]
+      },
+      "assessment_ideas": [
+        "Review daily conservation logs with imperative forms.",
+        "Observe conservation vs. recycling posters with comparatives.",
+        "Assess energy saving challenge results with comparative descriptions."
+      ]
+    },
+    {
+      "scenario_number": 8,
+      "title": "Planning Meals for My Family",
+      "themes": ["Fruits and Vegetables Are Good for You.", "Panama Has Delicious Food!"],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow narratives involving familiar contexts.",
+          "interactive": "Respond to questions on familiar and routine matters."
+        },
+        "reading": {
+          "reading": "Respond to texts with personal reflections.",
+          "reading2": "Create simple questions based on reading materials.",
+          "phonemic_awareness": "Decode English graphemes and phonemes using knowledge of word parts, syllabification, and phonemic awareness."
+        },
+        "speaking": {
+          "productive": "Describe a family or school event they are looking forward to.",
+          "interactive": "Exchange ideas about planning an event."
+        },
+        "writing": {
+          "productive": "Write short personal narratives about weekend activities.",
+          "interactive": "Edit simple written work from peers for grammar and spelling collaboratively."
+        },
+        "mediation": {
+          "concept": "Use visual aids to explain basic concepts.",
+          "concept2": "Connect historical events discussed in class to real-life examples."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": ["Present simple (e.g., 'Fruits and vegetables are delicious and healthy.')", "Modal verbs (e.g., 'can')", "Countable/uncountable nouns (e.g., 'some rice')"],
+          "vocabulary": ["breakfast", "lunch", "dinner", "snack", "rice", "beans", "bread", "water", "juice", "mangos", "watermelon", "tomatoes", "lettuce", "fruits", "vegetables", "meal", "bowl", "cup", "fork", "knife", "spoon"],
+          "pronunciation": ["/v/ in 'vegetables'", "/f/ in 'fruit'"],
+          "phonemic_awareness": "Introducing simple prefixes and suffixes (-un 'uncountable', -ing 'cooking')"
+        },
+        "pragmatic": ["Asking about food preferences: 'What do you like to eat?'", "Sharing meal ideas: 'We can cook pasta.'"],
+        "sociolinguistic": ["Describing food preferences and quantities: Using countable/uncountable nouns to talk about meals."]
+      },
+      "assessment_ideas": [
+        "Review healthy meal plans with quantifiers and modals.",
+        "Observe digital recipe books with present simple tense.",
+        "Assess nutrition posters with food benefits and descriptions."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,813 @@
+{
+  "project_type": "combined",
+  "grade": "k",
+  "proficiency_level": "A1.0",
+  "projects_by_scenario": {
+    "Hold Up Ten Fingers!": [
+      {
+        "id": "k_scenario3_project1",
+        "name": "Counting Book",
+        "type": "official",
+        "category": "Math & Literacy",
+        "overview": "Children will make a counting book, draw objects (e.g., '10 pencils'), and match them with numbers from one to ten.",
+        "general_objective": "Develop numeracy and literacy integration through book creation.",
+        "specific_objectives": [
+          "Count objects 1-10",
+          "Create number-object pairs",
+          "Assemble counting book"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.2.4",
+          "CE.ING.K.3.4"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Blank book pages",
+          "Number stamps/stickers",
+          "Drawing materials",
+          "Binding materials"
+        ],
+        "technology_integration": "Use a counting app to reinforce counting and number recognition."
+      },
+      {
+        "id": "k_scenario3_project2",
+        "name": "Count & Sort Activity",
+        "type": "official",
+        "category": "Math Manipulatives",
+        "overview": "Students count and sort classroom items (e.g., 'five books') and use simple sentences to describe the items.",
+        "general_objective": "Develop counting, sorting, and descriptive language skills.",
+        "specific_objectives": [
+          "Count objects accurately",
+          "Sort by quantity or type",
+          "Describe quantities in sentences"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.1.4",
+          "CE.ING.K.2.5"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Counting manipulatives",
+          "Sorting trays",
+          "Number cards",
+          "Sentence strips"
+        ],
+        "technology_integration": "Create digital version of counting and sorting activity."
+      },
+      {
+        "id": "k_scenario3_project3",
+        "name": "Digital Counting App",
+        "type": "official",
+        "category": "Digital Math",
+        "overview": "Use a counting app or interactive game to practice counting objects and associating numbers.",
+        "general_objective": "Develop technology skills and number association.",
+        "specific_objectives": [
+          "Navigate counting app",
+          "Complete counting activities",
+          "Associate numbers with quantities"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.4.1",
+          "CE.ING.K.4.5"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Tablets",
+          "Counting apps",
+          "Headphones"
+        ],
+        "technology_integration": "Use interactive counting games and apps."
+      },
+      {
+        "id": "sequencing_chart",
+        "name": "Sequencing chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_rules_poster",
+        "name": "Class rules poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "movement_routine",
+        "name": "Movement routine",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      },
+      {
+        "id": "sound_collage",
+        "name": "Sound collage",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      }
+    ],
+    "I Like School!": [
+      {
+        "id": "k_scenario8_project1",
+        "name": "My Favorite Things Collage",
+        "type": "official",
+        "category": "Art & Self-Expression",
+        "overview": "Students will use words and pictures to create a collage of things they like about school (e.g., 'I like games.' 'I like math.').",
+        "general_objective": "Develop self-expression and school appreciation.",
+        "specific_objectives": [
+          "Identify school preferences",
+          "Create visual preference collage",
+          "Express likes in simple sentences"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.2.9",
+          "CE.ING.K.3.11"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Collage materials",
+          "School pictures",
+          "Sentence strips",
+          "Glue"
+        ],
+        "technology_integration": "Use photo-editing or collage-making app for digital version."
+      },
+      {
+        "id": "k_scenario8_project2",
+        "name": "Likes & Dislikes Chart",
+        "type": "official",
+        "category": "Data Collection",
+        "overview": "Create a chart with columns for 'likes' and 'dislikes' and have students add items they like or dislike (e.g., 'I like books.' 'I don't like books.').",
+        "general_objective": "Develop data organization and preference expression.",
+        "specific_objectives": [
+          "Categorize likes and dislikes",
+          "Contribute to class chart",
+          "Use like/don't like structures"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.1.9",
+          "CE.ING.K.3.12"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Chart paper",
+          "Sticky notes",
+          "Picture cards",
+          "Markers"
+        ],
+        "technology_integration": "Create digital likes/dislikes chart."
+      },
+      {
+        "id": "k_scenario8_project3",
+        "name": "Digital Favorite Things Poster",
+        "type": "official",
+        "category": "Digital Media",
+        "overview": "Take pictures and use a presentation tool to make a digital collage.",
+        "general_objective": "Develop digital creation skills and self-expression.",
+        "specific_objectives": [
+          "Take photos of favorite things",
+          "Create digital poster",
+          "Present digital creation"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.4.6",
+          "CE.ING.K.4.10"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Tablets/cameras",
+          "Presentation software",
+          "Printer (optional)",
+          "Display device"
+        ],
+        "technology_integration": "Create and present digital favorite things poster."
+      },
+      {
+        "id": "sequencing_chart",
+        "name": "Sequencing chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_rules_poster",
+        "name": "Class rules poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "movement_routine",
+        "name": "Movement routine",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      },
+      {
+        "id": "sound_collage",
+        "name": "Sound collage",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      }
+    ],
+    "I'm Happy": [
+      {
+        "id": "k_scenario7_project1",
+        "name": "Emotion Faces Chart",
+        "type": "official",
+        "category": "Emotional Intelligence",
+        "overview": "Students will create an 'emotion faces' chart with drawings and labels that show different emotions (e.g., 'happy' 'excited').",
+        "general_objective": "Develop emotional vocabulary and self-expression.",
+        "specific_objectives": [
+          "Identify different emotions",
+          "Create visual emotion representations",
+          "Label emotions accurately"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.2.8",
+          "CE.ING.K.3.9"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Chart paper",
+          "Face templates",
+          "Emotion word cards",
+          "Drawing materials"
+        ],
+        "technology_integration": "Use a drawing app or tablet to create emotion faces."
+      },
+      {
+        "id": "k_scenario7_project2",
+        "name": "Feelings Bingo",
+        "type": "official",
+        "category": "Social Games",
+        "overview": "Create a bingo game with different feelings (e.g., 'happy' or 'tired') and play a matching game based on classmates' feelings.",
+        "general_objective": "Develop social awareness and emotion recognition.",
+        "specific_objectives": [
+          "Recognize emotions in others",
+          "Play emotion matching game",
+          "Use emotion vocabulary in context"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.1.8",
+          "CE.ING.K.3.10"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Bingo cards",
+          "Emotion pictures",
+          "Markers",
+          "Calling cards"
+        ],
+        "technology_integration": "Create digital emotion bingo game."
+      },
+      {
+        "id": "k_scenario7_project3",
+        "name": "Digital Emotion Wheel",
+        "type": "official",
+        "category": "Digital Tools",
+        "overview": "Use a digital tool to create an emotion wheel, labeling different feelings and practicing words like 'I'm excited!'",
+        "general_objective": "Develop digital skills and emotional vocabulary.",
+        "specific_objectives": [
+          "Create digital emotion wheel",
+          "Label emotions accurately",
+          "Use emotion wheel for self-expression"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.4.5",
+          "CE.ING.K.4.9"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Tablets/computers",
+          "Wheel creation app",
+          "Emotion images",
+          "Labels"
+        ],
+        "technology_integration": "Create interactive digital emotion wheel."
+      }
+    ],
+    "I'm Happy.": [
+      {
+        "id": "sequencing_chart",
+        "name": "Sequencing chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_rules_poster",
+        "name": "Class rules poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "movement_routine",
+        "name": "Movement routine",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      },
+      {
+        "id": "sound_collage",
+        "name": "Sound collage",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      }
+    ],
+    "It's a School Day!": [
+      {
+        "id": "k_scenario1_project1",
+        "name": "Classroom Rules Poster",
+        "type": "official",
+        "category": "Classroom Rules & Visual Arts",
+        "overview": "Children will create a poster with visual representations of classroom rules and commands (e.g., 'Stand up.' 'Sit down.').",
+        "general_objective": "Develop understanding of classroom expectations through visual creation.",
+        "specific_objectives": [
+          "Identify basic classroom commands",
+          "Create visual representations of rules",
+          "Present poster to classmates"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.1.1",
+          "CE.ING.K.2.1"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Poster paper",
+          "Markers",
+          "Rule pictures",
+          "Glue"
+        ],
+        "technology_integration": "Use a digital drawing tool or tablet to illustrate commands and actions."
+      },
+      {
+        "id": "k_scenario1_project2",
+        "name": "Command Simon Says Game",
+        "type": "official",
+        "category": "Games & Physical Response",
+        "overview": "Play a Simon Says game, using classroom commands (e.g., 'Simon says, sit down') to practice imperative sentences.",
+        "general_objective": "Develop listening skills and physical response to commands.",
+        "specific_objectives": [
+          "Follow verbal commands accurately",
+          "Take turns being leader",
+          "Use commands in game context"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.1.2",
+          "CE.ING.K.3.1"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Space for movement",
+          "Command cards",
+          "Game instructions"
+        ],
+        "technology_integration": "Record game sessions for review and analysis."
+      },
+      {
+        "id": "k_scenario1_project3",
+        "name": "Command Action Video",
+        "type": "official",
+        "category": "Video Production",
+        "overview": "Record a video where children demonstrate the commands 'Stand up.' and 'Sit down.'.",
+        "general_objective": "Develop performance skills and command vocabulary through media.",
+        "specific_objectives": [
+          "Demonstrate commands clearly",
+          "Participate in video recording",
+          "Watch and evaluate performance"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.4.1",
+          "CE.ING.K.4.2"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Video camera",
+          "Background setup",
+          "Command prompts"
+        ],
+        "technology_integration": "Record and edit command demonstration videos."
+      },
+      {
+        "id": "sequencing_chart",
+        "name": "Sequencing chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_rules_poster",
+        "name": "Class rules poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "movement_routine",
+        "name": "Movement routine",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      },
+      {
+        "id": "sound_collage",
+        "name": "Sound collage",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      }
+    ],
+    "Let's Dance!": [
+      {
+        "id": "k_scenario6_project1",
+        "name": "Dance Sequence Video",
+        "type": "official",
+        "category": "Physical Education & Media",
+        "overview": "Children will create a simple dance routine following instructions like 'one step in, two steps out' and record a video.",
+        "general_objective": "Develop physical coordination and following instructions through dance.",
+        "specific_objectives": [
+          "Follow dance instructions",
+          "Learn simple dance sequence",
+          "Participate in video recording"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.1.7",
+          "CE.ING.K.3.7"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Space for dancing",
+          "Dance instruction cards",
+          "Video camera",
+          "Music player"
+        ],
+        "technology_integration": "Use tablet to record dance routine."
+      },
+      {
+        "id": "k_scenario6_project2",
+        "name": "Dance & Count Activity",
+        "type": "official",
+        "category": "Math & Movement",
+        "overview": "Students will practice counting and dance movements together (e.g., 'Take three steps forward.').",
+        "general_objective": "Integrate math and physical movement through dance.",
+        "specific_objectives": [
+          "Count movements accurately",
+          "Follow numbered dance steps",
+          "Coordinate counting with movement"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.2.7",
+          "CE.ING.K.3.8"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Number cards",
+          "Dance space",
+          "Counting prompts",
+          "Music"
+        ],
+        "technology_integration": "Use metronome or counting app for rhythm."
+      },
+      {
+        "id": "k_scenario6_project3",
+        "name": "Digital Dance Video",
+        "type": "official",
+        "category": "Video Production",
+        "overview": "Record and edit a short dance video using dance instructions learned in class.",
+        "general_objective": "Develop media production skills and dance performance.",
+        "specific_objectives": [
+          "Record dance performance",
+          "Edit video with simple tools",
+          "Share video with others"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.4.4",
+          "CE.ING.K.4.8"
+        ],
+        "duration": "2-3 sessions",
+        "materials": [
+          "Video recording equipment",
+          "Editing software",
+          "Background/setup",
+          "Music"
+        ],
+        "technology_integration": "Record and edit dance video using tablet apps."
+      },
+      {
+        "id": "sequencing_chart",
+        "name": "Sequencing chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_rules_poster",
+        "name": "Class rules poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "movement_routine",
+        "name": "Movement routine",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      },
+      {
+        "id": "sound_collage",
+        "name": "Sound collage",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      }
+    ],
+    "Our Routines": [
+      {
+        "id": "k_scenario2_project1",
+        "name": "Routine Chart",
+        "type": "official",
+        "category": "Visual Scheduling",
+        "overview": "Students will create a daily routine chart, labeling each activity with words like 'First, I sit down.' and 'Pick it up.'",
+        "general_objective": "Develop understanding of daily sequences and routine vocabulary.",
+        "specific_objectives": [
+          "Identify daily routine activities",
+          "Create visual sequence chart",
+          "Use sequencing words appropriately"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.2.2",
+          "CE.ING.K.3.2"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Chart paper",
+          "Routine pictures",
+          "Sequencing words",
+          "Markers"
+        ],
+        "technology_integration": "Use a simple app to create a digital version of the routine chart."
+      },
+      {
+        "id": "k_scenario2_project2",
+        "name": "Routine Role Play",
+        "type": "official",
+        "category": "Dramatic Play",
+        "overview": "Students act out daily classroom routines, such as sitting, standing, and cleaning up, while practicing sequencing words.",
+        "general_objective": "Develop oral language and sequencing through dramatic play.",
+        "specific_objectives": [
+          "Act out routine sequences",
+          "Use sequencing vocabulary",
+          "Collaborate in role-play scenarios"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.1.3",
+          "CE.ING.K.3.3"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Props for routines",
+          "Sequence cards",
+          "Role-play area setup"
+        ],
+        "technology_integration": "Record role-play for sequencing analysis."
+      },
+      {
+        "id": "k_scenario2_project3",
+        "name": "Digital Routine Timeline",
+        "type": "official",
+        "category": "Digital Timeline",
+        "overview": "Create a digital timeline of daily routines, using simple images and commands.",
+        "general_objective": "Develop digital skills and timeline understanding.",
+        "specific_objectives": [
+          "Create digital timeline",
+          "Organize routine events chronologically",
+          "Add images and labels to timeline"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.4.3",
+          "CE.ING.K.4.4"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Tablets/computers",
+          "Timeline software",
+          "Routine images"
+        ],
+        "technology_integration": "Use timeline creation apps or software."
+      },
+      {
+        "id": "sequencing_chart",
+        "name": "Sequencing chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_rules_poster",
+        "name": "Class rules poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "movement_routine",
+        "name": "Movement routine",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      },
+      {
+        "id": "sound_collage",
+        "name": "Sound collage",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      }
+    ],
+    "What's That Sound?": [
+      {
+        "id": "k_scenario5_project1",
+        "name": "Animal Sound Guessing Game",
+        "type": "official",
+        "category": "Auditory Games",
+        "overview": "Children will play a game where they guess animals, based on their sounds, and match them with pictures of animals.",
+        "general_objective": "Develop auditory discrimination and animal vocabulary.",
+        "specific_objectives": [
+          "Identify animals by sound",
+          "Match sounds to correct animals",
+          "Participate in guessing game"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.1.6",
+          "CE.ING.K.3.5"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Animal sound recordings",
+          "Animal pictures",
+          "Game board",
+          "Score sheets"
+        ],
+        "technology_integration": "Use tablet or computer for animal sound guessing."
+      },
+      {
+        "id": "k_scenario5_project2",
+        "name": "Sound Discovery Walk",
+        "type": "official",
+        "category": "Environmental Awareness",
+        "overview": "Take a walk around the school or playground and identify environmental sounds (e.g., 'I hear a bird.'), describing what they hear.",
+        "general_objective": "Develop environmental awareness and descriptive language.",
+        "specific_objectives": [
+          "Identify environmental sounds",
+          "Describe sounds accurately",
+          "Record sound observations"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.2.6",
+          "CE.ING.K.3.6"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Clipboards",
+          "Observation sheets",
+          "Sound identification guide",
+          "Pencils"
+        ],
+        "technology_integration": "Record environmental sounds during walk."
+      },
+      {
+        "id": "k_scenario5_project3",
+        "name": "Sound Matching Digital Game",
+        "type": "official",
+        "category": "Digital Games",
+        "overview": "Use a digital game to match animal sounds to images of animals.",
+        "general_objective": "Develop technology skills and sound recognition.",
+        "specific_objectives": [
+          "Navigate digital matching game",
+          "Match sounds to correct images",
+          "Complete game levels successfully"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.4.3",
+          "CE.ING.K.4.7"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Tablets/computers",
+          "Sound matching game",
+          "Headphones"
+        ],
+        "technology_integration": "Play interactive sound matching games."
+      }
+    ],
+    "What's that Sound?": [
+      {
+        "id": "sequencing_chart",
+        "name": "Sequencing chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_rules_poster",
+        "name": "Class rules poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "movement_routine",
+        "name": "Movement routine",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      },
+      {
+        "id": "sound_collage",
+        "name": "Sound collage",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      }
+    ],
+    "Where Is It?": [
+      {
+        "id": "k_scenario4_project1",
+        "name": "Where's My Bag?",
+        "type": "official",
+        "category": "Spatial Awareness",
+        "overview": "Students will create a classroom map, labeling the location of objects using prepositions (e.g., 'The book is on the desk.').",
+        "general_objective": "Develop spatial awareness and preposition vocabulary.",
+        "specific_objectives": [
+          "Create simple classroom map",
+          "Use prepositions correctly",
+          "Label object locations accurately"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.2.3",
+          "CE.ING.K.3.3"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Map templates",
+          "Object stickers",
+          "Preposition cards",
+          "Markers"
+        ],
+        "technology_integration": "Create digital classroom map."
+      },
+      {
+        "id": "k_scenario4_project2",
+        "name": "Preposition Scavenger Hunt",
+        "type": "official",
+        "category": "Exploration Games",
+        "overview": "Students scavenger hunt around the classroom, identifying objects and using prepositions to describe their locations.",
+        "general_objective": "Develop observation skills and preposition use in context.",
+        "specific_objectives": [
+          "Find objects based on location clues",
+          "Use prepositions to describe findings",
+          "Complete scavenger hunt tasks"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.1.5",
+          "CE.ING.K.3.4"
+        ],
+        "duration": "1-2 sessions",
+        "materials": [
+          "Scavenger hunt cards",
+          "Clipboards",
+          "Location clues",
+          "Recording sheets"
+        ],
+        "technology_integration": "Use tablets to photograph located objects."
+      },
+      {
+        "id": "k_scenario4_project3",
+        "name": "Preposition Picture Dictionary",
+        "type": "official",
+        "category": "Visual Dictionary",
+        "overview": "Students work together to act out prepositions and take a photo to show the definitions.",
+        "general_objective": "Develop understanding of prepositions through visual representation.",
+        "specific_objectives": [
+          "Demonstrate prepositions physically",
+          "Create visual preposition examples",
+          "Assemble picture dictionary"
+        ],
+        "institutional_standards": [
+          "CE.ING.K.4.2",
+          "CE.ING.K.4.6"
+        ],
+        "duration": "2 sessions",
+        "materials": [
+          "Camera",
+          "Props for demonstrations",
+          "Dictionary templates",
+          "Printing capability"
+        ],
+        "technology_integration": "Share pictures from the preposition picture dictionary via projector."
+      },
+      {
+        "id": "sequencing_chart",
+        "name": "Sequencing chart",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "class_rules_poster",
+        "name": "Class rules poster",
+        "type": "complementary",
+        "category": "School & Academic"
+      },
+      {
+        "id": "movement_routine",
+        "name": "Movement routine",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      },
+      {
+        "id": "sound_collage",
+        "name": "Sound collage",
+        "type": "complementary",
+        "category": "Creative / Cultural"
+      }
+    ]
+  }
+}
